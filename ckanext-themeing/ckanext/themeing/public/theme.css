@@ -100,6 +100,8 @@ body {
 .site-footer label,
 .site-footer small {
   color: rgba(255, 255, 255, 0.6);
+  padding: 20px 0;
+  font-size: 18px;
 }
 /* The link texts in the footer. */
 .site-footer a {
