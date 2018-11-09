@@ -55,6 +55,12 @@
    The content in the middle of the front page
    =========================================== */
 
+.hero {
+    background: url("../../../base/images/ODPcover.jpg");
+    background-size:cover;     
+    background-repeat:no-repeat;
+  }
+
 /* Remove the "box shadow" effect around various boxes on the page. */
 .box {
   box-shadow: none;
