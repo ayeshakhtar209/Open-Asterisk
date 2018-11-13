@@ -113,3 +113,26 @@ body {
 .site-footer a {
   color: rgba(255, 255, 255, 0.6);
 }
+
+
+        .region-promo {
+            border: 1px solid #E9E8ED;
+            padding: 15px;
+            font-size: 16px;
+            text-align: center;
+            margin: 20px 0;
+            background: #FDFDFD;
+        }
+        ul{text-align: center;}
+        ul li{
+            list-style-type: none;
+            vertical-align:top;
+            display: inline-block;
+            padding: 30px;
+        }
+        ul li a img{
+            width: 110px;
+        }
+        ul li a{
+            text-decoration: none; 
+        }
