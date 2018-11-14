@@ -114,4 +114,30 @@ body {
   color: rgba(255, 255, 255, 0.6);
   padding: 10px;
   font-size: 14px;
-}       
+}      
+
+/* ====================================
+   Categories
+   ==================================== */
+.region-promo {
+            border: 1px solid #E9E8ED;
+            padding: 15px;
+            font-size: 16px;
+            text-align: center;
+            margin: 20px 0;
+            background: #FDFDFD;
+        }
+
+.categories-group {text-align: center;}
+.categories-group li{
+            list-style-type: none;
+            vertical-align:top;
+            display: inline-block;
+            padding: 30px;
+        }
+.categories-group li a img{
+            width: 110px;
+        }
+.categories-group li a{
+            text-decoration: none; 
+        }
