@@ -99,40 +99,19 @@
 
 .site-footer,
 body {
-  background-color: rgb(40, 40, 40);
+  background-color: rgb(40, 40, 40)
+
 }
 /* The text in the footer. */
 .site-footer,
 .site-footer label,
 .site-footer small {
   color: rgba(255, 255, 255, 0.6);
-  padding: 20px 0;
-  font-size: 18px;
+  padding: 10px;
 }
 /* The link texts in the footer. */
 .site-footer a {
   color: rgba(255, 255, 255, 0.6);
-}
-
-
-        .region-promo {
-            border: 1px solid #E9E8ED;
-            padding: 15px;
-            font-size: 16px;
-            text-align: center;
-            margin: 20px 0;
-            background: #FDFDFD;
-        }
-        ul{text-align: center;}
-        ul li{
-            list-style-type: none;
-            vertical-align:top;
-            display: inline-block;
-            padding: 30px;
-        }
-        ul li a img{
-            width: 110px;
-        }
-        ul li a{
-            text-decoration: none; 
-        }
+  padding: 10px;
+  font-size: 14px;
+}       
