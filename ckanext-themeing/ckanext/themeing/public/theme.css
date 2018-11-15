@@ -141,3 +141,7 @@ body {
 .categories-group li a{
             text-decoration: none; 
         }
+.categories-group li a img:hover {
+            -webkit-filter:invert(100%);
+            filter:invert(100%);
+        }
