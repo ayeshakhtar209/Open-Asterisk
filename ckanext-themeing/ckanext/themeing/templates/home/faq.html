@@ -1,0 +1,161 @@
+{% extends "page.html" %}
+{% block subtitle %}{{ _('FAQ') }}{% endblock %}
+
+{% block breadcrumb_content %}
+    <li class="active"><a href="#">{{ _('FAQ') }}</a></li>
+{% endblock %}
+
+{% block secondary_content %}
+    <section class="module module-narrow module-shallow">
+        <h2 class="module-heading"><i class="icon-medium icon-info-sign"></i></h2>
+        <div class="module-content">
+                <p>Here you find answers to frequently asked questions about open government data and Open Asterisk. If you cannot find the answer to your question, please <a href="https://opendata.swiss/en/contact/">contact</a> us</p>
+        </div>
+    </section>
+{% endblock %}
+
+{% block primary_content %}
+	<article class="module">
+	    <div class="module-content">
+        	<h2>{{ _('Frequently Asked Questions') }}</h2>
+                                <ol>
+                                    <li><a href="#what-is-opendata-swiss">What is Open Asterisk?</a></li>
+                                    <li><a href="#who-is-involved">Who is involved in Open Asterisk?</a></li>
+                                    <li><a href="#what-is-the-purpose">What is the purpose of Open Asterisk?</a></li>
+                                    <li><a href="#portal-and-existing-infrastructures">How does Open Asteriskss relate to existing specialist data infrastructures? What is the benefit of having an additional portal?</a></li>
+                                    <li><a href="#contact">How can I contact Open Asterisk?</a></li>
+                                </ol>
+                                
+                                <p><strong><a href="#data">Data on opendata.swiss</a></strong></p>
+                                <ol start="6">
+                                    <li><a href="#terms-of-use">What conditions govern use of the data?</a></li>
+                                    <li><a href="#how-can-i-find-out-about-new-data">How can I find out about new data?</a></li>
+                                    <li><a href="#publication-of-further-data">How can I propose the publication of further data?</a></li>
+                                    <li><a href="#publish-data-from-my-organisation">Can I publish data from my organisation on Open Asterisk?</a></li>
+                                </ol>
+                                
+                                <p><strong><a href="#general-questions-on-ogd">General questions on open government data (OGD)</a></strong></p>
+                                <ol start="13">
+                                    <li><a href="#what-is-open-government-data">What is open government data?</a></li>
+                                    <li><a href="#more-information-about-ogd">Where can I find more information about OGD?</a></li>
+                                    <li><a href="#data-protection">Does open government data ensure data protection?</a></li>
+                                    <li><a href="#what-is-an-api">What is an API? What are WMS and WFS and how do I use them?</a></li>
+                                    <li><a href="#discuss-ideas">Is there a place for developers, designers and other interested parties to discuss ideas, applications and the development of OGD?</a></li>
+                                </ol>
+                                
+                                <p><a name="portal"></a></p>
+                                <h2>Open Asterisk</h2>
+                                
+                                <p><a name="what-is-opendata-swiss"></a></p>
+                                <h3>1. What is Open Asterisk?</h3>
+                                <p>Open Asterisk offers a central point of access to open, i.e. freely accessible data from the public administration (“open government data”, or OGD). The authorities involved make their data available on the portal. It is operated by the <a href="https://www.bar.admin.ch/bar/en/home.html">Federal Archives</a>. You can find more information <a href="https://opendata.swiss/en/about/">here</a>.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="who-is-involved"></a></p>
+                                <h3>2. Who is involved in Open Asterisk?</h3>
+                                <p>An overview of the organisations responsible for the portal can be found <a href="https://opendata.swiss/en/about/">here</a>. These organisations are working together as part of the OGD Switzerland project. All the data owners are listed under <a href="http://opendata.swiss/en/organization">organisations</a>. Open Asterisk is operated by the <a href="https://www.bar.admin.ch/bar/en/home.html">Federal Archives</a>.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="what-is-the-purpose"></a></p>
+                                <h3>3. What is the purpose of Open Asterisk?</h3>
+                                <p>In 2014 the Federal Council approved the <a href="http://www.egovernment.ch/umsetzung/00881/00883/index.html?lang=en&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCDdYF_fWym162epYbg2c_JjKbNoKSn6A--">Open Government Data Strategy for Switzerland 2014-2018</a>. It stipulates that “Official data should be published without undue delay and be findable and made accessible via a central directory.” opendata.swiss creates this central directory. It facilitates access to the data and, thanks to the use of open data formats and uniform conditions of use, encourages its exploitation.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="portal-and-existing-infrastructures"></a></p>
+                                <h3>4. How does Open Asterisk relate to existing specialist data infrastructures? What is the benefit of having an additional portal?</h3>
+                                <p>The opendata.swiss solution architecture provides <strong>central</strong> public access to the project partners’ data to complement the existing specialist data infrastructures of the data owners (e.g. <a href="http://www.geo.admin.ch" target="_blank">geo.admin.ch</a> and <a href="http://www.bfs.admin.ch" target="_blank">bfs.admin.ch</a>) via which the latter already provide access to their data and will continue to do so. The portal makes it possible for the first time to search for data from the project partners in a single catalogue rather than having to access a number of sites, as was previously the case. In addition, the data on opendata.swiss are all made available with the same metadata and subject to uniform conditions of use. This reduces the effort involved in searching for data and also facilitates comparisons or combinations of different data.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="contact"></a></p>
+                                <h3>5. How can I contact Open Asterisk?</h3>
+                                <p>Questions about the portal or the OGD Switzerland project can be submitted using the <a href="https://opendata.swiss/en/contact/">contact form</a>. If you have questions regarding a particular dataset, please contact the author indicated in the dataset.</p>
+                                <p><a href="#top">^ Top of page</a></p>
+                                
+                                <p><a name="data"></a></p>
+                                <h2>Data on Open Asterisk</h2>
+                                
+                                <p><a name="terms-of-use"></a></p>
+                                <h3>6. What conditions govern use of the data?</h3>
+                                <p>The terms of use for datasets on Open Asterisk are essentially based on the existing legal framework. The symbols next to each dataset indicate what use is permitted. All data owners use the same symbols. This <a href="https://opendata.swiss/en/terms-of-use/">page</a> explains the various terms of use.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="how-can-i-find-out-about-new-data"></a></p>
+                                <h3>7. How can I find out about new data?</h3>
+                                <p>The Federal Archives announce new data on their <a href="https://twitter.com/CH_Bundesarchiv">Twitter account</a> using the hashtag #ogdch.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="publication-of-further-data"></a></p>
+                                <h3>8. How can I propose the publication of further data?</h3>
+                                <p>We welcome suggestions for the publication of further datasets on Open Asterisk. Please use the <a href="https://opendata.swiss/en/contact/">contact form</a>. We will collate your requests and establish with the data owner whether publication is possible.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="publish-data-from-my-organisation"></a></p>
+                                <h3>9. Can I publish data from my organisation on Open Asterisk?</h3>
+                                <p>The Confederation, cantons and communes as well as other organisations with a mandate from the state can normally publish their data on Open Asterisk. Please feel free to <a href="https://opendata.swiss/en/contact/">contact us</a>. Detailed information on publishing your data can be found in the <a href="http://handbook.opendata.swiss">OGD Handbook</a>.</p>
+                                <p><a href="#top">^ Top of page</a></p>
+                                
+                                <p><a name="applications"></a></p>
+                                <h2>Applications on Open Asterisk</h2>
+                                <p><a name="publisth-applications"></a></p>
+                                <h3>10. Can I publish my applications on Open Asterisk?</h3>
+                                <p>Yes, the project partners provide links to a selection of <a href="http://opendata.swiss/en/app">applications</a> on opendata.swiss. If you have developed an application using data from the portal, you are welcome to submit it for publication using the <a href="https://opendata.swiss/en/contact/">contact form</a>.</p>
+                                <p><a href="#top">^ Top of page</a></p>
+                                
+                                <p><a name="general-questions-on-ogd"></a></p>
+                                <h2>General questions on open government data (OGD)</h2>
+                                
+                                <p><a name="what-is-open-government-data"></a></p>
+                                <h3>13. What is open government data?</h3>
+                                <p>The term “open government data” refers to data from public authorities that is available for secondary use by all interested parties, free of charge and ideally in machine-readable form. On opendata.swiss you can find a wide range of datasets such as Swiss communal boundaries, population statistics, current weather data, historical documents and a directory of Swiss literature. Often the data are made available as complete datasets which users can then display, edit or combine to create applications and visual representations that reveal new interrelationships using existing data.</p>
+                                <p>The concept of open government data is already widespread in Europe, while in Switzerland only the City of Zurich and the Confederation so far have a dedicated portal for their data, in the form of opendata.swiss.</p>
+                                <p>Examples of existing data portals:</p>
+                                    <ul>
+                                        <li>Europe: <a href="https://open-data.europa.eu">open-data.europa.eu</a></li>
+                                        <li>UK: <a href="http://data.gov.uk/">data.gov.uk</a></li>
+                                        <li>Germany: <a href="https://www.govdata.de/">govdata.de</a></li>
+                                        <li>Austria: <a href="http://www.data.gv.at">data.gv.at</a></li>
+                                        <li>Zurich: <a href="https://data.stadt-zuerich.ch/">data.stadt-zuerich.ch</a></li>
+                                        <li>Berlin: <a href="http://daten.berlin.de/">daten.berlin.de</a></li>
+                                        <li>US: <a href="http://www.data.gov">data.gov</a></li>
+                                    </ul>
+                                
+                                <p>Examples of applications created using OGD:</p>
+                                    <ul>
+                                        <li><a href="https://www.wohnungsrechner.ch/">Wohnungsrechner</a></li>
+                                        <li><a href="http://www.walkonomics.com/">Walkonomics</a></li>
+                                        <li><a href="http://parkendd.de/index.html">ParkenDD</a></li>
+                                        <li><a href="http://www.kigafinder.at/index.php?id=136#!/home">Kigafinder</a></li>
+                                        <li><a href="http://bikes.oobrien.com/london/">Bike </a><a href="http://bikes.oobrien.com/london/">Share</a> <a href="http://bikes.oobrien.com/london/">Map</a><a href="http://bikes.oobrien.com/london/">: London</a></li>
+                                    </ul>
+                                <p><a href="#top">^ Top of page</a><br />
+                                
+                                <a name="more-information-about-ogd"></a></p>
+                                <h3>14. Where can I find more information about OGD?</h3>
+                                    <ul>
+                                        <li>Detailed information about OGD is supplied by the internationally recognised <a href="http://okfn.org/">Open Knowledge Foundation</a>. The Swiss section of the Open Knowledge Foundation is the association <a href="http://www.opendata.ch">opendata.ch</a>, which organises events for OGD users and interested parties and represents the interests of the OGD community.</li>
+                                        <li>For Switzerland, in 2012 the Bern University of Applied Sciences published the <a href="http://www.wirtschaft.bfh.ch/de/forschung/aktuell/newsdetails/article/studie-zu-open-government-data-in-der-schweiz/1100.html">Open Government Data Study Switzerland</a> (in German). This examines the basis for the introduction of OGD in Switzerland and formulates specific recommendations for decision-makers in the fields of politics, business and administration.</li>
+                                        <li>A number of studies have examined the value added by open data. See for example the <a href="http://ec.europa.eu/newsroom/document.cfm?doc_id=1093">review by Graham Vicker
+                                        y</a>. Other studies include “<a href="https://www.google.ch/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiT7eiU0uLJAhWKvhQKHeCXA_UQFggpMAE&amp;url=https%3A%2F%2Fwww.technologiestiftung-berlin.de%2Ffileadmin%2Fdaten%2Fmedia%2Fpublikationen%2F140201_Studie_Digitales_Gold_Open_Data.pdf&amp;usg=AFQjCNEr3i0F__sHsgPkJ7-4wtrdVpaB2w">Digitales Gold: Nutzung und Wertschöpfung durch Open Data für Berlin</a>” and “<a href="https://www.google.ch/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0ahUKEwiLteS60uLJAhWFtRQKHbwBBzMQFggzMAI&amp;url=https%3A%2F%2Fwww.mckinsey.com%2F~%2Fmedia%2Fmckinsey%2Fdotcom%2Finsights%2Fpublic%2520sector%2Fhow%2520government%2520can%2520promote%2520open%2520data%2Fhow_govt_can_promote_open_data_and_help_unleash_over_%243_trillion_in_economic_value.ashx&amp;usg=AFQjCNHXqmzqWcbrz_nsQM3AOcrNMPqaCA">How government can promote open data and help unleash over $3 trillion in economic value</a>”. In Switzerland, Adelheid Bürgi-Schmelz has compiled a <a href="http://www.egovernment.ch/umsetzung/00881/00883/01114/index.html?lang=de&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDdYF2fmym162epYbg2c_JjKbNoKSn6A--">study</a> (in German) of the economic impact of open government data.</li>
+                                        <li>The <a href="http://www.egovernment.ch/umsetzung/00881/00883/index.html?lang=en&amp;download=NHzLpZeg7t,lnp6I0NTU042l2Z6ln1ad1IZn4Z2qZpnO2Yuq2Z6gpJCDdYF_fWym162epYbg2c_JjKbNoKSn6A--">Open Government Data Strategy for Switzerland</a> provides information on the Confederation’s approach to this area. A number of projects are also being assessed and, in some cases, already conducted at cantonal (e.g. <a href="http://www.e-gov.zh.ch/internet/staatskanzlei/egov/de/online_angebote/opendata_aufbauphase.html">Canton of Zurich</a>, <a href="http://ge.ch/sitg/donnees/demarche-open-data">Canton of Geneva</a>) and communal level (e.g. City of Zurich, City of Bern).</li>
+                                    </ul>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="data-protection"></a></p>
+                                <h3>15. Does open government data ensure data protection?</h3>
+                                <p>OGD does not normally publish any personal data; the datasets are aggregated and anonymised. They may not be published in a form that permits them to be traced back to individuals. This is a prerequisite for making such data freely accessible – a goal that is explicitly set out in the <a href="https://www.egovernment.ch/index.php/download_file/force/761/3631/">OGD Strategy for Switzerland</a> (section 5.2, page 9).</p>
+                                <p>Personal data are only published on opendata.swiss if there is a legal basis for publication. Additionally, all datasets must comply with the provisions of the Federal Data Protection Act. Further details can be found in the <a href="https://opendata.swiss/en/legal-framework/">legal notice</a>.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                    
+                                <a name="what-is-an-api"></a></p>
+                                <h3>16. What is an API? What are WMS and WFS and how do I use them?</h3>
+                                <p>An API (application programming interface) is used to integrate data directly into an application. For example, Web Map Services (WMS) and Web Feature Services (WFS) can beused to integrate geodata into applications and display them there as maps.</p>
+                                <p>Using these services requires some experience of data processing. Detailed <a href="http://api3.geo.admin.ch/">documentation on integration using API</a> can be found on geo.admin.ch, the Confederation’s geographical information portal. The WMS and WFS services on opendata.swiss are shown as links. Clicking on the link only displays an XML representation of the service in the portal. To actually use the service, you must integrate the link into your own application.</p>
+                                <p><a href="#top">^ Top of page</a><br />
+                                <a name="discuss-ideas"></a></p>
+                                
+                                <h3>17. Is there a place for developers, designers and other interested parties to discuss ideas, applications and the development of OGD?</h3>
+                                <p>In Switzerland, the association <a href="http://opendata.ch/">opendata.ch</a> campaigns for the publication of data from the public authorities. To promote the use of these data, the association stages <a href="https://opendata.ch/events/">events</a>, at which anyone interested in OGD can work on actual projects involving data from the authorities.</p>
+                                <p><a href="#top">^ Top of page</a></p>
+                        </div>
+                </article>
+{% endblock %}
