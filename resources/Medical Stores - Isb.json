@@ -1,0 +1,3248 @@
+{
+  "data" : [ {
+    "Address" : "Plot No 15, St. No 17, Korang Town Extension-I",
+    "Latitude" : 33.5782014,
+    "Longitude" : 73.1393861,
+    "MapAddress" : "Korang Town Rawalpindi, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Trade Leaders"
+  }, {
+    "Address" : "Office No 5, Ist Floor Rose-1 Plaza, I-8 Markaz Islamabad",
+    "Latitude" : 33.72296,
+    "Longitude" : 73.08203999999999,
+    "MapAddress" : "Ghousia Plaza, Jinnah Avenue, Blue Area, Islamabad, Pakistan, Pakistan",
+    "Name" : "Amgomed"
+  }, {
+    "Address" : "Office No 6, 3rd Floor, Al-Jannat Arcade G-11 Markaz Islamabad",
+    "Latitude" : 33.6678638,
+    "Longitude" : 72.9983249,
+    "MapAddress" : "Al-Jannat Arcade, Shabbir Sharif Road, G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Seasons Pharmaceutical Distributors"
+  }, {
+    "Address" : "Pharmacy PIMS Hospital Compound G-8/3",
+    "Latitude" : 33.70296,
+    "Longitude" : 73.04853,
+    "MapAddress" : "G-8/3 G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmax Pak (Pvt) Ltd"
+  }, {
+    "Address" : "Shop No G-8, Al-Habib Plaza, Ghouri Town, Phase-4-B",
+    "Latitude" : 33.6256889,
+    "Longitude" : 73.15325969999999,
+    "MapAddress" : "Ghouri Town Phase Phase 7 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Qamar Pharmacy"
+  }, {
+    "Address" : "Shop No 9, Al-Hameed Mall, Lower Ground Floor, G-11 Markaz Islamabad",
+    "Latitude" : 33.669971,
+    "Longitude" : 72.99943189999999,
+    "MapAddress" : "Al Hameed Mall, G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Swat Pharmacy"
+  }, {
+    "Address" : "Shaheen Town, Main Shareefabad Road, Ghouri Town, Phase-5-A",
+    "Latitude" : 33.6284214,
+    "Longitude" : 73.1391008,
+    "MapAddress" : "Ghori Town Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "A.H. Pharmacy"
+  }, {
+    "Address" : "Plot No 3, St.3, A-Block Main Soan Avenue, Soan Garden Islamabad",
+    "Latitude" : 33.5648708,
+    "Longitude" : 73.1519259,
+    "MapAddress" : "Soan Ave, Islamabad, Punjab, Pakistan",
+    "Name" : "SMDC Pharmacy"
+  }, {
+    "Address" : "Lehtrar Road, Tarlai Kalan",
+    "Latitude" : 33.6392212,
+    "Longitude" : 73.1528123,
+    "MapAddress" : "Lehtrar Road, Tarlai Kalan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Hamza Medical Store"
+  }, {
+    "Address" : "Office No 2, Ist Floor Marble Plaza, I-9 Markaz Islamabad",
+    "Latitude" : 33.6535043,
+    "Longitude" : 73.0496866,
+    "MapAddress" : "Marble Plaza, Potohar Rd, I-9 Markaz, I-9, I 9 Markaz I-9, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Medinex Distributor"
+  }, {
+    "Address" : "Fateh Jang Road, Benazir Chowk, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shafaq Pharmacy"
+  }, {
+    "Address" : "Basement Hall No 3, Al-Hameed Centre, Sector G-11 Markaz Islamabad",
+    "Latitude" : 33.6963277,
+    "Longitude" : 73.01294639999999,
+    "MapAddress" : "F-10 Markaz F 10/3 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D.Watson Pharmacy"
+  }, {
+    "Address" : "Shop No 1, 2, & 3, Awami Trade Centre, Sector G-9 Markaz Islamabad",
+    "Latitude" : 33.690286,
+    "Longitude" : 73.030647,
+    "MapAddress" : "Shop 1-3 , Awami Trade Center, G-9 Markaz, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "D.Watson Pharmacy"
+  }, {
+    "Address" : "Seeri Sarial Shah Allah Ditta Road, D-13",
+    "Latitude" : 33.6873701,
+    "Longitude" : 72.95454769999999,
+    "MapAddress" : "Shah Allah Ditta Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa health Pharmacy"
+  }, {
+    "Address" : "Plot No 2-D, Bazar No 5, Shop No 6-G, Ground Floor, G-13/3 Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Shahid Pharmacy"
+  }, {
+    "Address" : "Plot No 5-N, St. 1, Industrial Area, I-10/3 Islamabad",
+    "Latitude" : 33.6547752,
+    "Longitude" : 73.0418481,
+    "MapAddress" : "Street 1, I-10/3 I 10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "UDL Distribution Pvt Limited"
+  }, {
+    "Address" : "Main Murree Road, Opp. Col Aman Ullah Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7366837,
+    "Longitude" : 73.1744241,
+    "MapAddress" : "Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Universal Pharmacy"
+  }, {
+    "Address" : "Al-Fateh Departmental Store, Centaurs Centres Mall, Jinnah Avenue Blue Area",
+    "Latitude" : 33.7179089,
+    "Longitude" : 73.0716076,
+    "MapAddress" : "Jinnah Ave, Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Bari Pharmacy"
+  }, {
+    "Address" : "Saif Health Care, Shop No 103, Ist Floor, 2020-Kulsum Plaza, Blue Area",
+    "Latitude" : 33.71824,
+    "Longitude" : 73.07316,
+    "MapAddress" : "Block E, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "KIH Pharmacy"
+  }, {
+    "Address" : "Taj Plaza, F-8 Markaz Islamabad",
+    "Latitude" : 33.7115769,
+    "Longitude" : 73.0397898,
+    "MapAddress" : "F-8 Markaz F 8 Markaz F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bharia Pharmacy-II"
+  }, {
+    "Address" : "Friends Arcade G-13/1 Islamabad",
+    "Latitude" : 33.6439505,
+    "Longitude" : 72.9588076,
+    "MapAddress" : "G-13/1 G 13/1 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Lioyds Pharmacy"
+  }, {
+    "Address" : "City Arcade, I-8 Markaz Islamabad",
+    "Latitude" : 33.6688091,
+    "Longitude" : 73.07554449999999,
+    "MapAddress" : "City Arcade, Tipu Sultan Rd, I-8 Markaz, I-8, I 8 Markaz I-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Drug Source Pharmacy"
+  }, {
+    "Address" : "Col. Amanullah Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7449623,
+    "Longitude" : 73.1762626,
+    "MapAddress" : "Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Paradize Medical Store"
+  }, {
+    "Address" : "Ground Floor, Golra more Islamabad",
+    "Latitude" : 33.6251427,
+    "Longitude" : 72.9734166,
+    "MapAddress" : "Near Golra Morr، Peshawar Road، H-13, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Quaid-e-Azam International Hospital Pharmacy"
+  }, {
+    "Address" : "4th Floor, Golra more Islamabad",
+    "Latitude" : 33.6251427,
+    "Longitude" : 72.9734166,
+    "MapAddress" : "Near Golra Morr، Peshawar Road، H-13, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Quaid-e-Azam International Hospital Pharmacy"
+  }, {
+    "Address" : "Main Bani Gala Road",
+    "Latitude" : 33.7251474,
+    "Longitude" : 73.1649061,
+    "MapAddress" : "Korang Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hashir Pharmacy"
+  }, {
+    "Address" : "Main Bazar, Golra",
+    "Latitude" : 33.6939092,
+    "Longitude" : 72.97705909999999,
+    "MapAddress" : "Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Najeeb Medical Store"
+  }, {
+    "Address" : "G-11 Markaz Islamabad",
+    "Latitude" : 33.668435,
+    "Longitude" : 72.9970134,
+    "MapAddress" : "Shahnawaz Plaza Sachal Sarmast Road, G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Rehman Pharmacy"
+  }, {
+    "Address" : "double road G-13/1 Islamabad",
+    "Latitude" : 33.6450527,
+    "Longitude" : 72.96356920000001,
+    "MapAddress" : "Street 162, G-13/1 G 13/1 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rite Aid Pharmacy"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.699239,
+    "Longitude" : 73.0486482,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Akram Pharmacy"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.6991305,
+    "Longitude" : 73.04882529999999,
+    "MapAddress" : "G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ameer Pharmacy"
+  }, {
+    "Address" : "Ali Plaza, Bani Gala",
+    "Latitude" : 33.7092132,
+    "Longitude" : 73.1544184,
+    "MapAddress" : "Abbasi Plaza، Jinnah Rd, Bani Gala, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Pharmacy"
+  }, {
+    "Address" : "OGDCL Medical Centre, F-8 Markaz Islamabad",
+    "Latitude" : 33.71284,
+    "Longitude" : 73.03782,
+    "MapAddress" : "Park Rd, F-8 Markaz, F-8, Islamabad, ICT، Pakistan",
+    "Name" : "Shifa Pharmacy"
+  }, {
+    "Address" : "OGDCL Health Office, Blue Area",
+    "Latitude" : 33.7232097,
+    "Longitude" : 73.0797317,
+    "MapAddress" : "Jinnah Ave, F 6/1 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa Pharmacy"
+  }, {
+    "Address" : "Bharia Town, Phase-2",
+    "Latitude" : 33.5581289,
+    "Longitude" : 73.1208238,
+    "MapAddress" : "Bahria Town Phase II Phase 2 Bahria Town, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Al-Zainab Pharmacy"
+  }, {
+    "Address" : "Jhangi Syeddan, Islamabad",
+    "Latitude" : 33.618010, 
+    "Longitude" : 72.937375,
+    "MapAddress" : "Jhangi Syedan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ejaz Medical Store"
+  }, {
+    "Address" : "Islamabad.",
+    "Latitude" : 33.6901862,
+    "Longitude" : 73.03165729999999,
+    "MapAddress" : "Mehran Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Life Medical Store G-9 Markaz Islamabad"
+  }, {
+    "Address" : "Jawa Road, Rawat Islamabad",
+    "Latitude" : 33.518083,
+    "Longitude" : 73.23847889999999,
+    "MapAddress" : "S1, national industrial estate, Rawat,, Rawat Industrial Estate, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saghar Pharmacy"
+  }, {
+    "Address" : "Madina Town, Ali Pur",
+    "Latitude" : 31.4222252,
+    "Longitude" : 73.1216833,
+    "MapAddress" : "Madina Town, Faisalabad, Punjab, Pakistan",
+    "Name" : "Mian G. Medical Store"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.6992078,
+    "Longitude" : 73.0488306,
+    "MapAddress" : "Allah Dad Plaza Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Main Bazar, G.T. Road, Rawat Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shahbaz Pharmacy"
+  }, {
+    "Address" : "Golra More Islamabad",
+    "Latitude" : 33.648484,
+    "Longitude" : 73.04058429999999,
+    "MapAddress" : "I-10 Markaz I 10 Markaz I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Care Plus Pharmacy"
+  }, {
+    "Address" : "Margalla Town Islamabad",
+    "Latitude" : 33.6693282,
+    "Longitude" : 73.1061921,
+    "MapAddress" : "Margalla Town, Orchard Scheme, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Yousaf Zai Medical Store"
+  }, {
+    "Address" : "Shahzad Town Islamabad",
+    "Latitude" : 33.6725191,
+    "Longitude" : 73.140303,
+    "MapAddress" : "Shahzad Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Capital Medical Store"
+  }, {
+    "Address" : "Aabpara",
+    "Latitude" : 33.7063825,
+    "Longitude" : 73.086089,
+    "MapAddress" : "Aabpara G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zahid Medical Store"
+  }, {
+    "Address" : "Maroof International Hospital, F-10 Markaz Islamabad",
+    "Latitude" : 33.6974922,
+    "Longitude" : 73.01187420000001,
+    "MapAddress" : "F10 Markaz, 10th Avenue، F 10/3 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Maroof Pharmacy"
+  }, {
+    "Address" : "Tarlai Kalan",
+    "Latitude" : 33.6390593,
+    "Longitude" : 73.1520788,
+    "MapAddress" : "Lehtrar Rd, Dak Khana Stop, Tarlai Kalan, Tarlai Kalan, Islamabad, Islamabad Capital Territory 45550, Pakistan",
+    "Name" : "Sarfraz Pharmacy"
+  }, {
+    "Address" : "Ground Floor, Golra more Islamabad",
+    "Latitude" : 33.6251427,
+    "Longitude" : 72.9734166,
+    "MapAddress" : "Near Golra Morr، Peshawar Road، H-13, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Quaid-e-Azam International Hospital"
+  }, {
+    "Address" : "Zeeshan Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Abbasi Pharmacy"
+  }, {
+    "Address" : "G-11/2",
+    "Latitude" : 1.8667661,
+    "Longitude" : 102.9375802,
+    "MapAddress" : "11, Jalan Seluang, Taman Banang, 83000 Batu Pahat, Johor, Malaysia",
+    "Name" : "BDH Pharmacy"
+  }, {
+    "Address" : "Huma Plaza, Blue Area",
+    "Latitude" : 33.7224116,
+    "Longitude" : 73.08206249999999,
+    "MapAddress" : "21-E, Huma Plaza (opposite Polyclinic), 87 East A.K. Fazl-ul-Haq Rd, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Federal Pharmacy"
+  }, {
+    "Address" : "AN Arcade G-13/1 Islamabad",
+    "Latitude" : 33.6430633,
+    "Longitude" : 72.9524131,
+    "MapAddress" : "Street 4, G-14/4 G 14/4 G-14, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Health Pharmacy"
+  }, {
+    "Address" : "Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7368351,
+    "Longitude" : 73.1748884,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Gulzar Pharmacy"
+  }, {
+    "Address" : "Punjab Market, G-13/4",
+    "Latitude" : 33.6504847,
+    "Longitude" : 72.97124769999999,
+    "MapAddress" : "Punjab Market, St 149, G-13-4, G-13, G 13/4 G-13, Islamabad, Islamabad Capital Territory 44220, Pakistan",
+    "Name" : "Mediway Pharmacy"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.6315646,
+    "Longitude" : 72.9226649,
+    "MapAddress" : "Kazz Arcade, Jammu & Kashmir Housing Society G 15 Markaz G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kashmir Pharmacy"
+  }, {
+    "Address" : "G-7/4",
+    "Latitude" : 33.7056917,
+    "Longitude" : 73.0793568,
+    "MapAddress" : "Muhammad Mansha Yaad Rd, G-7/4 G 7/4 G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamic International Dental Hospital Medical Store"
+  }, {
+    "Address" : "I-10/3 Islamabad",
+    "Latitude" : 33.709525,
+    "Longitude" : 73.041583,
+    "MapAddress" : "Kaghan Road, F-8/3, F 8/4 F-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Drug Services"
+  }, {
+    "Address" : "Jawa Road, Rawat Islamabad",
+    "Latitude" : 33.4962757,
+    "Longitude" : 73.19340629999999,
+    "MapAddress" : "Jawa Rd, Rawat, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Ali Pharmacy"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "J. Sariya Medical Store"
+  }, {
+    "Address" : "Super Market, F-6 Markaz Islamabad",
+    "Latitude" : 33.72982,
+    "Longitude" : 73.075307,
+    "MapAddress" : "F-6 Markaz F 6 Markaz F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Medi Plus Pharmacy"
+  }, {
+    "Address" : "Near Mari Gas Building, G-10/4",
+    "Latitude" : 33.6784462,
+    "Longitude" : 73.0213414,
+    "MapAddress" : "G-10/4 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa Pharmacy"
+  }, {
+    "Address" : "Madina Market, F-8/2",
+    "Latitude" : 33.7148603,
+    "Longitude" : 73.03329529999999,
+    "MapAddress" : "Madina Market Street 22, F-8/2 F 8/2 F-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Surgical Medical Store"
+  }, {
+    "Address" : "Sector E-11/3",
+    "Latitude" : 33.70308,
+    "Longitude" : 72.97892999999999,
+    "MapAddress" : "Paris Arcade, E-11/3 Markaz, MPCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Najeeb Pharmacy"
+  }, {
+    "Address" : "Family Health Hospital, I-10/4",
+    "Latitude" : 33.64938,
+    "Longitude" : 73.04683,
+    "MapAddress" : "Street 30C, I-10/4 I 10/4 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Malik Traders Pharmacy"
+  }, {
+    "Address" : "Jinnah Arcade, Sector G-13/2",
+    "Latitude" : 33.6537971,
+    "Longitude" : 72.958174,
+    "MapAddress" : "St 37, G-13-2, G-13, G 13/2 G-13, Islamabad, Islamabad Capital Territory 44220, Pakistan",
+    "Name" : "MHK Pharmacy"
+  }, {
+    "Address" : "Aabpara Market",
+    "Latitude" : 33.7077138,
+    "Longitude" : 73.08867719999999,
+    "MapAddress" : "699 Khayaban-e-Suhrwardy, Aabpara G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bharia Pharmacy-III"
+  }, {
+    "Address" : "Golra Sharif",
+    "Latitude" : 33.6939092,
+    "Longitude" : 72.97705909999999,
+    "MapAddress" : "Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ghousia Medical Store"
+  }, {
+    "Address" : "Memorial Hospital Ali Pur Islamabad",
+    "Latitude" : 33.6453938,
+    "Longitude" : 73.1743498,
+    "MapAddress" : "Lehtrar Rd، Ali Pur, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Begum Jan Pharmacy"
+  }, {
+    "Address" : "NORI Hospital, G-8/3",
+    "Latitude" : 33.6991076,
+    "Longitude" : 73.05337639999999,
+    "MapAddress" : "Hanna Road, G-8/3، G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Noori Patients Welfare Society Pharmacy"
+  }, {
+    "Address" : "Ahmed Town, Bhara kahu Islamabad",
+    "Latitude" : 33.7396199,
+    "Longitude" : 73.17994639999999,
+    "MapAddress" : "Murree Rd, Athal Chowk, Barakahu, Bhara Kahu, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "The District Medical Store"
+  }, {
+    "Address" : "Millinum Plaza, G-15 Markaz Islamabad",
+    "Latitude" : 33.6322891,
+    "Longitude" : 72.9228021,
+    "MapAddress" : "G-15 Markaz G 15 Markaz G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shafi Pharmacy"
+  }, {
+    "Address" : "Jawa Road, Rawat Islamabad",
+    "Latitude" : 33.4963513,
+    "Longitude" : 73.193648,
+    "MapAddress" : "Ch Sabir Market, Jawa Rd, Rawat, Islamabad, Islamabad Capital Territory 45900, Pakistan",
+    "Name" : "New Makkah Medical Store"
+  }, {
+    "Address" : "Phulgran Stop, Murree Express Way",
+    "Latitude" : 33.7819338,
+    "Longitude" : 73.2597146,
+    "MapAddress" : "Rawalpindi, Punjab, Pakistan",
+    "Name" : "The Diabetes Centre Pharmacy"
+  }, {
+    "Address" : "Near Sabzi Mandi, I-11/4",
+    "Latitude" : 33.6372075,
+    "Longitude" : 73.0324567,
+    "MapAddress" : "M&P Islamabad Depot Plot # 8, I-11/4، Sabzi Mandi Rd, I 11/4 I-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Muller & Phipps Pakistan Pvt Ltd"
+  }, {
+    "Address" : "F-10 Markaz Islamabad",
+    "Latitude" : 33.6963277,
+    "Longitude" : 73.01294639999999,
+    "MapAddress" : "F-10 Markaz F 10/3 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Chemist"
+  }, {
+    "Address" : "I-8 Markaz Islamabad",
+    "Latitude" : 33.6673258,
+    "Longitude" : 73.0752199,
+    "MapAddress" : "Time Square Plaza, I-8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacons Pharmacy"
+  }, {
+    "Address" : "Fateh jang Road, Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "Rahim Medical Store"
+  }, {
+    "Address" : "Kiran Plaza, F-8 Markaz Islamabad",
+    "Latitude" : 33.7110178,
+    "Longitude" : 73.04147259999999,
+    "MapAddress" : "Kiran Plaza, Ground Floor, Plot 13-A, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Islamabad Specialist Clinic Pharmacy"
+  }, {
+    "Address" : "Hajvery Plaza, Blue Area",
+    "Latitude" : 33.7232169,
+    "Longitude" : 73.0825497,
+    "MapAddress" : "Hajveri Plaza, Shop 3, 22/B, Jinnah Ave, Block B, Blue Area, G 6/3 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Four Star Pharmacy"
+  }, {
+    "Address" : "Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.741531,
+    "Longitude" : 73.1832415,
+    "MapAddress" : "N-75, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Sector I-10/3 Islamabad",
+    "Latitude" : 33.650297,
+    "Longitude" : 73.03831,
+    "MapAddress" : "Plot # 142, Street # 09, I/10-3, I 10/3 I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "D.S. Pharma Distributor"
+  }, {
+    "Address" : "Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.741531,
+    "Longitude" : 73.1832415,
+    "MapAddress" : "N-75, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Amin Pharmacy"
+  }, {
+    "Address" : "Allah Dad, G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Waheed Pharmacy"
+  }, {
+    "Address" : "I & T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.6860674,
+    "Longitude" : 73.04511839999999,
+    "MapAddress" : "Street 55, G-9/4 G 9/4 G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Elixir Medical Store"
+  }, {
+    "Address" : "Block-7 G-6 Main Civic Centre, Melody Market",
+    "Latitude" : 33.7169396,
+    "Longitude" : 73.0851668,
+    "MapAddress" : "G-6 Markaz G 6 Markaz G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Truworth Distributor"
+  }, {
+    "Address" : "Benazir Chowk, Fateh Jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Haris Medical Store"
+  }, {
+    "Address" : "Madina Pharmacy",
+    "Latitude" : 41.1083433,
+    "Longitude" : 29.0338172,
+    "MapAddress" : "Reşitpaşa Mahallesi, ARI 2 Teknokent Binası,, İTÜ Ayazağa Kampüsü D:4, 34467 Sarıyer/İstanbul, Turkey",
+    "Name" : "Arneca International Distributor"
+  }, {
+    "Address" : "Al-Nafees Hospital, Ali Pur farash Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Omar Pharmacy"
+  }, {
+    "Address" : "61-Jinnah Avenue",
+    "Latitude" : 33.7191444,
+    "Longitude" : 73.07328559999999,
+    "MapAddress" : "Jinnah Ave, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Clinic Servicing Infertile Couples Pvt Ltd Pharmacy"
+  }, {
+    "Address" : "Shop No 5,  Pervaiz Plaza, G-6/1-1",
+    "Latitude" : 33.7091231,
+    "Longitude" : 73.0835367,
+    "MapAddress" : "16 Street 48, G-6/1 G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "BaB Medical Store"
+  }, {
+    "Address" : "Sector-J, DHA Phase-II",
+    "Latitude" : 33.5348727,
+    "Longitude" : 73.1708822,
+    "MapAddress" : "Sector G Sector J DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Yashfi Pharmacy"
+  }, {
+    "Address" : "Sector E-11/2",
+    "Latitude" : 33.6993751,
+    "Longitude" : 72.9741767,
+    "MapAddress" : "Street 43، SCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Redx Pharmacy"
+  }, {
+    "Address" : "Trammari Chowk, Tarlai",
+    "Latitude" : 33.6424851,
+    "Longitude" : 73.13363199999999,
+    "MapAddress" : "Java Rd, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anum Medical Store"
+  }, {
+    "Address" : "Gondal Plaza, Fazal-e-Haq Road Islamabad",
+    "Latitude" : 33.7091039,
+    "Longitude" : 73.05608269999999,
+    "MapAddress" : "Block I, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Talha Medical Store"
+  }, {
+    "Address" : "I-10/3 Islamabad",
+    "Latitude" : 33.6537916,
+    "Longitude" : 73.03905189999999,
+    "MapAddress" : "I-10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Premier Agencies Distributor"
+  }, {
+    "Address" : "Shaheen Market, I-10/1 Islamabad",
+    "Latitude" : 33.6432774,
+    "Longitude" : 73.0412195,
+    "MapAddress" : "Sector I-10/1 I 10/1 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Star Medical Store"
+  }, {
+    "Address" : "Dherik Mohri, Near Golra Railway Station",
+    "Latitude" : 33.6705685,
+    "Longitude" : 72.9476309,
+    "MapAddress" : "Golra Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ch. Brothers Medical Store"
+  }, {
+    "Address" : "Gondal Plaza, Blue Area",
+    "Latitude" : 33.7091039,
+    "Longitude" : 73.05608269999999,
+    "MapAddress" : "Block I, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "City Medical Store"
+  }, {
+    "Address" : "Korang Shopping Centre, Korang Islamabd",
+    "Latitude" : 33.647337, 
+    "Longitude" : 73.037523,
+    "MapAddress" : "Korang Road, I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Korang Medical Store"
+  }, {
+    "Address" : "I & T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.684839,
+    "Longitude" : 73.0428517,
+    "MapAddress" : "Nishtar Market, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Khalid Medical Store"
+  }, {
+    "Address" : "Margalla Town Islamabad",
+    "Latitude" : 33.670764,
+    "Longitude" : 73.105404,
+    "MapAddress" : "33.670764,73.105404, Pakistan",
+    "Name" : "Amin Medical Store"
+  }, {
+    "Address" : "Sharjah Centre, Sector G-10 Markaz Islamabad",
+    "Latitude" : 25.3462553,
+    "Longitude" : 55.4209317,
+    "MapAddress" : "Sharjah - United Arab Emirates",
+    "Name" : "Lifetec Distributor"
+  }, {
+    "Address" : "Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.74156960000001,
+    "Longitude" : 73.18315890000001,
+    "MapAddress" : "Murree Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Nazir Medical Store"
+  }, {
+    "Address" : "Khanna Pull",
+    "Latitude" : 33.6292743,
+    "Longitude" : 73.1134983,
+    "MapAddress" : "Khanna Pul, Khanna Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Barkah Medical Store"
+  }, {
+    "Address" : "I&T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.6856724,
+    "Longitude" : 73.0445639,
+    "MapAddress" : "Nishtar Market, Plot 21/1, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Umer Medical Store"
+  }, {
+    "Address" : "Main Blue Ward, Ghouri Town, Phase-5",
+    "Latitude" : 33.6284214,
+    "Longitude" : 73.1391008,
+    "MapAddress" : "Ghori Town Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Your’s Pharmacy"
+  }, {
+    "Address" : "Rehmat Centre, I-8 Markaz Islamabad",
+    "Latitude" : 33.66649,
+    "Longitude" : 73.07571999999999,
+    "MapAddress" : "I-8 Markaz, Tipu Sultan Rd, I-8 Markaz, I-8, Islamabad, ICT, Pakistan",
+    "Name" : "Spidel International Distributors"
+  }, {
+    "Address" : "School Road, Super Market, F-6",
+    "Latitude" : 33.729703,
+    "Longitude" : 73.0753651,
+    "MapAddress" : "School Rd, F-6 Markaz F 6 Markaz F-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Margalla Town, Phase-I",
+    "Latitude" : 33.6693282,
+    "Longitude" : 73.1061921,
+    "MapAddress" : "Margalla Town, Orchard Scheme, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "GKB Distribuor"
+  }, {
+    "Address" : "Rana Market, F-7/2",
+    "Latitude" : 33.7213293,
+    "Longitude" : 73.0515184,
+    "MapAddress" : "F-7/2 F 7/2 F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Dewash Medical Store"
+  }, {
+    "Address" : "Bhera Pull, Bhara kahu Islamabad",
+    "Latitude" : 32.4770072,
+    "Longitude" : 72.91357339999999,
+    "MapAddress" : "Bhera, Sargodha, Punjab, Pakistan",
+    "Name" : "Galyat Medical Store"
+  }, {
+    "Address" : "Sector G-12",
+    "Latitude" : 31.4522476,
+    "Longitude" : 74.3167481,
+    "MapAddress" : "Bilal Medical Store, Somi Centre Road, Sector A2 Block 4 Sector A 2 Township, Lahore, Punjab, Pakistan",
+    "Name" : "Sheraz Medical Store"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6537148,
+    "Longitude" : 73.05058489999999,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Pharmacy"
+  }, {
+    "Address" : "I-10/3 Islamabad",
+    "Latitude" : 33.6537916,
+    "Longitude" : 73.03905189999999,
+    "MapAddress" : "I-10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Vety Care (Pvt) Ltd Distributors"
+  }, {
+    "Address" : "Sitara Market, G-7 Markaz Islamabad",
+    "Latitude" : 33.705017,
+    "Longitude" : 73.06791290000001,
+    "MapAddress" : "Sitara Market، G 7 Markaz G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kazim Medical Store"
+  }, {
+    "Address" : "Jinnah Avenue Centurus Shopping Mall F-8/1 Islamabad",
+    "Latitude" : 33.7073674,
+    "Longitude" : 73.0492028,
+    "MapAddress" : "The Centaurus Mall, Jinnah Avenue, F 8/4 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Nelson Pharmacy"
+  }, {
+    "Address" : "Patiala Centre, Blue Area",
+    "Latitude" : 33.70885980000001,
+    "Longitude" : 73.0555516,
+    "MapAddress" : "Din Pavallions Plaza, Jinnah Ave, Block I, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "School Road, F-6 Super market",
+    "Latitude" : 33.72982,
+    "Longitude" : 73.075307,
+    "MapAddress" : "F-6 Markaz F 6 Markaz F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Panther Plaza, F-8 Markaz Islamabad",
+    "Latitude" : 33.711718,
+    "Longitude" : 73.0408903,
+    "MapAddress" : "Plot 16-B, Kohistan Rd, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "New Islamabad Pharmacy"
+  }, {
+    "Address" : "I & T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.68393,
+    "Longitude" : 73.04145,
+    "MapAddress" : "G-9-4, G-9, Islamabad, ICT, Pakistan",
+    "Name" : "Al-Muslim Pharmacy"
+  }, {
+    "Address" : "Golra Railway Station",
+    "Latitude" : 33.6705685,
+    "Longitude" : 72.9476309,
+    "MapAddress" : "Golra Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Adil Medical Store"
+  }, {
+    "Address" : "Tarlai Kalan",
+    "Latitude" : 33.6424851,
+    "Longitude" : 73.13363199999999,
+    "MapAddress" : "Java Rd, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Khizer Medical Store"
+  }, {
+    "Address" : "Tarlai Kalan",
+    "Latitude" : 33.6393616,
+    "Longitude" : 73.1527368,
+    "MapAddress" : "Lehtrar Rd, Dak Khana Stop, Tarlai Kalan, Tarlai Kalan, Islamabad, Islamabad Capital Territory 45550, Pakistan",
+    "Name" : "Awan Medical Store"
+  }, {
+    "Address" : "Muhammadia Plaza, Main Civic Centre, Melody Market",
+    "Latitude" : 33.7169396,
+    "Longitude" : 73.0851668,
+    "MapAddress" : "G-6 Markaz G 6 Markaz G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saif Pharmacy"
+  }, {
+    "Address" : "Raja Farman Ali Road, Khanna Dak Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Siddique Distributor"
+  }, {
+    "Address" : "Ali Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6458304,
+    "Longitude" : 73.035342,
+    "MapAddress" : "Fatima Plaza, Sohni Rd, I-10-1 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Safe Medical Store"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Danish Pharmacy"
+  }, {
+    "Address" : "Rupail Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6464374,
+    "Longitude" : 73.0367686,
+    "MapAddress" : "Mundair Palace, Korang Rd, I-10-1 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Medicare Medical Store"
+  }, {
+    "Address" : "KRL Flat, Peshawar Road, Jhangi Syedan",
+    "Latitude" : 33.6271796,
+    "Longitude" : 72.946047,
+    "MapAddress" : "Peshawar Rd, Jhangi Syedian, Jhangi Syedan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Talha Medical Store"
+  }, {
+    "Address" : "Simli Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7387187,
+    "Longitude" : 73.18576209999999,
+    "MapAddress" : "Simly Dam Road, Muslim Town Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Health Care Pharmacy"
+  }, {
+    "Address" : "Bewal Market, G-9 Markaz Islamabad",
+    "Latitude" : 33.6897639,
+    "Longitude" : 73.0332779,
+    "MapAddress" : "Bewal Market, Block 24, Mangla Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Adnan Medical Store"
+  }, {
+    "Address" : "Burma Town, Near Khanna Dak Islamabad",
+    "Latitude" : 33.6351713,
+    "Longitude" : 73.1325853,
+    "MapAddress" : "Lehtrar Road, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Makkah Pharmacy"
+  }, {
+    "Address" : "Akber Hospital Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Akber Medical Store"
+  }, {
+    "Address" : "FGH, Chak Shahzad",
+    "Latitude" : 33.6616936,
+    "Longitude" : 73.14381159999999,
+    "MapAddress" : "Chak Shahzad, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Salah Fair Price Pharmacy"
+  }, {
+    "Address" : "NIH Market, Chak Shahzad",
+    "Latitude" : 33.6616936,
+    "Longitude" : 73.14381159999999,
+    "MapAddress" : "Chak Shahzad, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Waleed Medical Store"
+  }, {
+    "Address" : "Khyber Plaza, Blue Area",
+    "Latitude" : 33.70884,
+    "Longitude" : 73.05583,
+    "MapAddress" : "AK Fazal-ul-Haq Rd, Block I, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Delight Medical Store"
+  }, {
+    "Address" : "Ground Floor, Rajgan, T. Chowk, Rawat Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Imperative Life Care Services"
+  }, {
+    "Address" : "Sngjani",
+    "Latitude" : 33.6746148,
+    "Longitude" : 72.8482247,
+    "MapAddress" : "Sangjani, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zeeshan Medical Store"
+  }, {
+    "Address" : "Mushtaq Mansion, Blue Area",
+    "Latitude" : 33.7211874,
+    "Longitude" : 73.07974039999999,
+    "MapAddress" : "Mushtaq Mansion Service Road,، A.K.M. Fazl-ul-Haq Road, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Habib Pharmacy"
+  }, {
+    "Address" : "I-10/3 Islamabad",
+    "Latitude" : 33.6562966,
+    "Longitude" : 73.03726429999999,
+    "MapAddress" : "I-10/3 I 10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Gohar & Company (Pvt) Ltd"
+  }, {
+    "Address" : "Railway Crossing Tarnol",
+    "Latitude" : 33.6856724,
+    "Longitude" : 73.0445639,
+    "MapAddress" : "Nishtar Market, Plot 21/1, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Umer Medical Store"
+  }, {
+    "Address" : "I-10/2",
+    "Latitude" : 33.6502212,
+    "Longitude" : 73.0323787,
+    "MapAddress" : "Rajput Market, St 1, I-10-2, I-10, I 10/2 I-10, Islamabad, Islamabad Capital Territory 46000, Pakistan",
+    "Name" : "Al-Fateh Medical Store"
+  }, {
+    "Address" : "I-10/3 Islamabad",
+    "Latitude" : 33.6546268,
+    "Longitude" : 73.0389541,
+    "MapAddress" : "Street 3, Polt 31, Sector I-10 /3، I 10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Novartis Pharmacy Pakistan"
+  }, {
+    "Address" : "Karachi Company G-9 Markaz Islamabad",
+    "Latitude" : 33.6887024,
+    "Longitude" : 73.03280819999999,
+    "MapAddress" : "G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Faiz Medical Store"
+  }, {
+    "Address" : "I-8 Markaz Islamabad",
+    "Latitude" : 33.6688091,
+    "Longitude" : 73.07554449999999,
+    "MapAddress" : "City Arcade, Tipu Sultan Rd, I-8 Markaz, I-8, I 8 Markaz I-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "The Drug Source Distributor"
+  }, {
+    "Address" : "Main G.T. Road, Sangjani",
+    "Latitude" : 33.675945,
+    "Longitude" : 72.853314,
+    "MapAddress" : "جی ٹی روڈ sangjani، Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Falah Pharmacy"
+  }, {
+    "Address" : "Babu Jee Shopping Mall Golra Sharif",
+    "Latitude" : 33.6939092,
+    "Longitude" : 72.97705909999999,
+    "MapAddress" : "Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Health One Pharmacy"
+  }, {
+    "Address" : "I&T Centre, Peshawar More, G-9/4 Islamabad",
+    "Latitude" : 33.685749,
+    "Longitude" : 73.04468729999999,
+    "MapAddress" : "Nishtar Market, Shop 5, Block 17, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Tahir Medical Store"
+  }, {
+    "Address" : "Model Town Hummak",
+    "Latitude" : 33.6134848,
+    "Longitude" : 73.0600208,
+    "MapAddress" : "B-327, Iqbal Rd, Raja Bazar, Committe Chowk, Rawalpindi, Punjab 46000, Pakistan",
+    "Name" : "Haji Medicine Co. Distributor"
+  }, {
+    "Address" : "Bismillah Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.6953876,
+    "Longitude" : 73.0510113,
+    "MapAddress" : "Pak media foundation plaza near alrasheed masjjid and utility store G-8 markaz، G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Unique Medical Store"
+  }, {
+    "Address" : "I-9/3 Islamabad",
+    "Latitude" : 33.66108,
+    "Longitude" : 73.05875999999999,
+    "MapAddress" : "I-9-3, I-9, Islamabad, ICT, Pakistan",
+    "Name" : "Pharmanet Distributor"
+  }, {
+    "Address" : "VIP Ghouri Town Islamabad",
+    "Latitude" : 33.6266202,
+    "Longitude" : 73.11997389999999,
+    "MapAddress" : "Ghouri Town VIP Block Ghauri Town VIP Block Khanna, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Kamran Medical Store"
+  }, {
+    "Address" : "Hassan Arcade, F-11 Markaz Islamabad",
+    "Latitude" : 33.6833491,
+    "Longitude" : 72.9888739,
+    "MapAddress" : "F-11 Markaz F 11 Markaz F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "I-8 Mughal Market",
+    "Latitude" : 33.6614954,
+    "Longitude" : 73.0667037,
+    "MapAddress" : "Mughal Market, Service Rd, I-8-1, I-8, I 8/1 I-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Hafeez Medical Store"
+  }, {
+    "Address" : "Industrial Triangle Kahuta Road",
+    "Latitude" : 33.54596000000001,
+    "Longitude" : 73.14471999999999,
+    "MapAddress" : "Humak Town, Islamabad, ICT, Pakistan",
+    "Name" : "Global Pharmaceuticals Pvt Ltd Distributors"
+  }, {
+    "Address" : "Athal Chowk Barkau",
+    "Latitude" : 33.7275236,
+    "Longitude" : 73.226405,
+    "MapAddress" : "Athal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Abbasi Medical Store"
+  }, {
+    "Address" : "Al-Baber Centre, F-8 Markaz Islamabad",
+    "Latitude" : 33.7115769,
+    "Longitude" : 73.0397898,
+    "MapAddress" : "F-8 Markaz F 8 Markaz F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Lifeaid Pharmacy"
+  }, {
+    "Address" : "Main Road Pak PWD Housing Lihi Bher Islamabad.",
+    "Latitude" : 33.5708699,
+    "Longitude" : 73.1452867,
+    "MapAddress" : "PWD Housing Society Rawalpindi, Punjab, Pakistan",
+    "Name" : "Hassan Pharmacy"
+  }, {
+    "Address" : "Rehmat Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6466885,
+    "Longitude" : 73.03717879999999,
+    "MapAddress" : "Rehmat Plaza, Sohni Rd, I-10 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Haram Medical Store"
+  }, {
+    "Address" : "Bani Gala",
+    "Latitude" : 33.7122378,
+    "Longitude" : 73.1612928,
+    "MapAddress" : "Rajput St, Bani Gala, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Rajput Pharmacy"
+  }, {
+    "Address" : "Tarammri Chowk, Irfan Abad, Tarlai",
+    "Latitude" : 33.6424851,
+    "Longitude" : 73.13363199999999,
+    "MapAddress" : "Java Rd, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "M.S. Pharmacy"
+  }, {
+    "Address" : "Shahnawaz G-11 Markaz Islamabad",
+    "Latitude" : 33.6684673,
+    "Longitude" : 72.997131,
+    "MapAddress" : "Shah Nawaz Plaza, Shop 4, Plot 11, Sachal Sarmast Rd, G-11 Markaz, G-11, G 11 Markaz G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Amin Pharmacy"
+  }, {
+    "Address" : "Bostan Plaza, Bani Gala",
+    "Latitude" : 33.7130441,
+    "Longitude" : 73.1615127,
+    "MapAddress" : "Bani Gala, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Eman Medical Store"
+  }, {
+    "Address" : "F-11/2",
+    "Latitude" : 33.682864,
+    "Longitude" : 72.980684,
+    "MapAddress" : "147 Street 20, F-11/2 F 11/2 F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Roche Pakistan Limited"
+  }, {
+    "Address" : "Al-Habib Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7405438,
+    "Longitude" : 73.1810247,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Umer Medical Store"
+  }, {
+    "Address" : "Iqbal Town, Service Road",
+    "Latitude" : 31.513981,
+    "Longitude" : 74.2854199,
+    "MapAddress" : "Allama Iqbal Town, Lahore, Punjab, Pakistan",
+    "Name" : "Al-Rehman Medical Store"
+  }, {
+    "Address" : "Near Jamia Masjid Al-Rehman, Blue Area",
+    "Latitude" : 33.7223,
+    "Longitude" : 73.08095,
+    "MapAddress" : "Jinnah Ave, Block C, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Blue Area Medical Store"
+  }, {
+    "Address" : "I-9/3 Islamabad",
+    "Latitude" : 33.6609779,
+    "Longitude" : 73.054762,
+    "MapAddress" : "I-9/3 I 9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Promed Distributors"
+  }, {
+    "Address" : "Awan Plaza, Sector G-8 Markaz Islamabad",
+    "Latitude" : 33.699466,
+    "Longitude" : 73.049318,
+    "MapAddress" : "Suite # 6, 2nd Floor, Awan Plaza, G-8 Markaz, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Pakistan Pharmacy"
+  }, {
+    "Address" : "Kashif Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.6953682,
+    "Longitude" : 73.0503914,
+    "MapAddress" : "Nisar Plaza, G-8 Markaz, G-8, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "A.S.M. Pharmaceuticals Distribution"
+  }, {
+    "Address" : "Sector G-12 Islamabad.",
+    "Latitude" : 33.6601929,
+    "Longitude" : 72.97853529999999,
+    "MapAddress" : "G-12, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saalim Medical Store"
+  }, {
+    "Address" : "I&T Centre, G-10/1 Islamabad",
+    "Latitude" : 33.669752,
+    "Longitude" : 73.01442279999999,
+    "MapAddress" : "Service Rd W, G-10/1 G 10/1 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Memon Medical Store"
+  }, {
+    "Address" : "Salman Market, F-11/2",
+    "Latitude" : 33.6826482,
+    "Longitude" : 72.9806217,
+    "MapAddress" : "St 24, F-11-2, F-11, Islamabad, ICT، Pakistan",
+    "Name" : "Healing Medical Store"
+  }, {
+    "Address" : "Jinnah Super Market, F-7 Markaz Islamabad",
+    "Latitude" : 33.7211528,
+    "Longitude" : 73.0575267,
+    "MapAddress" : "Opposite To Flower Market، College Road، F 7 Markaz F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Legal Pharmacy"
+  }, {
+    "Address" : "F-8 Markaz Islamabad",
+    "Latitude" : 33.7105372,
+    "Longitude" : 73.0420472,
+    "MapAddress" : "Kohistan Road، F8-Markaz، Islamabad, Pakistan",
+    "Name" : "Ali Pharmacy Inaptient Pharmacy"
+  }, {
+    "Address" : "PWD Housing Society",
+    "Latitude" : 33.5743339,
+    "Longitude" : 73.1508558,
+    "MapAddress" : "PWD Double Rd, PWD Housing Society Sector D PWD Society, Rawalpindi, Islamabad, Punjab, Pakistan",
+    "Name" : "Shifa Pharmacy"
+  }, {
+    "Address" : "Power Market, Sector G-10/4",
+    "Latitude" : 33.6784462,
+    "Longitude" : 73.0213414,
+    "MapAddress" : "G-10/4 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Waqar Medical Store"
+  }, {
+    "Address" : "Jannat Arcade, G-11 Markaz Islamabad",
+    "Latitude" : 33.6678638,
+    "Longitude" : 72.9983249,
+    "MapAddress" : "Al-Jannat Arcade, Shabbir Sharif Road, G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Mustafa Medical Store"
+  }, {
+    "Address" : "Basement Asad Plaza, Lehtrar Road, Khanna Pull",
+    "Latitude" : 33.6295271,
+    "Longitude" : 73.1164162,
+    "MapAddress" : "Asad Plaza, Lehtrar Rd, Khanna Dak, Bilal Town Khanna, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Harmain Pharmacy"
+  }, {
+    "Address" : "Jawa Road, Rawat Islamabad",
+    "Latitude" : 33.4962757,
+    "Longitude" : 73.19340629999999,
+    "MapAddress" : "Jawa Rd, Rawat, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khurram Medical Store"
+  }, {
+    "Address" : "near Police Station Fateh Jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kashmir Medical Store"
+  }, {
+    "Address" : "Fateh Jang Road, Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "Tamman Medical Store"
+  }, {
+    "Address" : "Sultan Plaza, Gani Gala",
+    "Latitude" : 1.3033833,
+    "Longitude" : 103.8612836,
+    "MapAddress" : "Jln Sultan, Singapore",
+    "Name" : "Vigilant Veterinary Services (Pvt) Limited"
+  }, {
+    "Address" : "Fazal-e-Haq Road, Ratta Mansion Plaza, Blue Area",
+    "Latitude" : 33.7119962,
+    "Longitude" : 73.0619818,
+    "MapAddress" : "Ratta Mansion, AKM Fazal-ul-Haq Rd, Block H, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Islamabad Pharmacy"
+  }, {
+    "Address" : "Kohsar Cinema Building G-7 Markaz Islamabad",
+    "Latitude" : 33.705238,
+    "Longitude" : 73.068145,
+    "MapAddress" : "Shop # 1-2, Kohsar Cinema Building. G-7 Markaz, Sitara Market, Islamabad، G 7 Markaz G-7, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Kohsar Medical Store"
+  }, {
+    "Address" : "Adjacement PIA Building Blue Area",
+    "Latitude" : 33.7185,
+    "Longitude" : 73.0742384,
+    "MapAddress" : "PIA Building, 49، A.K. Fazl-ul-Haq Rd, Block E G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Nostrum Pharma Distributor"
+  }, {
+    "Address" : "Zeeshan Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.6988957,
+    "Longitude" : 73.049387,
+    "MapAddress" : "Zeeshan Plaza, G-8 Markaz, G-8, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Capital Medical Store"
+  }, {
+    "Address" : "E-11/3",
+    "Latitude" : 33.7045092,
+    "Longitude" : 72.9792561,
+    "MapAddress" : "Shop 4, Block 14, E-11-3, E-11, MPCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Madina Medical Store"
+  }, {
+    "Address" : "Korang Town Islamabad",
+    "Latitude" : 33.5759348,
+    "Longitude" : 73.1326869,
+    "MapAddress" : "Korang Town (Extension), Islamabad, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Al-Shifa Pharmacy"
+  }, {
+    "Address" : "Grond Floor, Select One Plaza, F-11 Markaz Islamabad",
+    "Latitude" : 33.624677,
+    "Longitude" : 72.9724735,
+    "MapAddress" : "Arej Tower Shop No. 2-3 Near Jameel Sweets E-, H-13, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Boots Pharmacy"
+  }, {
+    "Address" : "Islamabad Arcade, G-11 Markaz Islamabad",
+    "Latitude" : 33.6694204,
+    "Longitude" : 72.9987214,
+    "MapAddress" : "Islamabad Arcade, G-11 Markaz, G-11, G 11 Markaz G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Azam Trading Services"
+  }, {
+    "Address" : "I-9/3 Islamabad",
+    "Latitude" : 33.6617123,
+    "Longitude" : 73.0567611,
+    "MapAddress" : "I-9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "United Distributor"
+  }, {
+    "Address" : "Sara Hospital, Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.738482,
+    "Longitude" : 73.18661569999999,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sara Medical Store"
+  }, {
+    "Address" : "Jawa Road, Main Bazar, Rawat Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Imran Medical Store"
+  }, {
+    "Address" : "Main Commercial soan Garden Islamabad",
+    "Latitude" : 33.563363,
+    "Longitude" : 73.149794,
+    "MapAddress" : "Main double road, Commercial Market, Soan Garden, Block D Soan Gardens, Islamabad, Punjab, Pakistan",
+    "Name" : "Safeway Pharmacy"
+  }, {
+    "Address" : "E-11/1 Islamabad",
+    "Latitude" : 33.6453223,
+    "Longitude" : 73.1752814,
+    "MapAddress" : "Lehtrar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Medical Store"
+  }, {
+    "Address" : "Express Way Koral Chowk",
+    "Latitude" : 21.3890824,
+    "Longitude" : 39.8579118,
+    "MapAddress" : "Mecca Saudi Arabia",
+    "Name" : "Al-Makkah Medical Store"
+  }, {
+    "Address" : "12-M Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.697051,
+    "Longitude" : 73.05125799999999,
+    "MapAddress" : "Basement, 12M Square، G-8 Markaz، G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Medicine Square Medical Store"
+  }, {
+    "Address" : "Wasif Plaza, Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7392784,
+    "Longitude" : 73.18267279999999,
+    "MapAddress" : "Simly Rd, Barakahu, Islamabad, ICT, Pakistan",
+    "Name" : "Manzoor Medical Store"
+  }, {
+    "Address" : "Near Noor Hospital, Fateh Jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Noor Pharmacy"
+  }, {
+    "Address" : "Shifa international hospital, H-8/4",
+    "Latitude" : 33.6790023,
+    "Longitude" : 73.0680138,
+    "MapAddress" : "Pitras Bukhari Road, Sector H-8/4، H 8/4 H-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa International Distribution Services"
+  }, {
+    "Address" : "G-9 Markaz Islamabad",
+    "Latitude" : 33.6903224,
+    "Longitude" : 73.0315495,
+    "MapAddress" : "Chand Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "New Medi Fair Medical Store"
+  }, {
+    "Address" : "National Police Foundation 0-9 Islamabad.",
+    "Latitude" : 33.5665034,
+    "Longitude" : 73.13348529999999,
+    "MapAddress" : "Police Foundation, Islamabad Capital Territory, Pakistan",
+    "Name" : "IHGC Medical Store"
+  }, {
+    "Address" : "Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7254831,
+    "Longitude" : 73.1387783,
+    "MapAddress" : "shop no,2 first floor skindar plaza oppsite Hbl bank main bhara kahu, Murree Rd, Maira, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bhara kahu Medical Store"
+  }, {
+    "Address" : "Ameen Plaza, Lehtrar Road",
+    "Latitude" : 33.6297412,
+    "Longitude" : 73.1172823,
+    "MapAddress" : "Al-Amin Plaza, Lehtrar Rd, Khanna Dak, Bilal Town Khanna, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Umer Medical Store"
+  }, {
+    "Address" : "PAEC General Hospital, H-11/4",
+    "Latitude" : 33.6522159,
+    "Longitude" : 73.01580659999999,
+    "MapAddress" : "Faqir Aipee Road, H-11/4 H 11/4 H-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "PAEC Foundation Pharmacy"
+  }, {
+    "Address" : "Nai Abadi, Bhara kahu Islamabad",
+    "Latitude" : 33.7489119,
+    "Longitude" : 73.1851121,
+    "MapAddress" : "Nai Abadi Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Chinar Medical Store"
+  }, {
+    "Address" : "Awan Plaza, G-8 Markaz Islamabad",
+    "Latitude" : 33.699466,
+    "Longitude" : 73.049318,
+    "MapAddress" : "Suite # 6, 2nd Floor, Awan Plaza, G-8 Markaz, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Dawn Pharmacy"
+  }, {
+    "Address" : "Maxim Arcade, Jeddah Town Islamabad",
+    "Latitude" : 33.5193579,
+    "Longitude" : 73.1525087,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Skyline Distributor"
+  }, {
+    "Address" : "VIP Ghouri Town, Khanna East",
+    "Latitude" : 33.6206523,
+    "Longitude" : 73.12030349999999,
+    "MapAddress" : "Ghauri Town, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kamran & Sons Medical Store"
+  }, {
+    "Address" : "Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bharakau Community Pharmacy"
+  }, {
+    "Address" : "Al-Amin Plaza, Lehtrar Road, Khanna Pul",
+    "Latitude" : 33.6294743,
+    "Longitude" : 73.1170233,
+    "MapAddress" : "Lehtrar Road, Khanna Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zaman Distributors"
+  }, {
+    "Address" : "Main G.T. Road, Tarnol",
+    "Latitude" : 33.6514864,
+    "Longitude" : 72.9091708,
+    "MapAddress" : "Grand Trunk Rd, Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Adeel Medical Store"
+  }, {
+    "Address" : "Abdullah Market Lehtrar Road, Khanna Pull",
+    "Latitude" : 33.6294743,
+    "Longitude" : 73.1170233,
+    "MapAddress" : "Lehtrar Road, Khanna Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zahid Medical Store"
+  }, {
+    "Address" : "Rashid Arcade Main PWD Road, Pakistan Town Islamabad",
+    "Latitude" : 33.5673609,
+    "Longitude" : 73.137496,
+    "MapAddress" : "Rashid Arcade, Main Double Road, PWD - Pakistan Town، Block A Police Foundation, Islamabad, Punjab 44000, Pakistan",
+    "Name" : "Javed Pharmacy"
+  }, {
+    "Address" : "Jinnah Avenue Blue Area",
+    "Latitude" : 33.7087048,
+    "Longitude" : 73.0559301,
+    "MapAddress" : "Khyber Plaza, AK Fazal-ul-Haq Rd, Block I, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Mubashir Medical Store"
+  }, {
+    "Address" : "70-E Blue Area",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Mubashir Medical Store"
+  }, {
+    "Address" : "Kazz Arcade, Sector G-15 Markaz Islamabad",
+    "Latitude" : 33.6315646,
+    "Longitude" : 72.9226649,
+    "MapAddress" : "Kazz Arcade, Jammu & Kashmir Housing Society G 15 Markaz G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zyan Pharmacy"
+  }, {
+    "Address" : "Naval Complex E-8",
+    "Latitude" : 33.6992078,
+    "Longitude" : 73.0488306,
+    "MapAddress" : "Allah Dad Plaza Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Mr. Chemist Plus Medical Store"
+  }, {
+    "Address" : "I-9/3 Islamabad",
+    "Latitude" : 33.6617123,
+    "Longitude" : 73.0567611,
+    "MapAddress" : "I-9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Abbott Laboratories Pak Limited"
+  }, {
+    "Address" : "Fortune Arcade Phase-5, Bahria Town Islamabad",
+    "Latitude" : 33.5578643,
+    "Longitude" : 73.1355421,
+    "MapAddress" : "Bahria Town Phase VI Phase 6 Bahria Town, Rawalpindi, Islamabad, Punjab, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "F-10 Markaz Islamabad",
+    "Latitude" : 33.6974922,
+    "Longitude" : 73.01187420000001,
+    "MapAddress" : "F10 Markaz, 10th Avenue، F 10/3 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "In patient Pharmacy Maroof International hospital"
+  }, {
+    "Address" : "Sohan Garden Housing Society",
+    "Latitude" : 33.5652582,
+    "Longitude" : 73.15226969999999,
+    "MapAddress" : "Block B Soan Gardens, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Medix Plus Medical Store"
+  }, {
+    "Address" : "21-E Huma Plaza, Blue Area",
+    "Latitude" : 33.7220338,
+    "Longitude" : 73.08126589999999,
+    "MapAddress" : "Huma Plaza, Jinnah Ave, Block C, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "S & j Distributors"
+  }, {
+    "Address" : "Inside Family Health Hospital, I-10/4",
+    "Latitude" : 33.6496218,
+    "Longitude" : 73.0467304,
+    "MapAddress" : "G 115, I-10/4 I 10/4 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Imran Pharmacy"
+  }, {
+    "Address" : "Aziz Market, I-9/1 Islamabad",
+    "Latitude" : 33.4814722,
+    "Longitude" : 73.0384585,
+    "MapAddress" : "14 km adyala road near dhagal post office, Pakistan",
+    "Name" : "Shaigan Pharmacy"
+  }, {
+    "Address" : "Sheraz Market, Sector G-10/3",
+    "Latitude" : 33.68578910000001,
+    "Longitude" : 73.0162678,
+    "MapAddress" : "Street 1, G-10/3 G 10/3 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rahat Medical Store"
+  }, {
+    "Address" : "Kamran Shopping Centre, Aabpara Market",
+    "Latitude" : 33.7078923,
+    "Longitude" : 73.0895184,
+    "MapAddress" : "Aabpara G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Malik Medical Store"
+  }, {
+    "Address" : "Sharjah Centre, G-10 Markaz Islamabad",
+    "Latitude" : 25.3462553,
+    "Longitude" : 55.4209317,
+    "MapAddress" : "Sharjah - United Arab Emirates",
+    "Name" : "Medgate Services Pharmaceuticals Distributor"
+  }, {
+    "Address" : "Basement Hall No 3, 4, Time Square Plaza, F-11 Markaz Islamabad",
+    "Latitude" : 33.6833772,
+    "Longitude" : 72.9891169,
+    "MapAddress" : "Hillal Rd, F-11 Markaz F 11 Markaz F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Al-Huda Town Ahad Plaza, Lehtrar Road, Satra Meel",
+    "Latitude" : 33.6433084,
+    "Longitude" : 73.19902139999999,
+    "MapAddress" : "Lehtrar Road, Al-Huda Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ahmed Medical Store"
+  }, {
+    "Address" : "Shop No 4, Mehran Plaza, G-9 Markaz Islamabad",
+    "Latitude" : 33.6901893,
+    "Longitude" : 73.031748,
+    "MapAddress" : "Mehran Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Jamal Medical Store"
+  }, {
+    "Address" : "Near Sohan Union Council, Sohan Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Hamd Medical Store"
+  }, {
+    "Address" : "Ibd.",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Medical Complex Pharmacy Lehtrar Road"
+  }, {
+    "Address" : "G.T. Road, nar Tarnol Phattak",
+    "Latitude" : 33.685749,
+    "Longitude" : 73.04468729999999,
+    "MapAddress" : "Nishtar Market, Shop 5, Block 17, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Tahir Medical Store"
+  }, {
+    "Address" : "Sector G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Doctor’s Pharmacy"
+  }, {
+    "Address" : "Jalal Arcade, Pakistan Town PWD",
+    "Latitude" : 33.6318845,
+    "Longitude" : 73.0717997,
+    "MapAddress" : "Chandni Chowk Flyover, D Block، Block B Satellite Town, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Al-Latif Pharmacy"
+  }, {
+    "Address" : "Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ghousia Medical Store"
+  }, {
+    "Address" : "Deen Arcade FECHS, Sector E-11/2",
+    "Latitude" : 33.6988666,
+    "Longitude" : 72.9689398,
+    "MapAddress" : "F.E.C.H.S. E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "A & K Pharmacy"
+  }, {
+    "Address" : "Main Lehtrar Road, Ali Pur farash Islamabad",
+    "Latitude" : 33.6453223,
+    "Longitude" : 73.1752814,
+    "MapAddress" : "Lehtrar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Gujar Khan Medical Store"
+  }, {
+    "Address" : "Naear Patrol Pump G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Eman Medical Store"
+  }, {
+    "Address" : "Manzoor Plaza, G.T. Road, Rawat Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Haroon Medical Store"
+  }, {
+    "Address" : "Kashif Plaza, Sector F-8 Markaz Islamabad",
+    "Latitude" : 33.7104946,
+    "Longitude" : 73.0390878,
+    "MapAddress" : "Kashif Plaza, Shop 5, Block 4B, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Al-Noor Pharmacy"
+  }, {
+    "Address" : "Industrial Area, I-9",
+    "Latitude" : 30.375321,
+    "Longitude" : 69.34511599999999,
+    "MapAddress" : "Pakistan",
+    "Name" : "Glaxosmithkline Pakistan Ltd"
+  }, {
+    "Address" : "Asif Plaza, Beewell Hospital, Fazal-e-Haq Road, B.A",
+    "Latitude" : 33.710061,
+    "Longitude" : 73.058341,
+    "MapAddress" : "East Wing, 2nd Floor, Asif Plaza, A.K.M. Fazal-Ul-Haq Road, Blue Area، Pakistan",
+    "Name" : "Beewell Pharmacy"
+  }, {
+    "Address" : "Oppt. Union Council, Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7373875,
+    "Longitude" : 73.1864026,
+    "MapAddress" : "Budh Bazar Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Jainnah Pharmacy"
+  }, {
+    "Address" : "Shahnawaz Shopping Centre, F-8 Markaz Islamabad",
+    "Latitude" : 33.7112505,
+    "Longitude" : 73.03799219999999,
+    "MapAddress" : "Shehnaz Plaza, Plot No 14-Y, Johar Rd, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Hameed Pharmacy"
+  }, {
+    "Address" : "Murree Road, Athal Chowk, Bhara kahu Islamabad",
+    "Latitude" : 33.7405438,
+    "Longitude" : 73.1810247,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Alpha Omega Integrated Services Distributor"
+  }, {
+    "Address" : "Madina Town Bhara kahu Islamabad",
+    "Latitude" : 33.7380556,
+    "Longitude" : 73.1851121,
+    "MapAddress" : "Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Life Pharmacy"
+  }, {
+    "Address" : "Super Market, F-6 Market",
+    "Latitude" : 33.7294979,
+    "Longitude" : 73.0771618,
+    "MapAddress" : "School Rd, F-6 Markaz, F-6, F 6 Markaz F-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Kausar Pharmacy"
+  }, {
+    "Address" : "Fateh jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khyber Hospital Medical Store"
+  }, {
+    "Address" : "Fatima Plaza, Near KRL Flats, Jhangi Syedan",
+    "Latitude" : 33.6215077,
+    "Longitude" : 72.94257759999999,
+    "MapAddress" : "Fatima Plaza, Rehman Town Link Rd, Jhangi Syedian, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Umair Medical Store"
+  }, {
+    "Address" : "PWD Main 0-9",
+    "Latitude" : 40.6794209,
+    "Longitude" : -73.86347030000002,
+    "MapAddress" : "3404, 35 101st Ave, Brooklyn, NY 11208, United States",
+    "Name" : "Al-Noor Pharmacy"
+  }, {
+    "Address" : "Al-Hayat Plaza, G-10 Markaz Islamabad",
+    "Latitude" : 33.6755189,
+    "Longitude" : 73.0140112,
+    "MapAddress" : "G-10 Markaz G 10 Markaz G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Healer’s Pharmacy"
+  }, {
+    "Address" : "DHA-II, G.T. Road",
+    "Latitude" : 31.8886915,
+    "Longitude" : 74.2383901,
+    "MapAddress" : "Grand Trunk Rd, Punjab, Pakistan",
+    "Name" : "Sidara Pharmacy"
+  }, {
+    "Address" : "Qazi Plaza, Sector G-9 Markaz Islamabad",
+    "Latitude" : 33.6856724,
+    "Longitude" : 73.0445639,
+    "MapAddress" : "Nishtar Market, Plot 21/1, St 55, G-9-4, G-9, G 9/4 G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Sitara Medical Store"
+  }, {
+    "Address" : "Kiani Road, Bhara kahu Islamabad",
+    "Latitude" : 33.755976,
+    "Longitude" : 73.2100237,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Niazi Medical Store Ramzan Plaza"
+  }, {
+    "Address" : "River Garden, Main Highway Islamabad",
+    "Latitude" : 33.55042299999999,
+    "Longitude" : 73.168943,
+    "MapAddress" : "River Gardens Housing Scheme, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Nosh Pharmacy"
+  }, {
+    "Address" : "Al-Makkah Market, Rawat Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Dawar Medical Store"
+  }, {
+    "Address" : "Khyber Plaza, Blue Area",
+    "Latitude" : 33.70885980000001,
+    "Longitude" : 73.0555516,
+    "MapAddress" : "Din Pavallions Plaza, Jinnah Ave, Block I, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7397132,
+    "Longitude" : 73.1799274,
+    "MapAddress" : "Murree Rd, Athal Chowk, Barakahu, Islamabad, ICT, Pakistan",
+    "Name" : "Sarwar Medical Store"
+  }, {
+    "Address" : "Shaheen Plaza, Khursheed Market, Sector F-10/1 Islamabad",
+    "Latitude" : 33.645999,
+    "Longitude" : 73.03535029999999,
+    "MapAddress" : "Shaheen Plaza, Sohni Rd, I-10-1 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "IHS Pharmacy"
+  }, {
+    "Address" : "North Service Road, Sector I-9/2",
+    "Latitude" : 33.6638136,
+    "Longitude" : 73.0498492,
+    "MapAddress" : "Service Rd N, I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "S. Ejaz ud Din Co."
+  }, {
+    "Address" : "Ist Floor, Plot No 276, I-9/3 Islamabad",
+    "Latitude" : 33.6617123,
+    "Longitude" : 73.0567611,
+    "MapAddress" : "I-9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hospital Supply Corporation Distributor"
+  }, {
+    "Address" : "Select Centre, F-11 Markaz Islamabad",
+    "Latitude" : 33.6848245,
+    "Longitude" : 72.9864961,
+    "MapAddress" : "Hilal Road, F-11 Markaz F 11 Markaz F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Latif Pharmacy"
+  }, {
+    "Address" : "G-9/1 Islamabad",
+    "Latitude" : 33.6778464,
+    "Longitude" : 73.0318006,
+    "MapAddress" : "G- Kashmir Hwy, 1, Service Road South, G 9/1 G-9, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : " KRL Foundation Pharmacy"
+  }, {
+    "Address" : "Ali Medical Centre, F-8 Markaz Islamabad",
+    "Latitude" : 33.7105372,
+    "Longitude" : 73.0420472,
+    "MapAddress" : "Kohistan Road، F8-Markaz، Islamabad, Pakistan",
+    "Name" : "IDH Pharmacy-24"
+  }, {
+    "Address" : "Shahwez Centre, F-8 Markaz Islamabad",
+    "Latitude" : 33.7115684,
+    "Longitude" : 73.0378058,
+    "MapAddress" : "Shawaiz Centre, Ground Floor, Plot 8-C, Johar Rd, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Bilal Medical Store"
+  }, {
+    "Address" : "Lehtrar Road, Satra Meel",
+    "Latitude" : 33.645224,
+    "Longitude" : 73.1745179,
+    "MapAddress" : "Lehtrar Road, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Medical Store"
+  }, {
+    "Address" : "Zeeshan Plaza, Sector G-8 Markaz Islamabad",
+    "Latitude" : 33.6990088,
+    "Longitude" : 73.04925639999999,
+    "MapAddress" : "Zeeshan Plaza, G-8 Markaz, G-8, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Khalil Pharmacy"
+  }, {
+    "Address" : "Kahuta Industrial Triangle",
+    "Latitude" : 33.5414484,
+    "Longitude" : 73.14679819999999,
+    "MapAddress" : "Kahuta Rd, Model Town Humak, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rotex Pharma Pvt Ltd"
+  }, {
+    "Address" : "Al-Inayat Shopping Mall, G-11 Markaz Islamabad",
+    "Latitude" : 33.669322,
+    "Longitude" : 72.999939,
+    "MapAddress" : "G-11 Markaz Islamabad، G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Rehman Pharmacy"
+  }, {
+    "Address" : "Shakrial Zia Masjid",
+    "Latitude" : 33.63679279999999,
+    "Longitude" : 73.1084677,
+    "MapAddress" : "Khan Akbar Town، Nawaz, Islamabad, Rawalpindi, Islamabad Capital Territory 46000, Pakistan",
+    "Name" : "Haseeb Medical Store"
+  }, {
+    "Address" : "Jinnah Super Market, F-7",
+    "Latitude" : 33.7211528,
+    "Longitude" : 73.0575267,
+    "MapAddress" : "Opposite To Flower Market، College Road، F 7 Markaz F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Royal Medical Store"
+  }, {
+    "Address" : "Commercial Market, Nai Abadi, Madina Town, Ali Pur farash Islamabad",
+    "Latitude" : 33.6456822,
+    "Longitude" : 73.1739398,
+    "MapAddress" : "Madina Town Rd, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Baig & Sons Pharma Distributor"
+  }, {
+    "Address" : "Plot No 154, St. No 9, Industrial Area, I-10/3 Islamabad",
+    "Latitude" : 33.6467957,
+    "Longitude" : 73.0375761,
+    "MapAddress" : "I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "IBL Operations Pvt Ltd"
+  }, {
+    "Address" : "Phase-IV, Allah Hoo chowk, Bahria Town Islamabad",
+    "Latitude" : 33.5523081,
+    "Longitude" : 73.1393337,
+    "MapAddress" : "Shop #1 Bahria Heights II Rawalpindi, 46000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Business Trade Centre, F-10 Markaz Islamabad",
+    "Latitude" : 33.6928402,
+    "Longitude" : 73.0139016,
+    "MapAddress" : "Shop No. 2, Capital Trade Center, Ground Floor, N#212 Street 54, F 10/4 F-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Sangum Market, I-8/3",
+    "Latitude" : 33.6719789,
+    "Longitude" : 73.0745829,
+    "MapAddress" : "Market Parking 1, I-8/3 I 8/3 I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Medika Pharmacy"
+  }, {
+    "Address" : "Madina Arcade, G-13/1 Islamabad",
+    "Latitude" : 33.6456099,
+    "Longitude" : 72.96350149999999,
+    "MapAddress" : "Street 110, G-13/1 G 13/1 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Nasir Pharmacy"
+  }, {
+    "Address" : "Taqwa Market, Sector G-9/4 Islamabad",
+    "Latitude" : 33.6894567,
+    "Longitude" : 73.03999139999999,
+    "MapAddress" : "Noor Plaza Taqwa Market Street 66 G-9/4، Pakistan",
+    "Name" : "Noor Pharmacy"
+  }, {
+    "Address" : "Officer Colony Sarai Kharbooza",
+    "Latitude" : 23.733022,
+    "Longitude" : 90.38533790000001,
+    "MapAddress" : "121, Islamia Market, Nilkhet, Dhaka 1205, Bangladesh",
+    "Name" : "Altaf Medical Store"
+  }, {
+    "Address" : "Near Motorway Chowk, Jhangi Syeddan",
+    "Latitude" : 33.6316478,
+    "Longitude" : 72.9384993,
+    "MapAddress" : "G.T. Road Interchange (Motorway Chowk), Grand Trunk Rd, G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Madina Medical Store"
+  }, {
+    "Address" : "Main Fateh Jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khan Medical Sore"
+  }, {
+    "Address" : "Shafi Hospital lehtrar Road, Ali Pur Nai Abadi",
+    "Latitude" : 33.6453417,
+    "Longitude" : 73.1754395,
+    "MapAddress" : "Lehtrar Rd, Nai Abadi, Alipur, Islamabad, Islamabad Capital Territory 44600, Pakistan",
+    "Name" : "Shafi Medical Store"
+  }, {
+    "Address" : "Umer Plaza, F-8 Markaz Islamabad",
+    "Latitude" : 33.7116988,
+    "Longitude" : 73.04141299999999,
+    "MapAddress" : "Kohistan Rd, F-8 Markaz F 8 Markaz F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Mehmood Pharmacy"
+  }, {
+    "Address" : "Ghakhar Complex, Koral Town, Express Way",
+    "Latitude" : 32.3001995,
+    "Longitude" : 74.13880259999999,
+    "MapAddress" : "Ghakhar, Gujranwala, Punjab, Pakistan",
+    "Name" : "D. Pharma Medical Store"
+  }, {
+    "Address" : "Phase-I Khanna East High Way Islamabd",
+    "Latitude" : 33.6206523,
+    "Longitude" : 73.12030349999999,
+    "MapAddress" : "Ghauri Town, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmaclinics Pharmacy"
+  }, {
+    "Address" : "F-8 Markaz Islamabad",
+    "Latitude" : 33.7115085,
+    "Longitude" : 73.0413186,
+    "MapAddress" : "Plot 13-F, Kohistan Rd, F-8 Markaz, F-8, F 8 Markaz F-8, Islamabad, Islamabad Capital Territory 44220, Pakistan",
+    "Name" : "A.R. Sons Pharmacy Umer Centre"
+  }, {
+    "Address" : "Near Post Office Golra Sharif",
+    "Latitude" : 33.6939092,
+    "Longitude" : 72.97705909999999,
+    "MapAddress" : "Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Family Medical Store"
+  }, {
+    "Address" : "New Abadi Sohan Islamabad",
+    "Latitude" : 33.5348215,
+    "Longitude" : 73.1427052,
+    "MapAddress" : "Nai Abadi Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zeeshan Medical Store"
+  }, {
+    "Address" : "Jinnah Buleward DHA, Phase-II",
+    "Latitude" : 33.5311431,
+    "Longitude" : 73.1579935,
+    "MapAddress" : "Sector E DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Medi Cure Pharmacy"
+  }, {
+    "Address" : "Harmain Plaza, near Ghosia Masjid Ali Pur",
+    "Latitude" : 53.56527910000001,
+    "Longitude" : -2.4439276,
+    "MapAddress" : "Bolton BL3 6SX, UK",
+    "Name" : "The Health Care Pharmacy"
+  }, {
+    "Address" : "main G.T. Road Tarnol",
+    "Latitude" : 33.6514864,
+    "Longitude" : 72.9091708,
+    "MapAddress" : "Grand Trunk Rd, Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tanoli Store"
+  }, {
+    "Address" : "jawa Road, Rawat Islamabad",
+    "Latitude" : 33.4966669,
+    "Longitude" : 73.1950832,
+    "MapAddress" : "Gakhar Market, Jawa Rd, Main Bazar, Rawat, Islamabad, Islamabad Capital Territory 45900, Pakistan",
+    "Name" : "Hasnain Medical Store"
+  }, {
+    "Address" : "lehtrar Road, Ali Pur",
+    "Latitude" : 33.6451462,
+    "Longitude" : 73.1808034,
+    "MapAddress" : "Lehtarar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Attiqa Medical Store"
+  }, {
+    "Address" : "Shoukat Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6482399,
+    "Longitude" : 73.0404568,
+    "MapAddress" : "Shaukat Plaza, Shop 10, Korang Rd, I-10 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Walton Pharmacy"
+  }, {
+    "Address" : "Beverly Centre, Blue Area",
+    "Latitude" : 33.7201801,
+    "Longitude" : 73.0738234,
+    "MapAddress" : "Beverly Centre, Jinnah Ave, F 6/1 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Noman Pharmacueitcals Distributors"
+  }, {
+    "Address" : "Madina Cash & Carry, Main Service Road East Khanna Pul",
+    "Latitude" : 33.6292743,
+    "Longitude" : 73.1134983,
+    "MapAddress" : "Khanna Pul, Khanna Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "MCC Pharmacy"
+  }, {
+    "Address" : "Main murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.74581,
+    "Longitude" : 73.18965,
+    "MapAddress" : "Barakahu, Islamabad, ICT, Pakistan",
+    "Name" : "Abbas Medical Sore"
+  }, {
+    "Address" : "I & T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.6860674,
+    "Longitude" : 73.04511839999999,
+    "MapAddress" : "Street 55, G-9/4 G 9/4 G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Elixir Pharmacy"
+  }, {
+    "Address" : "Lehtrar Road, P&V Scheme, Tarlai",
+    "Latitude" : 33.645224,
+    "Longitude" : 73.1745179,
+    "MapAddress" : "Lehtrar Road, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Dr. Sadaf Specialized Clinics Pharmacy"
+  }, {
+    "Address" : "Pakistan Town, Phase-II",
+    "Latitude" : 30.375321,
+    "Longitude" : 69.34511599999999,
+    "MapAddress" : "Pakistan",
+    "Name" : "Al-Madina Medical Store"
+  }, {
+    "Address" : "Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.743176,
+    "Longitude" : 73.18615799999999,
+    "MapAddress" : "Punjab College, Satra Meel, Phulgran, P.O. Bharakahu, Islamabad, Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory 45400, Pakistan",
+    "Name" : "Hassan Pharmacy"
+  }, {
+    "Address" : "Mehran Plaza, G-9 Markaz Islamabad",
+    "Latitude" : 33.6901893,
+    "Longitude" : 73.031748,
+    "MapAddress" : "Mehran Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Tayyab Medical Store"
+  }, {
+    "Address" : "Awami Trade Centre, G-9 Markaz Islamabad",
+    "Latitude" : 33.6900366,
+    "Longitude" : 73.0317646,
+    "MapAddress" : "Mehran Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Azra Masood Medical Store"
+  }, {
+    "Address" : "Al-Falah Manzil, St. No 26, Sector E-11/4",
+    "Latitude" : 33.6981342,
+    "Longitude" : 72.9799189,
+    "MapAddress" : "Alfalah Manzil, Street 26, Golra NPF Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Iqbal & Company"
+  }, {
+    "Address" : "Sudra Chowk Sharifabad Road, Tarlai",
+    "Latitude" : 33.6424851,
+    "Longitude" : 73.13363199999999,
+    "MapAddress" : "Java Rd, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Uzefa Medical Store"
+  }, {
+    "Address" : "Sangam Market, I-8/3",
+    "Latitude" : 33.6719789,
+    "Longitude" : 73.0745829,
+    "MapAddress" : "Market Parking 1, I-8/3 I 8/3 I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Awan Medical Store"
+  }, {
+    "Address" : "Main Simbli Dam Road, Madina Market, Bhara kahu Islamabad",
+    "Latitude" : 33.7449623,
+    "Longitude" : 73.1762626,
+    "MapAddress" : "Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ruqqkia Medical Store"
+  }, {
+    "Address" : "Near Quaid-e-Azam International hospital, Golra more Islamabad",
+    "Latitude" : 33.6251427,
+    "Longitude" : 72.9734166,
+    "MapAddress" : "Near Golra Morr، Peshawar Road، H-13, Islamabad, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Boots Pharmacy"
+  }, {
+    "Address" : "Al-Inayat Mall G-11 Markaz Islamabad",
+    "Latitude" : 33.6679494,
+    "Longitude" : 72.9971274,
+    "MapAddress" : "Software Technology Park, Service Rd N, G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Premier Health Services"
+  }, {
+    "Address" : "Fateh Jang Road, Marchan Stop Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "Amjad Ali Medical Store"
+  }, {
+    "Address" : "Chungi Gillani Plaza, Peshawar Road",
+    "Latitude" : 33.8835894,
+    "Longitude" : 72.3764904,
+    "MapAddress" : "Peshawar Rd, Pakistan",
+    "Name" : "New Khan Medical Store"
+  }, {
+    "Address" : "Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7405438,
+    "Longitude" : 73.1810247,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Masha Allah Medical Store"
+  }, {
+    "Address" : "Near Adil CNG Simly Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7354828,
+    "Longitude" : 73.21395509999999,
+    "MapAddress" : "Near Seri choke، Pakistan",
+    "Name" : "Al-Bashir Medical Store"
+  }, {
+    "Address" : "Allah Wala Plaza, G-9 Markaz Islamabad",
+    "Latitude" : 33.6876775,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Pharmacy"
+  }, {
+    "Address" : "Block-D, Civil Centre, Phase-IV, Bahria Town Islamabad",
+    "Latitude" : 33.549391,
+    "Longitude" : 73.1239781,
+    "MapAddress" : "175، Block D St, Civic Center Bahria Town, Rawalpindi, Islamabad, Punjab, Pakistan",
+    "Name" : "Vogue Pharmacy"
+  }, {
+    "Address" : "Huma Plaza, Blue Area",
+    "Latitude" : 33.7220338,
+    "Longitude" : 73.08126589999999,
+    "MapAddress" : "Huma Plaza, Jinnah Ave, Block C, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "New Fedceral Medical Store"
+  }, {
+    "Address" : "Main Double road, PWD Housing Societty Lohi Bher",
+    "Latitude" : 33.5814951,
+    "Longitude" : 73.16298780000001,
+    "MapAddress" : "Lohi Bhair, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Megalife Pharmacy"
+  }, {
+    "Address" : "Harno Thanda Pani, Lehtrar Road",
+    "Latitude" : 33.6469923,
+    "Longitude" : 73.2188377,
+    "MapAddress" : "Lehtrar Road, Thanda Pani, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Faisal Medical Store"
+  }, {
+    "Address" : "Bismillah Plaza, G-11/2",
+    "Latitude" : 33.6718465,
+    "Longitude" : 72.9911948,
+    "MapAddress" : "Adnan Market, St 69, G-11-2, G-11, G 11/2 G-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "SH Markeeting Services (Pvt) Ltd"
+  }, {
+    "Address" : "Main Samli Dam Road, Pind Begwal",
+    "Latitude" : 33.7079175,
+    "Longitude" : 73.2473996,
+    "MapAddress" : "Simly Dam Road, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Gomal Medical Store"
+  }, {
+    "Address" : "Harin mera P.O Sihala",
+    "Latitude" : 33.2615676,
+    "Longitude" : 73.3057508,
+    "MapAddress" : "Gujar Khan, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Super Gujar Khan Medical Store"
+  }, {
+    "Address" : "mehran Plaza, Sector G-9 Markaz Islamabad",
+    "Latitude" : 33.6901599,
+    "Longitude" : 73.0316928,
+    "MapAddress" : "G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Medicine Point Medical Store"
+  }, {
+    "Address" : "Zaki Centre I-8 Markaz Islamabad",
+    "Latitude" : 33.6667828,
+    "Longitude" : 73.07330809999999,
+    "MapAddress" : "44 Zak Tower, I-, I 8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacons Pharmaceuticals Distributors"
+  }, {
+    "Address" : "Block 27-H, Mumtaz Plaza, G-9 Markaz Islamabad",
+    "Latitude" : 33.6886389,
+    "Longitude" : 73.0314937,
+    "MapAddress" : "Mumtaz Plaza, Rohtas Rd, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Sajid Medical Store"
+  }, {
+    "Address" : "I-9/3 Islamabad",
+    "Latitude" : 33.6635628,
+    "Longitude" : 73.059079,
+    "MapAddress" : "Street 3, I-9/3 I 9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Abu Dawood Trading Co."
+  }, {
+    "Address" : "Industrial Triangle Islamabad.",
+    "Latitude" : 33.5455885,
+    "Longitude" : 73.1475627,
+    "MapAddress" : "Khuda Bakhsh Rd, Humak Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Amson Vaccines & Pharma Pvt Ltd"
+  }, {
+    "Address" : "G-13/1 Islamabad",
+    "Latitude" : 33.6456828,
+    "Longitude" : 72.9622965,
+    "MapAddress" : "G-13/1 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Abbas Medical Services"
+  }, {
+    "Address" : "Golra Railway Station",
+    "Latitude" : 33.6705685,
+    "Longitude" : 72.9476309,
+    "MapAddress" : "Golra Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Arshad Medical Store"
+  }, {
+    "Address" : "I & T Centre, G-9/4 Islamabad",
+    "Latitude" : 33.663516,
+    "Longitude" : 73.081251,
+    "MapAddress" : "Street 92, I-8/4 I 8/4 I-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "A&Z Health Services"
+  }, {
+    "Address" : "main Bazar Sangjani",
+    "Latitude" : 33.6746148,
+    "Longitude" : 72.8482247,
+    "MapAddress" : "Sangjani, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Babar Vet & Medical Store"
+  }, {
+    "Address" : "Fateh Jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Imran Medical Store"
+  }, {
+    "Address" : "Garden Town New Shakrial, Zaia Masjid",
+    "Latitude" : 9.4535964,
+    "Longitude" : 12.0318456,
+    "MapAddress" : "Numan, Nigeria",
+    "Name" : "Numan-B Medical Store"
+  }, {
+    "Address" : "Square Time Plaza, I-8 Markaz Islamabad",
+    "Latitude" : 33.6673258,
+    "Longitude" : 73.0752199,
+    "MapAddress" : "Time Square Plaza, I-8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Mughal Plaza, Benazir Chowk Fateh Jang Road, Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "First Plus Pharmacy"
+  }, {
+    "Address" : "Ahmed Plaza, Trammari Chowk Lehtrar Rd",
+    "Latitude" : 33.645224,
+    "Longitude" : 73.1745179,
+    "MapAddress" : "Lehtrar Road, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Roots Health Sciences Distributors"
+  }, {
+    "Address" : "Tiens Plaza G-8 Markaz Islamabad",
+    "Latitude" : 33.6983104,
+    "Longitude" : 73.0477178,
+    "MapAddress" : "G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Taianshi International Pakistan Company (Pvt) Ltd"
+  }, {
+    "Address" : "Allah Dad Plaza, Sector G-8 Markaz Islamabad",
+    "Latitude" : 33.699164,
+    "Longitude" : 73.04889229999999,
+    "MapAddress" : "G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Jan Sons Pharmacy"
+  }, {
+    "Address" : "Darbar Golra Sharif",
+    "Latitude" : 33.6916525,
+    "Longitude" : 72.9742912,
+    "MapAddress" : "Golra Rd, Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Apna Medical Store"
+  }, {
+    "Address" : "Al-Rehman Plaza, G-11 Markaz Islamabad",
+    "Latitude" : 33.6687503,
+    "Longitude" : 73.0004931,
+    "MapAddress" : "G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharma Save Pharmacy"
+  }, {
+    "Address" : "Barma Town Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shabbir Medical & Veterinary Store"
+  }, {
+    "Address" : "Islamabad Specialist Clinic Kiran Plaza, F-8 Markaz Islamabad",
+    "Latitude" : 33.7110178,
+    "Longitude" : 73.04147259999999,
+    "MapAddress" : "Kiran Plaza, Ground Floor, Plot 13-A, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Pharmacy-24 (IDH)"
+  }, {
+    "Address" : "Jinnah Super market, Sector F-7 Markaz Islamabad",
+    "Latitude" : 33.72142,
+    "Longitude" : 73.05662,
+    "MapAddress" : "F-7 Markaz, F-7, Islamabad, ICT, Pakistan",
+    "Name" : "Javed Pharmacy"
+  }, {
+    "Address" : "Main Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7460296,
+    "Longitude" : 73.19110440000001,
+    "MapAddress" : "Murree Rd, Mohallah Chaudhrian Bhara Kahu, Kot Hathyal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Majeed Health Mart Pharmacy"
+  }, {
+    "Address" : "Main Murree New PCO Stop, Bhara kahu Islamabad",
+    "Latitude" : 33.7405438,
+    "Longitude" : 73.1810247,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ist U Pharmcy"
+  }, {
+    "Address" : "Sitara Plaza, Diplomatic Enclave Sector G-5",
+    "Latitude" : 33.7215366,
+    "Longitude" : 73.1067838,
+    "MapAddress" : "Ramna 5, Sitara Plaza, Diplomatic Enclave, G5, Diplomatic Enclave, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "World Mart Pharmacy"
+  }, {
+    "Address" : "Sarai Kharboza, G.T. Road Tarnol",
+    "Latitude" : 33.6514864,
+    "Longitude" : 72.9091708,
+    "MapAddress" : "Grand Trunk Rd, Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ghazi Brothers Distributors"
+  }, {
+    "Address" : "Ittefaq Colony, Tarnol",
+    "Latitude" : 33.64661299999999,
+    "Longitude" : 72.9074887,
+    "MapAddress" : "Fatehjang Rd, Tarnol, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Faraz Medical Store"
+  }, {
+    "Address" : "Shopping Centre, Chakshahzad",
+    "Latitude" : 43.5926695,
+    "Longitude" : -79.6427339,
+    "MapAddress" : "100 City Centre Dr, Mississauga, ON L5B 2C9, Canada",
+    "Name" : "Haseeb Medical Store"
+  }, {
+    "Address" : "Main Simly Dam Road, Seeri Chowk, Bhara kahu Islamabad",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Aqsa Pharmacy"
+  }, {
+    "Address" : "Hathial Shopping Centre, Simli Dam Road, Bhara kahu Islamabad",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bio Marketing Services"
+  }, {
+    "Address" : "Islamabad.",
+    "Latitude" : 33.7349401,
+    "Longitude" : 73.1746233,
+    "MapAddress" : "Main Bazar Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Raja Medical Store Main Bazar Sangjani"
+  }, {
+    "Address" : "H-Block, H-8/4",
+    "Latitude" : 33.6752489,
+    "Longitude" : 73.06640089999999,
+    "MapAddress" : "Pitras Bukhari Rd, H-8/4، Islamabad, Pakistan",
+    "Name" : "Shifa International Hospital Pharmacy"
+  }, {
+    "Address" : "D-Block, H-8/4",
+    "Latitude" : 33.6751265,
+    "Longitude" : 73.0670796,
+    "MapAddress" : "Pitras Bukhari Road, Sector H-8/4، H 8/4 H-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa International hospital Pharmacy"
+  }, {
+    "Address" : "Plot No 13-D, Sector F-8 Markaz Islamabad",
+    "Latitude" : 33.5234618,
+    "Longitude" : 73.15683589999999,
+    "MapAddress" : "8, Sector F DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khan Medical Sore"
+  }, {
+    "Address" : "Abbasi Market, Sarai Kharbooza, Tarnol",
+    "Latitude" : 33.6610532,
+    "Longitude" : 72.8973769,
+    "MapAddress" : ", ICT, Pakistan",
+    "Name" : "Shariq Medical Store"
+  }, {
+    "Address" : "Block-D, Commercial Area, Pak PWD Housing Society",
+    "Latitude" : 33.5715036,
+    "Longitude" : 73.14516789999999,
+    "MapAddress" : "PWD Housing Society Sector D PWD Society, Rawalpindi, Islamabad, Punjab, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Kartana More, Opptt DHA, G.T. Road",
+    "Latitude" : 33.516201,
+    "Longitude" : 73.1669055,
+    "MapAddress" : "Grand Trunk Road، Rawalpindi, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan International Hospital Pharmacy"
+  }, {
+    "Address" : "Durrani Plaza, PWD Housing Society",
+    "Latitude" : 33.5708699,
+    "Longitude" : 73.1452867,
+    "MapAddress" : "PWD Housing Society Rawalpindi, Punjab, Pakistan",
+    "Name" : "Life Line Pharmacy"
+  }, {
+    "Address" : "Badana Kalan, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saud Medical Store"
+  }, {
+    "Address" : "Saif Health Care Ltd, Kulsum Plaza, Blue Area",
+    "Latitude" : 33.71824,
+    "Longitude" : 73.07316,
+    "MapAddress" : "Block E, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "KIH Pharmacy"
+  }, {
+    "Address" : "Jinnah Blueword West, Sector-A, DHA-2",
+    "Latitude" : 33.5969183,
+    "Longitude" : 73.0468418,
+    "MapAddress" : "Al Amin Plaza, Peshawar Rd, Saddar, Rawalpindi, Punjab 46000, Pakistan",
+    "Name" : "Khattak Pharmacy"
+  }, {
+    "Address" : "Kiyani Market, Main G.T. Road, Munir Abad, Rawat Islamabad",
+    "Latitude" : 33.607783,
+    "Longitude" : 73.0136539,
+    "MapAddress" : "Grand Trunk Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "A&S Medical Store"
+  }, {
+    "Address" : "Zakia Aziz Plaza, China Chowk, Blue Area",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Capital Pharmacy"
+  }, {
+    "Address" : "Ali Plaza, Main Road, Phase-V, Ghouri Town Islamabad",
+    "Latitude" : 33.6179042,
+    "Longitude" : 73.1307612,
+    "MapAddress" : "Phase 5 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shazal’s Distribution OIffice"
+  }, {
+    "Address" : "Ghala Stop Darwala, Near Gulberg Phase-5",
+    "Latitude" : 33.6161312,
+    "Longitude" : 73.22216379999999,
+    "MapAddress" : "Darwala, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Abbas Medical Store"
+  }, {
+    "Address" : "Salam Height Plaza, Sector E-11/2",
+    "Latitude" : 33.7001704,
+    "Longitude" : 72.9733328,
+    "MapAddress" : "Services Society SCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Leads Pharmacy"
+  }, {
+    "Address" : "G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ghouri Medical Store"
+  }, {
+    "Address" : "Ali Pur Farash, lehtrar road",
+    "Latitude" : 33.6453223,
+    "Longitude" : 73.1752814,
+    "MapAddress" : "Lehtrar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Gujar Khan Medical Store"
+  }, {
+    "Address" : "Fateh Jang Road, Tarnol",
+    "Latitude" : 33.649239,
+    "Longitude" : 72.90977749999999,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tahir Pharmacy"
+  }, {
+    "Address" : "Paradise Plaza, Sector G-10 Markaz Islamabad",
+    "Latitude" : 33.6754363,
+    "Longitude" : 73.0146543,
+    "MapAddress" : "Bela Rd, G-10 Markaz G 10 Markaz G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Fateh Pharmacy"
+  }, {
+    "Address" : "Sector =F, DHA Phase-II",
+    "Latitude" : 33.5239793,
+    "Longitude" : 73.1600377,
+    "MapAddress" : "Sector F DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Community Pharmacy"
+  }, {
+    "Address" : "Icon Plaza Commercial Area, Sector-B, Zaraj Scheme DHA Phase-II",
+    "Latitude" : 33.532802,
+    "Longitude" : 73.1452867,
+    "MapAddress" : "Sector B DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hilltop Pharmaceuticals PVT Ltd"
+  }, {
+    "Address" : "20-Wisal Plaza, I-10/1 Islamabad",
+    "Latitude" : 33.6443989,
+    "Longitude" : 73.0392229,
+    "MapAddress" : "Bismillah Market, Wisal Plaza, I-10-1, I-10, I 10/1 I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Services Medical Store"
+  }, {
+    "Address" : "Koral Community Health Centre, Bhatta Road Rawalpindi, Punjab",
+    "Latitude" : 33.605336,
+    "Longitude" : 72.9810138,
+    "MapAddress" : "Bhatta Road, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Al-Faisal Medical Store"
+  }, {
+    "Address" : "Mandeer Palace, Sector I-10 Markaz Islamabad",
+    "Latitude" : 33.6467957,
+    "Longitude" : 73.0375761,
+    "MapAddress" : "I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Medicare Pharmacy"
+  }, {
+    "Address" : "Ground Floor, RTA Plaza, G-15 Islamabad",
+    "Latitude" : 33.6329291,
+    "Longitude" : 72.9224128,
+    "MapAddress" : "Shop # 3, RTA Plaza، G 15 Markaz G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Wall green’s Pharmacy"
+  }, {
+    "Address" : "Madina Town, Jabba Khanna Dak Islamabad",
+    "Latitude" : 33.6283542,
+    "Longitude" : 73.12586999999999,
+    "MapAddress" : ", ICT, Pakistan",
+    "Name" : "Al-Shifa Medical Store"
+  }, {
+    "Address" : "Mehran Plaza, Partal Lehtrar Road",
+    "Latitude" : 33.645224,
+    "Longitude" : 73.1745179,
+    "MapAddress" : "Lehtrar Road, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Green Medical Store"
+  }, {
+    "Address" : "27-E, Ali Plaza, Blue Area",
+    "Latitude" : 33.7272426,
+    "Longitude" : 73.0877709,
+    "MapAddress" : "Ataturk Ave, Block R F 6/4 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "PH Distrubutors"
+  }, {
+    "Address" : "A-Block, H-8/4",
+    "Latitude" : 33.6751265,
+    "Longitude" : 73.0670796,
+    "MapAddress" : "Pitras Bukhari Road, Sector H-8/4، H 8/4 H-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa International Hospital Pharmacy"
+  }, {
+    "Address" : "Mughal Market, I-8/1 Islamabad",
+    "Latitude" : 33.65654,
+    "Longitude" : 73.0602638,
+    "MapAddress" : "Abbasi Market, St 47, I-9-4, I-9, I 9/4 I-9, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "New Madni Medical Store"
+  }, {
+    "Address" : "Plot No 6-A, Commercial Str. No 149, Sector G-13/4",
+    "Latitude" : 33.6499634,
+    "Longitude" : 72.9637728,
+    "MapAddress" : "G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Get Vell Pharmacy"
+  }, {
+    "Address" : "Allah Wali Market, Farash Town, Lehtrar Road",
+    "Latitude" : 33.6450267,
+    "Longitude" : 73.1878748,
+    "MapAddress" : "Lehtrar Road, Farash, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Satti Medical Store"
+  }, {
+    "Address" : "CNG Station Lehtrar Road, Khanna Dak Islamabad",
+    "Latitude" : 33.6319405,
+    "Longitude" : 73.122421,
+    "MapAddress" : "Lehtrar Road, Khanna Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sultan Pharmacy"
+  }, {
+    "Address" : "Saqib Plaza, Pakeeza Market, Sector I-8/4",
+    "Latitude" : 33.6635843,
+    "Longitude" : 73.076129,
+    "MapAddress" : "I-8/4 I 8/4 I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Abbasi Pharmacy"
+  }, {
+    "Address" : "Rehara Complex, Kurri Road, Mohra Noor",
+    "Latitude" : 33.6331578,
+    "Longitude" : 73.0872339,
+    "MapAddress" : "Kurri Rd, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Begum Jan Medical Store"
+  }, {
+    "Address" : "Al-Yousaf Market, Khan akber Town, Khanna Dak Islamabad",
+    "Latitude" : 33.6302786,
+    "Longitude" : 73.1085555,
+    "MapAddress" : "Lehtarar Rd, Shakrial, Rawalpindi, Punjab 44000, Pakistan",
+    "Name" : "Nazir Medical Store"
+  }, {
+    "Address" : "G-7/4",
+    "Latitude" : 33.7056917,
+    "Longitude" : 73.0793568,
+    "MapAddress" : "Muhammad Mansha Yaad Rd, G-7/4 G 7/4 G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamic International Dental hospital Medical Store"
+  }, {
+    "Address" : "Noor Hospital Fateh jang Road, Tarnol",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anood Medical Store"
+  }, {
+    "Address" : "Shifa Foundation, H-8/4",
+    "Latitude" : 33.6790202,
+    "Longitude" : 73.073453,
+    "MapAddress" : "Jaffer Khan Jamali Rd, H-8/4 H 8/4 H-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa Foundation Falahee Clinic Pharmacy"
+  }, {
+    "Address" : "Dhoke Deptian Lehtrar Road, Ali Pur farash Islamabad",
+    "Latitude" : 33.6453253,
+    "Longitude" : 73.1786968,
+    "MapAddress" : "Lehtrar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shah Sultan Medical Store"
+  }, {
+    "Address" : "Shop No 2, New Plaza Main Market, Rawal Town Islamabad",
+    "Latitude" : 34.1240709,
+    "Longitude" : 72.4613191,
+    "MapAddress" : "Swabi, Khyber Pakhtunkhwa, Pakistan",
+    "Name" : "Swabi Medical Sore"
+  }, {
+    "Address" : "Inayat Plaza, Al-Madina Market, Iqbal Town Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pak Punjab Distributor"
+  }, {
+    "Address" : "Plot No 15, FECHS, E-11/2",
+    "Latitude" : 33.698188,
+    "Longitude" : 72.97853529999999,
+    "MapAddress" : "E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Harmain Pharmacy"
+  }, {
+    "Address" : "Goal Market, G-7/4",
+    "Latitude" : 21.3890824,
+    "Longitude" : 39.8579118,
+    "MapAddress" : "Mecca Saudi Arabia",
+    "Name" : "Al-Makkah Medical Store"
+  }, {
+    "Address" : "Al-Rehman Mall, Lower Ground G-11 Markaz Islamabad",
+    "Latitude" : 33.6687503,
+    "Longitude" : 73.0004931,
+    "MapAddress" : "G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Armaycure Pharmacy"
+  }, {
+    "Address" : "Qasim Market,  Arcade, G-13/4",
+    "Latitude" : 33.6480799,
+    "Longitude" : 72.9669109,
+    "MapAddress" : "No., Street 122, G 13/4 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacy-360"
+  }, {
+    "Address" : "G.T. Road, Sawan Camp",
+    "Latitude" : 18.1777077,
+    "Longitude" : -76.4531869,
+    "MapAddress" : "23 West St, Port Antonio, Jamaica",
+    "Name" : "Taj Pharmacy"
+  }, {
+    "Address" : "Mughal Market, Mirza Chowk, Golra Service Road, G-12",
+    "Latitude" : 33.9923801,
+    "Longitude" : 71.4357715,
+    "MapAddress" : "Rehman Medical Institute 5-B/2, Phase-V,، Peshawar, Pakistan",
+    "Name" : "Al-Rehman Medical Store"
+  }, {
+    "Address" : "AL-Kashif Plaza, G-10 Markaz Islamabad",
+    "Latitude" : 33.7104752,
+    "Longitude" : 73.0389247,
+    "MapAddress" : "kashif plaza، F-8 Markaz Islamabad, 44220, Pakistan",
+    "Name" : "Mumtaz Medical Store"
+  }, {
+    "Address" : "Block No 40, I& T Centre, G-10/4",
+    "Latitude" : 33.669752,
+    "Longitude" : 73.01442279999999,
+    "MapAddress" : "Service Rd W, G-10/1 G 10/1 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Biowel Sciences"
+  }, {
+    "Address" : "Max Health Hospital, 12-K Markaz Islamabad Road, G-8 Markaz Islamabad",
+    "Latitude" : 33.6973021,
+    "Longitude" : 73.0487119,
+    "MapAddress" : "Markaz Rd، G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Meteast Pharmacy"
+  }, {
+    "Address" : "Plot No MC-50, Phase-4-A, Ghouri Town Islamabad",
+    "Latitude" : 33.6170551,
+    "Longitude" : 73.1387597,
+    "MapAddress" : "Ghori Town Phase 4-A Phase 4 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Atta Medical Store"
+  }, {
+    "Address" : "Super Market, Main Service Road Sector E-11",
+    "Latitude" : 33.698188,
+    "Longitude" : 72.97853529999999,
+    "MapAddress" : "E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "City Pharmacy"
+  }, {
+    "Address" : "Shop No 2-A, Goal Market, G-7/4",
+    "Latitude" : 21.3890824,
+    "Longitude" : 39.8579118,
+    "MapAddress" : "Mecca Saudi Arabia",
+    "Name" : "Al-Makkah Medical Store"
+  }, {
+    "Address" : "Al-Rehman Mall Lower Ground G-11 Markaz Islamabad",
+    "Latitude" : 33.6687503,
+    "Longitude" : 73.0004931,
+    "MapAddress" : "G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Armaycure Pharmacy"
+  }, {
+    "Address" : "G.T. Road, Sawan Camp",
+    "Latitude" : 18.1777077,
+    "Longitude" : -76.4531869,
+    "MapAddress" : "23 West St, Port Antonio, Jamaica",
+    "Name" : "Taj Pharmacy"
+  }, {
+    "Address" : "Mughal Market, Mirza Chowk, Golra Service Road, G-12",
+    "Latitude" : 33.9923801,
+    "Longitude" : 71.4357715,
+    "MapAddress" : "Rehman Medical Institute 5-B/2, Phase-V,، Peshawar, Pakistan",
+    "Name" : "Al-Rehman Medical Store"
+  }, {
+    "Address" : "Shop No 9, Al-Kashif Plaza, G-10 Markaz Islamabad",
+    "Latitude" : 33.7104752,
+    "Longitude" : 73.0389247,
+    "MapAddress" : "kashif plaza، F-8 Markaz Islamabad, 44220, Pakistan",
+    "Name" : "Mumtaz Medical Store"
+  }, {
+    "Address" : "Block No 40, I&T Centre, G-10/4",
+    "Latitude" : 33.669752,
+    "Longitude" : 73.01442279999999,
+    "MapAddress" : "Service Rd W, G-10/1 G 10/1 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Biowel Pharmacy"
+  }, {
+    "Address" : "Max Health Hospital, 12-K Markaz Islamabad Road, G-8",
+    "Latitude" : 33.6973021,
+    "Longitude" : 73.0487119,
+    "MapAddress" : "Markaz Rd، G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Meteast Pharmacy "
+  }, {
+    "Address" : "Plot No MC-50, Ghouri Town Islamabad",
+    "Latitude" : 33.6170551,
+    "Longitude" : 73.1387597,
+    "MapAddress" : "Ghori Town Phase 4-A Phase 4 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Atta Medical Store"
+  }, {
+    "Address" : "Office No 4, 2nd Floor Ahmed Centre, I-8 Markaz Islamabad",
+    "Latitude" : 33.6995307,
+    "Longitude" : 73.04790489999999,
+    "MapAddress" : "G-8 Markaz Rd, G-8/2 G 8/2 G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Bio-Life"
+  }, {
+    "Address" : "Saqib Plaza, Near Post Office, Sohan Islamabad",
+    "Latitude" : 33.6604781,
+    "Longitude" : 73.0977166,
+    "MapAddress" : "Sohan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rehman Pharmacy"
+  }, {
+    "Address" : "Shop No 2, Areej Tower Sector E-11/3 Markaz Islamabad",
+    "Latitude" : 33.7028834,
+    "Longitude" : 72.9801135,
+    "MapAddress" : "Sector E-11/3, MPCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Boots Pharmacy"
+  }, {
+    "Address" : "Shop No 7, Umer Plaza, Fateh Jang Road, Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "Farm Friends Pharmacy"
+  }, {
+    "Address" : "Ground Floor Mehmood Plaza, Lehtrar Road",
+    "Latitude" : 33.7148141,
+    "Longitude" : 73.0673214,
+    "MapAddress" : "AK Fazal-ul-Haq Rd, Block G, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Organo Pharmacy"
+  }, {
+    "Address" : "Riphah International Hospital, Zone-V, Sihala",
+    "Latitude" : 33.6167919,
+    "Longitude" : 72.9718869,
+    "MapAddress" : "I-14, Near Hajj Complex, I-14, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaafi Pharmacy"
+  }, {
+    "Address" : "Shop No 24, Rehmat Business Centre, I-10 Markaz Islamabad",
+    "Latitude" : 33.6465515,
+    "Longitude" : 73.03704309999999,
+    "MapAddress" : "Rehmat Business Centre, Sohni Rd, I-10 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Raza Pharmacy"
+  }, {
+    "Address" : "Hill View Block Lower Basement Block No 516, Pakistan Town Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kohsar Distributors"
+  }, {
+    "Address" : "Shop No 8, City Plaza, F-10 Markaz Islamabad",
+    "Latitude" : 33.6979033,
+    "Longitude" : 73.01147,
+    "MapAddress" : "City Plaza, 10th Ave, F-10 Markaz, F-10, F 10/3 F-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Ihsan P:harmacy"
+  }, {
+    "Address" : "Benazir Chowk Fateh Jang Road, Tarnol",
+    "Latitude" : 33.5672929,
+    "Longitude" : 72.6505957,
+    "MapAddress" : "Fateh Jang, Attock, Punjab, Pakistan",
+    "Name" : "Al-Syed Medical Store"
+  }, {
+    "Address" : "Plot No 2-B, Bazar No 8, Bilquis Memorial Hospital, G-9/2",
+    "Latitude" : 33.692365,
+    "Longitude" : 73.030502,
+    "MapAddress" : "jehangir market. G-9/2 . Islamabad، G 9/2 G-9, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Bilquis Medical Store"
+  }, {
+    "Address" : "Main Murree Road, Athal Chowk, Oppt. Summit Bank, Barkau",
+    "Latitude" : 33.5947885,
+    "Longitude" : 73.05716629999999,
+    "MapAddress" : "dd/29, shamsabad، Murree Rd, Pakistan",
+    "Name" : "Malik Medicare Pharmacy"
+  }, {
+    "Address" : "Shams Colony Golra More H-13",
+    "Latitude" : 33.6287558,
+    "Longitude" : 72.97011169999999,
+    "MapAddress" : "Shams Colony Rd, H-13, Rawalpindi, Islamabad Capital Territory, Pakistan",
+    "Name" : "Malik Medical Store"
+  }, {
+    "Address" : "Basement Hall No 3, Al-Hameed Centre, G-11 Markaz Islamabad",
+    "Latitude" : 33.669971,
+    "Longitude" : 72.99943189999999,
+    "MapAddress" : "Office no 29,30, Al Hameed Mall, G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Deen Pavilion Blue Area, F-7 Markaz Islamabad",
+    "Latitude" : 33.7088642,
+    "Longitude" : 73.0555787,
+    "MapAddress" : "Block H، G 7/2 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "D. Watson Pharmacy (compounding)"
+  }, {
+    "Address" : "Main Murree Road, Near Naveed Marriage Hall Bhara kahu Islamabad",
+    "Latitude" : 33.7392134,
+    "Longitude" : 73.1783636,
+    "MapAddress" : "Umer Ayub Medical Complex, Bhara Kahu, Kot Hathyal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Umer Ayub Pharmacy"
+  }, {
+    "Address" : "Shop No 10, 11, 12, Al-Rehman Plaza, G-9 Markaz Islamabad",
+    "Latitude" : 33.68824,
+    "Longitude" : 73.03350999999999,
+    "MapAddress" : "G-9 Markaz, G-9, Islamabad, ICT, Pakistan",
+    "Name" : "Super Drug Pharmacy"
+  }, {
+    "Address" : "Abdullah heights, Plaza C-7 Abu Bakar Chowk, St. No 26, Ghouri Town Islamabad",
+    "Latitude" : 33.6186569,
+    "Longitude" : 73.1338184,
+    "MapAddress" : "Street Number 26, Ghori Town Phase 4-A Phase 4A Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Amjid Ali Medical Store"
+  }, {
+    "Address" : "Sardar Mansion Fazal e Haq Road, Blue Area",
+    "Latitude" : 33.7168281,
+    "Longitude" : 73.0719244,
+    "MapAddress" : "A.K. Fazl-ul-Haq Rd, G 7/3 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Maroof Pharmacy"
+  }, {
+    "Address" : "Indoor Pharmacy, 3rd Floor Aklas Plaza, G-10 Markaz Islamabad",
+    "Latitude" : 33.6772223,
+    "Longitude" : 73.01639899999999,
+    "MapAddress" : "3RD FLOOR, AKLAS PLAZA, BEHIND BABRI MASJID,, Sawan Road, Islamabad, 44000, Pakistan",
+    "Name" : "Australian Concept Infertility Medical Centre"
+  }, {
+    "Address" : "Shop No 4, Block No 1-J, Tariq Market, F-10/2",
+    "Latitude" : 33.6907347,
+    "Longitude" : 72.99901679999999,
+    "MapAddress" : "Street 14, F-10/2 F 10/2 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "The RAF Pharmacy"
+  }, {
+    "Address" : "United Plaza, Fazal e Haq Road, Blue Area",
+    "Latitude" : 33.708866,
+    "Longitude" : 73.0560623,
+    "MapAddress" : "United Plaza, AKM Fazal-ul-Haq Rd, Block I, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaheen Pharmacy"
+  }, {
+    "Address" : "Shop No 4, 5, 17, Zaki Centre, I-8 Markaz Islamabad",
+    "Latitude" : 33.6667828,
+    "Longitude" : 73.07330809999999,
+    "MapAddress" : "44 Zak Tower, I-, I 8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacons Community Pharmacy"
+  }, {
+    "Address" : "Office No 20, Ground Floor Zaki Plaza, I-8 Markaz Islamabad",
+    "Latitude" : 33.6668803,
+    "Longitude" : 73.0733573,
+    "MapAddress" : "Zaki Plaza, Tipu Sultan Rd, I-8 Markaz, I-8, I 8 Markaz I-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Pharmacons Distribution and Marketing Network"
+  }, {
+    "Address" : "Murree Road, Bhara kahu Islamabad",
+    "Latitude" : 33.7405438,
+    "Longitude" : 73.1810247,
+    "MapAddress" : "Murree Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Iqbal Pharmacy"
+  }, {
+    "Address" : "Office No 13, Rose-I Plaza, I-8 Markaz Islamabad",
+    "Latitude" : 33.6687962,
+    "Longitude" : 73.0760829,
+    "MapAddress" : "Rose 1 Plaza, I-8 Markaz I 8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Blue Care Pharma Distributor"
+  }, {
+    "Address" : "Shop No 8, 15, Nomi Arcade G-15 Markaz Islamabad",
+    "Latitude" : 33.6320702,
+    "Longitude" : 72.9215562,
+    "MapAddress" : "Main Rd Number 1, G-15 Markaz G 15 Markaz G-15, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Alees Pharmacy"
+  }, {
+    "Address" : "Shop No 9, Plot No 3-N, Mandair Palace I-10 Markaz Islamabad",
+    "Latitude" : 33.6487643,
+    "Longitude" : 73.0407122,
+    "MapAddress" : "I-10 Markaz I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa Medical Store"
+  }, {
+    "Address" : "Simly Dam Road, Bhara kahu",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Uzair Medical Store"
+  }, {
+    "Address" : "Nai Abadi Bhara kahu",
+    "Latitude" : 33.7489119,
+    "Longitude" : 73.1851121,
+    "MapAddress" : "Nai Abadi Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bio Life Medical Store"
+  }, {
+    "Address" : "Dhoke Abbasi Tarnol",
+    "Latitude" : 33.6051147,
+    "Longitude" : 73.11480279999999,
+    "MapAddress" : "Main Bazaar Shah Khalid Colony, Shah Khalid Colony Rawalpindi, Rawalpindi District, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Jannat Medical Store"
+  }, {
+    "Address" : "Jawa Road, Rawat",
+    "Latitude" : 33.496653,
+    "Longitude" : 73.1951205,
+    "MapAddress" : "Jawa Rd, Main Bazar, Rawat, Islamabad, Islamabad Capital Territory 45900, Pakistan",
+    "Name" : "Al-Jawad Medical Store"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ideal Pharmacy"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ms/. Tariq Medical Store"
+  }, {
+    "Address" : "Sector E-14",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Subhan Medical Store"
+  }, {
+    "Address" : "Sector G-12",
+    "Latitude" : 33.6514087,
+    "Longitude" : 72.9835423,
+    "MapAddress" : "Kashmir Hwy, G-12, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Dehan Medical Store"
+  }, {
+    "Address" : "Fazal-e-Haq Road",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shaban Pharmacy"
+  }, {
+    "Address" : "Main Road, I-0 Markaz Islamabad",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Maham Pharmacy"
+  }, {
+    "Address" : "Amir Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6514,
+    "Longitude" : 73.04473,
+    "MapAddress" : "I-10-3, I-10, I 10/3 I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Max Pharmaceuticals Distributor"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hashim Pharmacy"
+  }, {
+    "Address" : "Athal Chowk Bhara kahu",
+    "Latitude" : 33.7396277,
+    "Longitude" : 73.1797468,
+    "MapAddress" : "Murree Rd, Athal Chowk, Barakahu, Bhara Kahu, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Naeem Medical Store"
+  }, {
+    "Address" : "Nai Abadi Bhara kahu",
+    "Latitude" : 33.7489119,
+    "Longitude" : 73.1851121,
+    "MapAddress" : "Nai Abadi Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zia Medical store"
+  }, {
+    "Address" : "Sector F-17 Markaz Islamabad",
+    "Latitude" : 33.5239793,
+    "Longitude" : 73.1600377,
+    "MapAddress" : "Sector F DHA Phase II, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Abdullah Pharmacy"
+  }, {
+    "Address" : "I-9 Markaz Islamabad",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Omer Traders Pharmacy"
+  }, {
+    "Address" : "Kiani Road, Bhara kahu",
+    "Latitude" : 33.7427559,
+    "Longitude" : 73.173777,
+    "MapAddress" : "Kiani Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Mahnoor Medical Store"
+  }, {
+    "Address" : "G-7 Markaz Islamabad",
+    "Latitude" : 33.7068708,
+    "Longitude" : 73.0682035,
+    "MapAddress" : "Sitara Market, Shop 3, Block C-3, G-7, G-7 Markaz, G 7 Markaz G-7, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Owais Medical Store"
+  }, {
+    "Address" : "Shahpur Bhara kahu",
+    "Latitude" : 33.7449623,
+    "Longitude" : 73.1762626,
+    "MapAddress" : "Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Safi Medical Store"
+  }, {
+    "Address" : "Simly Dam road, Bhara kahu",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Dhanyal Medical Store"
+  }, {
+    "Address" : "Ahmed Arcade, Ghauri Town, Phase-4-A",
+    "Latitude" : 33.621685,
+    "Longitude" : 73.1393861,
+    "MapAddress" : "Phase 4 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Baber’s Pharmacy"
+  }, {
+    "Address" : "Plot No 244-A, I-9/3",
+    "Latitude" : 33.6617123,
+    "Longitude" : 73.0567611,
+    "MapAddress" : "I-9/3 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zaheer Pharma"
+  }, {
+    "Address" : "Ground Floor, Main Road, Class-III, G-13/1",
+    "Latitude" : 33.6450393,
+    "Longitude" : 72.96357789999999,
+    "MapAddress" : "H-25 Street 487, G-13/1 G 13/1 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Life Pharmacy"
+  }, {
+    "Address" : "Main Bazar Rawat",
+    "Latitude" : 33.4955769,
+    "Longitude" : 73.1964089,
+    "MapAddress" : "GT Rd, Rawat, Islamabad, ICT, Pakistan",
+    "Name" : "Asif Medi Plus Medical Store"
+  }, {
+    "Address" : "Near Nazakat Market, nai Abdi Sohan Islamabad",
+    "Latitude" : 33.5348215,
+    "Longitude" : 73.1427052,
+    "MapAddress" : "Nai Abadi Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khurshid Medical Store"
+  }, {
+    "Address" : "Khan Akber Town, New Shakrial",
+    "Latitude" : 33.6135078,
+    "Longitude" : 73.0601799,
+    "MapAddress" : "Iqbal Rd, Raja Bazar, Committe Chowk, Rawalpindi, Punjab 46000, Pakistan",
+    "Name" : "Shahid Medical Store"
+  }, {
+    "Address" : "MB City Mall Plaza, I-8 Markaz Islamabad",
+    "Latitude" : 33.6673258,
+    "Longitude" : 73.0752199,
+    "MapAddress" : "Time Square Plaza, I-8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "B.F. Pharmacy"
+  }, {
+    "Address" : "Shakeel Square Market, I-9/1",
+    "Latitude" : 33.6531516,
+    "Longitude" : 73.0538097,
+    "MapAddress" : "I-9/1 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Agha Medical Store"
+  }, {
+    "Address" : "Saif Health Care Ltd, Kulsum Plaza, B.A",
+    "Latitude" : 33.71824,
+    "Longitude" : 73.07316,
+    "MapAddress" : "Block E, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Kulsum Pharmacy"
+  }, {
+    "Address" : "Plot No 32, I-8 Markaz Islamabad",
+    "Latitude" : 33.6673258,
+    "Longitude" : 73.0752199,
+    "MapAddress" : "Time Square Plaza, I-8 Markaz I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacy-3"
+  }, {
+    "Address" : "Class-III Shopping Centre, G-8/1",
+    "Latitude" : 33.6907445,
+    "Longitude" : 73.0508582,
+    "MapAddress" : "G-8/1 G 8/1 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Malik Medical Store"
+  }, {
+    "Address" : "Sohan Islamabad",
+    "Latitude" : 33.659248,
+    "Longitude" : 73.096833,
+    "MapAddress" : "SOHAN، Sohan, Islamabad, Islamabad Capital Territory 45740, Pakistan",
+    "Name" : "Faridon Medical Store"
+  }, {
+    "Address" : "Main Melody Market",
+    "Latitude" : 33.7169396,
+    "Longitude" : 73.0851668,
+    "MapAddress" : "G-6 Markaz G 6 Markaz G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sabir Medical Store"
+  }, {
+    "Address" : "Mir Trade Centre, Melody Market",
+    "Latitude" : 33.7172312,
+    "Longitude" : 73.0839218,
+    "MapAddress" : "G-6 Markaz G 6 Markaz G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hashmi Pharmacy"
+  }, {
+    "Address" : "Abu Bakkar Plaza, Sorain H-13",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Friends Medical Store"
+  }, {
+    "Address" : "Block 13-R, F-7 Markaz Islamabad",
+    "Latitude" : 33.7211404,
+    "Longitude" : 73.0571301,
+    "MapAddress" : "F-7 Markaz F 7 Markaz F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Elahi Medical Store"
+  }, {
+    "Address" : "Gul Plaza, Sector G-10 Markaz Islamabad",
+    "Latitude" : 33.6948562,
+    "Longitude" : 73.0140102,
+    "MapAddress" : "Sumbal Rd, F-10 Markaz F 10/4 F-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sina Pharmacy"
+  }, {
+    "Address" : "Khokhar Market, Ali Pur",
+    "Latitude" : 33.6440818,
+    "Longitude" : 73.1733127,
+    "MapAddress" : "Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hamza Medical Store"
+  }, {
+    "Address" : "Industrial Area, I-9/2",
+    "Latitude" : 33.6577523,
+    "Longitude" : 73.0479067,
+    "MapAddress" : "I-9/2 I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Raaziq Marketing & Management Services Pvt Ltd"
+  }, {
+    "Address" : "Sector F-11 Markaz Islamabad",
+    "Latitude" : 33.68384,
+    "Longitude" : 72.98670000000001,
+    "MapAddress" : "Seovay Arcade, F-11 Markaz، F 11 Markaz F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shifa Pharmacy"
+  }, {
+    "Address" : "Ghauri Town, Phase 3",
+    "Latitude" : 33.6164361,
+    "Longitude" : 73.1298411,
+    "MapAddress" : "592 Phase III Internal Rd 592 Phase III Internal Rd, Pakistan",
+    "Name" : "Bioways Health Care Distributor"
+  }, {
+    "Address" : "AAA Plaza, G-10 Markaz Islamabad",
+    "Latitude" : 33.6756115,
+    "Longitude" : 73.0140407,
+    "MapAddress" : "Ground Floor, AAA Plaza, Bela Rd, G-10 Markaz، G 10 Markaz G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Madison Square Pharmacy"
+  }, {
+    "Address" : "1-A Sheikh Market, Rawal Town",
+    "Latitude" : 33.6866977,
+    "Longitude" : 73.11873270000001,
+    "MapAddress" : "Rawal Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Capital Medical Store"
+  }, {
+    "Address" : "6-Rupiyal Plaza, I-10 Markaz Islamabad",
+    "Latitude" : 33.6926852,
+    "Longitude" : 73.0143792,
+    "MapAddress" : "Irfan Plaza, F-10 Markaz, F-10, F 10/4 F-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Medi Health Medical Store"
+  }, {
+    "Address" : "Plot No 4-K, I-10 Markaz Islamabad",
+    "Latitude" : 33.6482399,
+    "Longitude" : 73.0404568,
+    "MapAddress" : "Shaukat Plaza, Shop 10, Korang Rd, I-10 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Drug Point Medical Store"
+  }, {
+    "Address" : "Rose Plaza I-8 Markaz Islamabad",
+    "Latitude" : 33.6887992,
+    "Longitude" : 73.0328972,
+    "MapAddress" : "Rose Plaza, G-9 Markaz, G-9, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Merixil Pharma"
+  }, {
+    "Address" : "Dhoke Jilani Bhara kahu",
+    "Latitude" : 33.7336869,
+    "Longitude" : 73.1707639,
+    "MapAddress" : "Main Dhook Jelani Road, Bhara Kahu, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zahaidia Medical Store"
+  }, {
+    "Address" : "I & T G-6/1",
+    "Latitude" : 33.7152157,
+    "Longitude" : 73.0807196,
+    "MapAddress" : "G-6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Sky Medical Store"
+  }, {
+    "Address" : "Tamasab Market, Khanna Dak",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ahmed Medical Store"
+  }, {
+    "Address" : "Sanam Chowk Khanna Dak",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hassan Ali Medical Store"
+  }, {
+    "Address" : "Abu Huraira Market, Ashraf Town, Pindorian",
+    "Latitude" : 33.64454550000001,
+    "Longitude" : 73.1153333,
+    "MapAddress" : "Ashraf Town, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Awab Medical Store"
+  }, {
+    "Address" : "Ayan Plaza, Ghauri Garden",
+    "Latitude" : 33.6337405,
+    "Longitude" : 73.1125467,
+    "MapAddress" : "Khanna, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Khair Medical Store"
+  }, {
+    "Address" : "Block 7-D, Super Market",
+    "Latitude" : 33.7294831,
+    "Longitude" : 73.0767264,
+    "MapAddress" : "School Rd, F-6 Markaz, F-6, F 6 Markaz F-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Health Vision"
+  }, {
+    "Address" : "Al-Noor Plaza, Khanna Dak",
+    "Latitude" : 33.6327267,
+    "Longitude" : 73.1261955,
+    "MapAddress" : "Al-Noor Plaza, Lehtrar Rd, Sanam Chowk, Khanna Dak, Khanna, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Chaudhry Medical Store"
+  }, {
+    "Address" : "Shop No A-710, Aabpara",
+    "Latitude" : 33.7063825,
+    "Longitude" : 73.086089,
+    "MapAddress" : "Aabpara G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sky Medical Store"
+  }, {
+    "Address" : "Samina Clinic, Rawat",
+    "Latitude" : 33.4951028,
+    "Longitude" : 73.19691080000001,
+    "MapAddress" : "Rawat, Islamabad Capital Territory, Pakistan",
+    "Name" : "Arslan Medical Store"
+  }, {
+    "Address" : "Hamza Town, Maira Jaffar",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zaki Medical Store"
+  }, {
+    "Address" : "Ghauri Market, Aslam Chowk, Mera Jaffar Sector G-12",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Badar Medical Store"
+  }, {
+    "Address" : "Zohaib Shopping Complex, Ghauri Town, Phase-5-A",
+    "Latitude" : 33.6119262,
+    "Longitude" : 73.1327477,
+    "MapAddress" : "Phase 5 Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Fatima Medical Store"
+  }, {
+    "Address" : "Shop No 1, Jamil Plaza, Sector, G-10 Markaz Islamabad",
+    "Latitude" : 33.676049,
+    "Longitude" : 73.0139616,
+    "MapAddress" : "G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Noor Medical Store"
+  }, {
+    "Address" : "Plot No 213, St. No 7, Sector K-9/3",
+    "Latitude" : 33.6541078,
+    "Longitude" : 73.0345268,
+    "MapAddress" : "80 Street 6, I-10/3 I 10/3 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "S. Noor Medicine Company"
+  }, {
+    "Address" : "Haroon Plaza, I-9 Markaz Islamabad",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Crystolite Pharma Distributors"
+  }, {
+    "Address" : "Ghauri Town Phase-III",
+    "Latitude" : 33.6125843,
+    "Longitude" : 73.130166,
+    "MapAddress" : "I,, Islamabad Capital Territory, Pakistan",
+    "Name" : "Allied Medical Store"
+  }, {
+    "Address" : "Shop No 12, Qasim Market/Arcade St. No 122, G-13/4",
+    "Latitude" : 33.6480799,
+    "Longitude" : 72.9669109,
+    "MapAddress" : "No., Street 122, G 13/4 G-13, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pharmacy 360"
+  }, {
+    "Address" : "Shop No 4, Ground Floor, Ghauri Town",
+    "Latitude" : 33.6205325,
+    "Longitude" : 73.1408613,
+    "MapAddress" : "Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Allied Medical Store"
+  }, {
+    "Address" : "Khana Dak Near Ziarat Abdullah Shah Biyabani, Khana Dak",
+    "Latitude" : 33.6302222,
+    "Longitude" : 73.1230544,
+    "MapAddress" : "Link Rd, Khanna Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Waleed Medical Store"
+  }, {
+    "Address" : "Dhoke Abbasi, Tarnol",
+    "Latitude" : 33.6051147,
+    "Longitude" : 73.11480279999999,
+    "MapAddress" : "Main Bazaar Shah Khalid Colony, Shah Khalid Colony Rawalpindi, Rawalpindi District, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Jannat Medical Store"
+  }, {
+    "Address" : "Shop No 5, Ali Arcade Plaza, Plot No 47, Ground Floor Ghauri Town",
+    "Latitude" : 33.6205325,
+    "Longitude" : 73.1408613,
+    "MapAddress" : "Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hapiday Medical Store"
+  }, {
+    "Address" : "Shop No 1, Block No 6, Kohsar Cinema Building, Sitara Market",
+    "Latitude" : 33.7054549,
+    "Longitude" : 73.06817099999999,
+    "MapAddress" : "G-7 Markaz G 7 Markaz G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Minahil Pharmacy"
+  }, {
+    "Address" : "Shop No 2, Shah Plaza, Kiani Road, Bhara kahu",
+    "Latitude" : 33.7427559,
+    "Longitude" : 73.173777,
+    "MapAddress" : "Kiani Rd, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Wasay Medical Store"
+  }, {
+    "Address" : "Soan Garden",
+    "Latitude" : 33.5639482,
+    "Longitude" : 73.1510138,
+    "MapAddress" : "Soan Ave, Block D Soan Gardens, Islamabad, Punjab, Pakistan",
+    "Name" : "Baber Pharmacy"
+  }, {
+    "Address" : "PINSTECH Shopping Centre, Nilore",
+    "Latitude" : 33.6563904,
+    "Longitude" : 73.2617928,
+    "MapAddress" : "Nilore, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Omair Medical Store"
+  }, {
+    "Address" : "Shop No 1, Ghouri Town, Phase-1, Khanna East",
+    "Latitude" : 33.6226862,
+    "Longitude" : 73.1223838,
+    "MapAddress" : "Ghauri Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Majeed Pharmacy"
+  }, {
+    "Address" : "Khan Market, Sngjani",
+    "Latitude" : 33.6746148,
+    "Longitude" : 72.8482247,
+    "MapAddress" : "Sangjani, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Bisma Medical Store"
+  }, {
+    "Address" : "T.Chowk, Rawat",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "I & K Pharmacy I&K International hospital"
+  }, {
+    "Address" : "Deen Pavilion Blue Area",
+    "Latitude" : 33.708828,
+    "Longitude" : 73.0555804,
+    "MapAddress" : "Din Pavallions Plaza, Jinnah Ave, Block I, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "D. Watson Pharmacy"
+  }, {
+    "Address" : "Melody Market",
+    "Latitude" : 33.71714,
+    "Longitude" : 73.0839356,
+    "MapAddress" : "Mir Trade Centre, Municipal Rd, Melody Market, G-6, G 6 Markaz G-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al-Saleh Pharmacy"
+  }, {
+    "Address" : "Simpli Dam Road, Bhara kahu",
+    "Latitude" : 33.738194,
+    "Longitude" : 73.1881789,
+    "MapAddress" : "Simly Dam Road, Bhara Kahu, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Awan Medical Store"
+  }, {
+    "Address" : "Khanna Dak, Near Ali Trust College",
+    "Latitude" : 33.6317332,
+    "Longitude" : 73.12196759999999,
+    "MapAddress" : "Lehtrar Rd, Khanna Dak, Bilal Town Khanna, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Sohan Vet Medical Store"
+  }, {
+    "Address" : "Plaza, 12-M G-8 Square, G-8 Markaz Islamabad",
+    "Latitude" : 33.6992033,
+    "Longitude" : 73.0485892,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "MS Pharmacy"
+  }, {
+    "Address" : "Office No 5, 3rd Floor, M.B. Plaza I-8 Markaz Islamabad",
+    "Latitude" : 33.607783,
+    "Longitude" : 73.0136539,
+    "MapAddress" : "N-5, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Revive Health Care Distributors"
+  }, {
+    "Address" : "Zam Zam Arcade, Mini Market, G-15/2",
+    "Latitude" : 26.1615769,
+    "Longitude" : 50.4566612,
+    "MapAddress" : "Al Jasra, Bahrain",
+    "Name" : "Jasra Pharmacy"
+  }, {
+    "Address" : "I-10-/3",
+    "Latitude" : 33.6467957,
+    "Longitude" : 73.0375761,
+    "MapAddress" : "I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Parazelsus Pakistan (Pvt) Ltd"
+  }, {
+    "Address" : "Shop No 7, Mundair Palace Plot No 3-N, Ground Floor",
+    "Latitude" : 25.2284953,
+    "Longitude" : 55.2764248,
+    "MapAddress" : "19th St - Dubai - United Arab Emirates",
+    "Name" : "D.I Luqman Pharmacy"
+  }, {
+    "Address" : "Food Market, F-7/3-3",
+    "Latitude" : 33.7272696,
+    "Longitude" : 73.0597125,
+    "MapAddress" : "F 7/3 F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Madni Medical Store"
+  }, {
+    "Address" : "Rawat",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Noor Medical Store Main Bazar"
+  }, {
+    "Address" : "Pind Paracha G-14",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Zam Zam Medical Store"
+  }, {
+    "Address" : "Industrial & Trading Centre, G-9/4",
+    "Latitude" : 33.6863689,
+    "Longitude" : 73.03905189999999,
+    "MapAddress" : "G-9/4 G 9/4 G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Kamran Medical Store"
+  }, {
+    "Address" : "Civic Centre, Melody Market",
+    "Latitude" : 33.71714,
+    "Longitude" : 73.0839356,
+    "MapAddress" : "Mir Trade Centre, Municipal Rd, Melody Market, G-6, G 6 Markaz G-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Truworth Pharmacy"
+  }, {
+    "Address" : "Sangum Town, Khanna Dak",
+    "Latitude" : 33.6283542,
+    "Longitude" : 73.12586999999999,
+    "MapAddress" : ", ICT, Pakistan",
+    "Name" : "Sajjad Medical Store"
+  }, {
+    "Address" : "Ali Trust Khanna Dak",
+    "Latitude" : 33.6324671,
+    "Longitude" : 73.12255379999999,
+    "MapAddress" : "Lehtrar Rd, Khanna Dak, Khanna, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Rawal Pharmacy"
+  }, {
+    "Address" : "Friends Arcade F-17",
+    "Latitude" : 33.6310432,
+    "Longitude" : 72.8801908,
+    "MapAddress" : "Friends Arcade Plaza، F 17/3 F 17 MPCHS (Tele Gardens), Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Faisal Pharma Distributors"
+  }, {
+    "Address" : "Khanna Dak",
+    "Latitude" : 33.6283542,
+    "Longitude" : 73.12586999999999,
+    "MapAddress" : ", ICT, Pakistan",
+    "Name" : "Khawar Medical Store"
+  }, {
+    "Address" : "Ali Pur",
+    "Latitude" : 33.6451462,
+    "Longitude" : 73.1808034,
+    "MapAddress" : "Lehtarar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ali Pur Medical Store"
+  }, {
+    "Address" : "Madina Market, Near G-11 cricket ground Sector G-12",
+    "Latitude" : 33.6681223,
+    "Longitude" : 72.9962491,
+    "MapAddress" : "G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shah Medical hall Medical Store"
+  }, {
+    "Address" : "Merra Jaffar, Sector G-12",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "New Khattak Medical Store"
+  }, {
+    "Address" : "Super Market, Sector E-11",
+    "Latitude" : 33.6993751,
+    "Longitude" : 72.9741767,
+    "MapAddress" : "Street 43، SCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "City Pharmacy"
+  } ],
+  "date" : "21-Jan-2018",
+  "project_code" : "ICT",
+  "remarks" : "hi",
+  "set_ID" : "ICT_data_201712010001",
+  "type" : "Medical Stores"
+}

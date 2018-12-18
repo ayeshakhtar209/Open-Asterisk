@@ -1,0 +1,1394 @@
+{
+  "data" : [ /*{
+    "Address" : "Malot Commercial Center, Shahpur Simly Dam Road, Islamabad. 051- 2232394, 03005167142 ",
+    "Latitude" : 32.9448423,
+    "Longitude" : 73.6116742,
+    "MapAddress" : "Malot, Jhelum, Punjab, Pakistan",
+    "Name" : "Aas Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/494 ,Date: 6/9/2006, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Khana Dak, Madina Town, Jabbah, Barma Chowk, Islamabad. 03005308511 ",
+    "Latitude" : 33.6283542,
+    "Longitude" : 73.12586999999999,
+    "MapAddress" : ", ICT, Pakistan",
+    "Name" : "Abaseen Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/439, "
+  }, {
+    "Address" : "Office No.5, 1st Floor, A & K Plaza, F- 10 Markaz, Islamabad. 051-2214052, 03008438984 ",
+    "Latitude" : 33.6954742,
+    "Longitude" : 73.0134897,
+    "MapAddress" : "Universal Plaza, Shop 5-4/A, 10th Ave, F-10 Markaz, F-10, F 10/3 F-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Acid Survivors Foundation. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/511,Date 02/08/2007, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Ali Pur Frash Lehtrar Road, Islamabad. 051-2519062 ",
+    "Latitude" : 33.6452659,
+    "Longitude" : 73.17684849999999,
+    "MapAddress" : "Lehtrar Road, Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Akhmat Welfare Centre ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/282, Date 24/04/1998, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "# 204, Al Mustafa Towers F-10 Markaz, Islamabad. 03458555872 ",
+    "Latitude" : 33.691101,
+    "Longitude" : 73.016468,
+    "MapAddress" : "Plot No. 7, 10th Avenue, F-10, F 10/4 F-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Al Mustafa Towers Residents Associations (AMPTRWA) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/438, Date 27/03/2004,VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mohallah Ara, Bharakau, Islamabad. 051-2512308, 03008565227 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Firdous Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/520, Date 2/04/2008, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Model Village Ali Pur Farash Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Itehad Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/261,Date:0 5/08/1996, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "NearF.G.Boys High School Shahdra Islamabad ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Jihad Youth Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/202,Date:1 7/06/1993,VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.39 Gali No.67 I- 10/1,Islamabad.051-4443227 ",
+    "Latitude" : 33.6425148,
+    "Longitude" : 73.0361003,
+    "MapAddress" : "Sector I-10/1 I 10/1 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Noor Foundation. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/377, Date 17.4.2002, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Rawal Town Islamabad ",
+    "Latitude" : 33.6866977,
+    "Longitude" : 73.11873270000001,
+    "MapAddress" : "Rawal Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Noor Islamic Center ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/90, Date 2.12.1990 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Sharifabad Tarlai Islamabad ",
+    "Latitude" : 33.6501374,
+    "Longitude" : 73.2558952,
+    "MapAddress" : "Nilore, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Noor Islamic Center ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/89, Date 2.12.1990 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Shah Allah Ditta P.O. Golra Sharif Islamabad ",
+    "Latitude" : 33.7130956,
+    "Longitude" : 72.9209564,
+    "MapAddress" : "Shah Allah Ditta Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Sadat Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/394, Date 5.9.2002, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.1, Street No. 34, F-7/4, Islamabad. 5487820-5 ",
+    "Latitude" : 33.5583201,
+    "Longitude" : 72.93519359999999,
+    "MapAddress" : "Street No. 34, Islamabad, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Al-Shifa Trust for the prevention & Care of Blindness. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/35, Date 24.5.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "12-A Mazzenine Floor 67 Itehad Center Blue Area, Islamabad. ",
+    "Latitude" : 33.7128408,
+    "Longitude" : 73.0635401,
+    "MapAddress" : "AK Fazal-ul-Haq Rd, Block H, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Amanat Welfare Council. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/223, Date 05.03.1996, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Noor Pur Shahan F.R Hospital, Bari Imam Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Amans Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/160, Date 25.5.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.494, Model Town Humak Islamabad 051-4490248 ",
+    "Latitude" : 33.5386527,
+    "Longitude" : 73.148237,
+    "MapAddress" : "Model Town Humak, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Falah-e- Khawateen ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/347, Date 25.6.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.413, Ali Pur Farash Islamabad ",
+    "Latitude" : 33.6406236,
+    "Longitude" : 73.17773749999999,
+    "MapAddress" : "Ali Pur, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Haqooq-e-Insaniat ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/184, Date 5.1.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Sector E-11 Islamabad. 051-5474492 ",
+    "Latitude" : 33.689065, 
+    "Longitude" : 72.975713,
+    "MapAddress" : "Golra Rd, Golra Sharif, E-11, Islamabad, ICT, Golra E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Mehria Nasiria ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/333, Date 8.12.2000, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Plot No.39, Wholesale Fruit Market, I- 11/1, Islamabad. 0333-5103467 ",
+    "Latitude" : 33.6334408,
+    "Longitude" : 73.0198654,
+    "MapAddress" : "I-11/1 I 11/1 I-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Wholesale Fruit Commission Agent Plot No.39 Wholesale Lfruit Market, I-11/1 Islamabad ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/177, Date 2.12.1992, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Ali Pur Farash, Islamabad ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Falah-o-Behbood Sufia Noor Bakhshia ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/484, Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Sakeena Jamia Imam Sadiq, Sector G-9/2, Islamabad. ",
+    "Latitude" : 33.6894014,
+    "Longitude" : 73.0316727,
+    "MapAddress" : "G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Kaneezan-e- Sakina Jamia Imam Sadiq ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/512, Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.12 Park Road F-8/2 Islamabad. ",
+    "Latitude" : 33.7134591,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "F-8/2 F 8/2 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Khawateen-Arrian ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/107, Date 23.5.1991, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Shop # 158, Sabzi Manzi, Sector I- 11/4, Islamabad. 0301-6660666; 0303-6660666 ",
+    "Latitude" : 33.6388719,
+    "Longitude" : 73.0198654,
+    "MapAddress" : "I-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Anjuman Whole Sale Vegetable Commission Agents ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/534, Date 22-10-2008, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H#277-A, Margallah Road, F-11/2, Islamabad 0512212429. ",
+    "Latitude" : 33.6834717,
+    "Longitude" : 72.9800115,
+    "MapAddress" : "F-11/2 F 11/2 F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Annur Welfare Society(Society for Health, Education and Social Welfare) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/453, Date 13.10.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "1ST Floor , 30-W ATS Center , Fazal- e-Haq Road , Blue Area , Islamabad. 051-2277229 ",
+    "Latitude" : 33.6141114,
+    "Longitude" : 73.1740628,
+    "MapAddress" : "C-1, Gulberg Greens Block C Gulberg Greens, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "AOST & ABK Dosokai Islamabad Regional Centre ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/495, Date 23.11.2006, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Suit No.3, Ginza Center 3rd Floor Blue Area, Islamabad. 051-2874728 ",
+    "Latitude" : 33.7121863,
+    "Longitude" : 73.0615676,
+    "MapAddress" : "3rd Floor, 11D Jinnah Ave, Block H G 7/2 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Arrian Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/109, Date 9.6.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Wafaqi Mohtasib Secretariat Benevolent Fund Building Islamabad. 051-9205431 ",
+    "Latitude" : 33.69655,
+    "Longitude" : 73.06779,
+    "MapAddress" : "Benevolent Fund Building, G-7-1, G-7, Islamabad, ICT, Pakistan",
+    "Name" : "Asian Ombudsmen Association (AOA) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/357, Date 1.10.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.549 St.10 G-10/1, Islamabad. 051-2297585 ",
+    "Latitude" : 33.6717693,
+    "Longitude" : 73.01248559999999,
+    "MapAddress" : "G-10/1 G 10/1 G-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Association for Communities, Culture, Educational & Social Services. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/277, Date 29.8.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office No.2, 2nd Floor, Musarrat Arcade, G-11 Markaz, Islamabad. 051-2220904 ",
+    "Latitude" : 33.6693215,
+    "Longitude" : 72.9999393,
+    "MapAddress" : "G-11 Markaz G 11 Markaz G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Association of People Living with HIV & AIDS ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/524, Date 16-05-2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.39/6-B St.70 G-7/1 Islamabad. ",
+    "Latitude" : 33.7174349,
+    "Longitude" : 73.0449289,
+    "MapAddress" : "8 Street 70, F-8/3 F 8/3 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Astore Employees Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/273, Date 22.7.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.1 Kashmir Plaza Blue Area Islamabad. 051-2274234 ",
+    "Latitude" : 33.7234548,
+    "Longitude" : 73.0839927,
+    "MapAddress" : "Huma Plaza, AK Fazal-ul-Haq Rd, Block B, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "AWAKEN ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/398, Date 10.9.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Shop No.3 Khan Market G-10/3 Islamabad., 051-2501220 ",
+    "Latitude" : 33.68391,
+    "Longitude" : 73.02042,
+    "MapAddress" : "Street 50, G-10/3 G 10/3 G-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Awami Khidmat Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/353, Date 15.8.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mian G.T Road, Rawat, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Baba Fazal-ud-Din Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/514, Date 04.10.2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "BPWO’s Complex Building, Rawal Town, Islamabad. 051-821728; 051- 446187 ",
+    "Latitude" : 33.6866977,
+    "Longitude" : 73.11873270000001,
+    "MapAddress" : "Rawal Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Business and Professional Women Organization (BPWO) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/441, Date 24.4.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No. 12-D , SNC Center , Fazal-e-Haq Road , Blue Area , Islamabad. 051- 2870890 ",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Campaign Against Terrorism (CAT) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/499, Date 03.02..2007, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Directorate of Welfare, PAF Complex, E-9 Islamabad. 920054675 ",
+    "Latitude" : 33.719469,
+    "Longitude" : 73.0139616,
+    "MapAddress" : "E-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Central Pakistan Air Force Retired Officers Associations( Central PAFROA) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/452, Date 14.10.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Babar Market Chatta Bukhtawar Islamabad ",
+    "Latitude" : 33.6616936,
+    "Longitude" : 73.14381159999999,
+    "MapAddress" : "Chak Shahzad, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Chatta Bukhtawar Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/371, Date 28.2.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.208 Model Town Humak Islamabad ",
+    "Latitude" : 33.5386527,
+    "Longitude" : 73.148237,
+    "MapAddress" : "Model Town Humak, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Child Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/75, Date 18.12.1989 VSWA Ordinance 1961 "
+  },  {
+    "Address" : "Flat No:125, Ist Floor, Posh Arcade, G-9 Markaz, Islamabad. ",
+    "Latitude" : 33.686877, 
+    "Longitude" : 73.033133,
+    "MapAddress" : "Posh Arcade, Rohtas Rd, G-9 Markaz, G-9, G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory 44090, Pakistan",
+    "Name" : "Chitral Al-Karim Welfare & Development Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/449, Date 6.9.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.96 Khyban-e-Iqbal F-8/2 Islamabad. 051-20063224 ",
+    "Latitude" : 33.7134591,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "F-8/2 F 8/2 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Citizen Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/335, Date 2.1.2000 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Road, Islamabad.051-5825291; 0345- 5123791 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Programme (CLIP) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "6/9/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Model Town Humak Islamabad 051- 4911034 ",
+    "Latitude" : 33.5386527,
+    "Longitude" : 73.148237,
+    "MapAddress" : "Model Town Humak, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Da-ul-Uloom Al-Jamiat Abasia ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/217, Date 28.1.1994 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Dhoke Haji Abdul Hameed, Madina Town, Bharakau, Islamabad. ",
+    "Latitude" : 33.5825672,
+    "Longitude" : 73.1511872,
+    "MapAddress" : "Madina Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Daylight ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/464,Date 7.2.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Deputy Commissioner Office, F-8 Markaz, Islamabad. ",
+    "Latitude" : 33.6900212,
+    "Longitude" : 73.05581049999999,
+    "MapAddress" : "Aiwan-e-Sanat-o-Tijarat, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Deputy Commissioner & its Attached Department Employees Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/533, Date 7/10/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#.9-B, Aslam Market Aabpara Islamabad.051-2277733 ",
+    "Latitude" : 33.6601929,
+    "Longitude" : 72.97853529999999,
+    "MapAddress" : "G-12, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "EHA Centre for Emergent Strategies ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/472, Date 02.07.2005, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H. No.236, St. # 45, F-11/3, Islamabad 051-2298708 ",
+    "Latitude" : 33.6916162,
+    "Longitude" : 72.99165339999999,
+    "MapAddress" : "236 Street 45, F-11/3 F 11/3 F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ehsas Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/488, Date 18.03.2006 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House no.19 St.36 G-6/2 Islamabad. 051-2825234 ",
+    "Latitude" : 33.7153321,
+    "Longitude" : 73.0832708,
+    "MapAddress" : "Street 36, G 6/2 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Ever Green Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/378, Date 13.5.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#.2, Opp:Daewoo Booking Office F-8 Markaz, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Fahmida Memorial Welfare Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/463, Date 4.2.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.9-C Scheme II Park Road Chakshazad Islamabad ",
+    "Latitude" : 33.6715556,
+    "Longitude" : 73.146428,
+    "MapAddress" : "Park Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "FAP ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/392, Date 4.9.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No. 2039, St.No. 10, Barma Town, Lehtrar Road, Islamabad 0333- 5344843 ",
+    "Latitude" : 33.648928, 
+    "Longitude" :73.130462,
+    "MapAddress" : "Fátima, 2495 Fátima, Portugal",
+    "Name" : "Fatima Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/482, Date 27.12.2005, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H# 18, Gomal Road, E-7, Islamabad. 051-2275205 ",
+    "Latitude" : 33.7050591,
+    "Longitude" : 73.05042759999999,
+    "MapAddress" : "Ibn-e-Sina Rd, G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Friends of PIMS (FOP) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/429, Date 15.1.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Kot Hathial Shumali B.Kau Islamabad ",
+    "Latitude" : 33.7204997,
+    "Longitude" : 73.0405277,
+    "MapAddress" : "Islamabad Capital Territory, Pakistan",
+    "Name" : "Friends Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/153, Date 5.5.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Noor Pur Shahan Muslim Colony Bari Imam Islamabad. ",
+    "Latitude" : 33.737029,
+    "Longitude" : 73.1098806,
+    "MapAddress" : "Muslim Colony Nurpur Shahan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Frontier Welfare Committee ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/118, Date 16.7.1991 VSWA Ordinance 1961 "
+  }*/, {
+    "Address" : "Office No.8, First Floor, Mehmood Plaza, Fazl-e-Haq Road, Blue Area, Islamabad. 051-2100341 ",
+    "Latitude" : 33.7144,
+    "Longitude" : 73.06671,
+    "MapAddress" : "Ali Complex, AK Fazal-ul-Haq Rd, Block G, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Global Peace Pioneers ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/530, Date 6/9/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat # 10, Block 12-E, Jinnah Super F- 7 Markaz, Islamabad. ",
+    "Latitude" : 33.7235293,
+    "Longitude" : 73.0596724,
+    "MapAddress" : "College Rd, F 7/3 F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Global Vision Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/540, Date 7/3/2009 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Sharifabad Tarlai Kalan Islamabad. 0300-5049485 ",
+    "Latitude" : 33.6423518,
+    "Longitude" : 73.1511872,
+    "MapAddress" : "Tarlai Kalan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Gulistan Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/367, Date 26.1.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.24 Grid Station Road Bharakau Islamabad. 051-2231829 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Gum-Gusar ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/364, Date 8.1.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.3&4 Mezzanine Floor Kashmir Plaza Blue Area Islamabad.051- 2871533 ",
+    "Latitude" : 33.7234548,
+    "Longitude" : 73.0839927,
+    "MapAddress" : "Huma Plaza, AK Fazal-ul-Haq Rd, Block B, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Ham Kadam ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/393, Date 4.9.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.15-B School Road F-7/1, Islamabad.051-2824350 ",
+    "Latitude" : 33.7211322,
+    "Longitude" : 73.0582022,
+    "MapAddress" : "6 Bhittai Rd, F-7 Markaz F 7 Markaz F-7, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Hayat Orthodontic and Dental Complex ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/389, Date 24.8.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Dhoke Jillani, Data Ganj Bakhsh Road, Near Poultry Farm, Bharakau, Islamabad. 051-2550470 ",
+    "Latitude" : 33.6439812,
+    "Longitude" : 73.08187509999999,
+    "MapAddress" : "Data Ganj Bakhsh Road, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Hayat-e-Nau ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/525, Date 4/6/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.6 Park Pavilion Plaza, 65-E, Fazal- e-Haq Road Blue Area Islamabad. 051-827986 ",
+    "Latitude" : 33.7185255,
+    "Longitude" : 73.07457579999999,
+    "MapAddress" : "Fazal Plaza, Plot 50, AKM Fazal-ul-Haq Rd, Block E, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Hearts Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/352, Date 15.8.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Chattha Bakhtawar, Park Road, Chak Shahzad, Islamabad. ",
+    "Latitude" : 33.6616936,
+    "Longitude" : 73.14381159999999,
+    "MapAddress" : "Chak Shahzad, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Hosla Welfare Organization. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/504, Date 19-4-2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#.1-A, Mezzanine Floor, Golden Plaza, Blue Area, Islamabad. 051- 2826843 ",
+    "Latitude" : 33.7206831,
+    "Longitude" : 73.0785209,
+    "MapAddress" : "AKM Fazal-ul-Haq Rd, Block D, Blue Area, G 6/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Human Concern Pakistan ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/386, Date 13.7.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mughal Market, Rural Markaz, P.O. Tarlai, Islamabad. 051-2241264 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Human Friends Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/470, Date 13.05.2005, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.496 St.15, I-10/2 Islamabad.051-448491 ",
+    "Latitude" : 33.6492027,
+    "Longitude" : 73.0295661,
+    "MapAddress" : "496 Street 15, I-10/2 I 10/2 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Human Resource Development Agency (HRDA). ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/279, Date 15.12.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.64 Khaban-e-Suherwardy G-6/4 Islamabad. 0514840331 ",
+    "Latitude" : 33.7128347,
+    "Longitude" : 73.0921755,
+    "MapAddress" : "G-6/4 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Human Rights Support Programme ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/412, Date 27.8.2002 VSWA Ordinance 1961 "
+  },/* {
+    "Address" : "#.6, Block-12-C, Jinnah Super Market, Islamabad. 051-2650277 ",
+    "Latitude" : 33.729408,
+    "Longitude" : 73.0749822,
+    "MapAddress" : "School Rd, F-6 Markaz F 6 Markaz F-6, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Humanity, Equality, Love, Patience ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/451, Date 22.9.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.1 School Road Kurang Valley B.Kau Islamabad. 051- 7112385 ",
+    "Latitude" : 33.7211322,
+    "Longitude" : 73.0582022,
+    "MapAddress" : "6 Bhittai Rd, F-7 Markaz F 7 Markaz F-7, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "ICAN (Islamabad Christian Against Narcotics) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/313, Date 23.10.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Farm No.6 Kurri Road Old Park Road Chakshahzad Islamabad ",
+    "Latitude" : 33.6331578,
+    "Longitude" : 73.0872339,
+    "MapAddress" : "Kurri Rd, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Inter Help Foundation (IHF) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/369, Date 1.3.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No. 20 , Block No. 12-F, Medicine Plaza, G-8 Markaz , Ibd.051-2855983 ",
+    "Latitude" : 33.6967477,
+    "Longitude" : 73.0501203,
+    "MapAddress" : "G-8 Markaz G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Interfaith League Against Poverty ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/492, Date 12.08.2006, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#-B.1, Al Azam Plaza G-8 Markaz, Islamabad. ",
+    "Latitude" : 33.6957648,
+    "Longitude" : 73.0506309,
+    "MapAddress" : "Al-Azam Plaza, Shop 1, G-8 Markaz, G-8, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "International Gospel Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/460, Date 4.1.2005 VSWA Ordinance 1961 "
+  }*/, {
+    "Address" : "Opposite Shaheen Gargo Terminal Islamabad Airport Islamabad ",
+    "Latitude" : 33.6087819,
+    "Longitude" : 73.1038507,
+    "MapAddress" : "Benazir Bhutto International Airport, Airport Road، Rawalpindi, Punjab 46-200, Pakistan",
+    "Name" : "International Human Rights Forum ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/332, Date 10.11.2000 VSWA Ordinance 1961 "
+  }, /*{
+    "Address" : "Village Peja, P.O Bimber Trar, Ibd. 0300-5190271 ",
+    "Latitude" : 33.607137,
+    "Longitude" : 73.249945,
+    "MapAddress" : "Bhimbar Tarar, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Iqra Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/485, Date 04.03.2006, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Noor Pur Shahan Muslim Colony Bari Imam Islamabad. 051-2245043 ",
+    "Latitude" : 33.737029,
+    "Longitude" : 73.1098806,
+    "MapAddress" : "Muslim Colony Nurpur Shahan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islah-e-Moashra Committee ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/15, Date 10.4.1986 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Quarter No.9 Block 35-A G-8/1 Islamabad. ",
+    "Latitude" : 33.6933765,
+    "Longitude" : 73.05173500000001,
+    "MapAddress" : "G 81, G-8/1 G 8/1 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islahi Committee CDA Block ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/83, Date 28.3.1990 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Irfanabad, Taramri, Islamabad. 0321-5543477 ",
+    "Latitude" : 33.6381541,
+    "Longitude" : 73.1600377,
+    "MapAddress" : "Taramri, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islahi Committee Irfanabad ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/519, Date 23-02-2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Sultan Foundation, Farash Town Lehtrar Road, Islamabad.051-202361 ",
+    "Latitude" : 33.6449034,
+    "Longitude" : 73.1901614,
+    "MapAddress" : "Lehtrar Road, Farash, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Automobile Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/267, Date 23.12.1996 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "IFWA Centre, St:38, F-7/1, Islamabad. ",
+    "Latitude" : 33.7156606,
+    "Longitude" : 73.0542889,
+    "MapAddress" : "Street 38, F-7/1 F 7/1 F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Foreign Women Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/278, Date 31.10.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Shop No.6 Block 20 Civic Center Melody Islamabad. 051-273427-317 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Hair Dresser & Beautician Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/259, Date 26.6.1996 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.16, Block 20-B, Blair Plaza, G-8 Markaz, Islamabad. 0301-5428781 ",
+    "Latitude" : 33.6979916,
+    "Longitude" : 73.0479677,
+    "MapAddress" : "Blair Plaza, G-8 Markaz, G-8, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Islamabad Hzekiel Munawar Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/480, Date 29.11.2005, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.1107 St.67 G-9/4 Islamabad.051-2855715 ",
+    "Latitude" : 33.6907749,
+    "Longitude" : 73.04138189999999,
+    "MapAddress" : "1107 Street 67, G-9/4 G 9/4 G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Rozgar Markaz ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/365, Date 12.1.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Jamia Masjid Ali-ul-Murtaza, Ali Market, F-11/1, Islamabad. 0300- 8548816 ",
+    "Latitude" : 33.6778223,
+    "Longitude" : 72.98441629999999,
+    "MapAddress" : "Street 9, F 11/1 F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Social Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/498, Date 9/1/2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Room No.14,19 & 20 Basement Malik Plaza F-8 Markaz, Islamabad 051- 2281932 ",
+    "Latitude" : 33.7116672,
+    "Longitude" : 73.0405741,
+    "MapAddress" : "Malik Plaza, Plot 16-C, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Islamabad Society for Preservation of Blindness Islamabad Pakistan. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/93, Date 20.2.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Islamabad Club Islamabad ",
+    "Latitude" : 33.7053308,
+    "Longitude" : 73.10584899999999,
+    "MapAddress" : "Near Kashmir Chowk، Main Murree Rd، Islamabad Club, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Squash Rackets Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/173, Date 4.10.1992 VSWA Ordinance 1961 "
+  }*/, {
+    "Address" : "Shop No.26 Food Market Near Masjid Al-Habib G-7/3 Islamabad. ",
+    "Latitude" : 33.703483,
+    "Longitude" : 73.07132399999999,
+    "MapAddress" : "Markaz G-7 , Near Daewoo Shuttle Service Terminal، G 7 Markaz G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Islamabad Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/122, Date 11.8.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Irfanabad, Tarlai, Islamabad. ",
+    "Latitude" : 33.6424851,
+    "Longitude" : 73.13363199999999,
+    "MapAddress" : "Java Rd, Burma Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Isllahi Committee Irfanabad ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/519Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Kot Hathial Shumali B.Kau Islamabad ",
+    "Latitude" : 33.7204997,
+    "Longitude" : 73.0405277,
+    "MapAddress" : "Islamabad Capital Territory, Pakistan",
+    "Name" : "Itehad Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/150 Date 17.3.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.2306 I-10/1 -4 Islamabad. 051- 410828 ",
+    "Latitude" : 33.6425148,
+    "Longitude" : 73.0361003,
+    "MapAddress" : "Sector I-10/1 I 10/1 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Itehad Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/76 Date 27.12.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office #23 1st Floor Liberty Shopping Center Aabpara G-6 Islamabad 051- 2852009 ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Jamiat-ul-Quresh Meat Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/249 Date 5.3.1996 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Suit No.5, 2nd Floor Masco Plaza Blue Area, Islamabad. 051-275285-6 ",
+    "Latitude" : 33.6080202,
+    "Longitude" : 73.0136928,
+    "MapAddress" : "N-5, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Jat Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/285 Date 29.7.1998 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office #5-A, Block No.21-N, Melody Market, G-6 Markaz, Islamabad.051- 2603303 ",
+    "Latitude" : 33.7166521,
+    "Longitude" : 73.0855357,
+    "MapAddress" : "G-6 Markaz G 6 Markaz G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "JOKE Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/532 Date 23-09-2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Noor Pur Shahan Muslim Colony Bari Imam Islamabad. 051-2245043 ",
+    "Latitude" : 33.737029,
+    "Longitude" : 73.1098806,
+    "MapAddress" : "Muslim Colony Nurpur Shahan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kashmir Public Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/117Date 20.6.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Thanda Pani Lehtrar Road Islamabad ",
+    "Latitude" : 33.6469923,
+    "Longitude" : 73.2188377,
+    "MapAddress" : "Lehtrar Road, Thanda Pani, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kashmir Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/198Date 16.3.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.378 St. 57 I-10/1, Islamabad ",
+    "Latitude" : 33.6425148,
+    "Longitude" : 73.0361003,
+    "MapAddress" : "Sector I-10/1 I 10/1 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khattak Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/299Date 11.3.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Opp: Petrol Pump PSO Bharakau, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khidmat Gar Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/432Date 23.1.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Opp: Petrol Pump PSO Bharakau, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Khidmatgar Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/432Date 23.1.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Dorary, Tarnol, Islamabad. 051-2217409 ",
+    "Latitude" : 33.6555905,
+    "Longitude" : 72.9076669,
+    "MapAddress" : "Tarnol, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Kiran Rajput Welfare and Social Organization. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/444Date 24.7.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Plot No.4 Model Town Humak Islamabad ",
+    "Latitude" : 33.5400015,
+    "Longitude" : 73.1443894,
+    "MapAddress" : "Street Number 4, Model Town Humak, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Lajpal Social Programme ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/391Date 4.9.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H# 161, Madni Mohallah, Bharakau, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Madni Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/468Date 4.4.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "203 AlMustafa Apartments, G-8/3, Islamabad. ",
+    "Latitude" : 33.6974912,
+    "Longitude" : 73.0494217,
+    "MapAddress" : "Markaz Rd, G-8 Markaz G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Marriaum Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/446Date 29.7.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H: No:12, Ummair Plaza, I-10 Markaz, Islamabad. ",
+    "Latitude" : 33.6425148,
+    "Longitude" : 73.0361003,
+    "MapAddress" : "Sector I-10/1 I 10/1 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Mehmar-e-Watan Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/466Date 23.2.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Mera Bhagwal, Bharakau, Islamabad. ",
+    "Latitude" : 33.0738276,
+    "Longitude" : 72.5958971,
+    "MapAddress" : "Bhagwal, Chakwal, Punjab, Pakistan",
+    "Name" : "Mera Hamdard Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/465Date 21.2.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Plot No.954-943, Tumair, Bharakau,Islamabad. ",
+    "Latitude" : 33.7084722,
+    "Longitude" : 73.2467174,
+    "MapAddress" : "Simly Dam Road, Pind Bagwal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Moja’s Shelter. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/506Date 14-5-2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#.2 Ground Floor, 73/E, G.D. Arcade , Fazal Haq Road, Islamabad. 051-820769 ",
+    "Latitude" : 33.7128408,
+    "Longitude" : 73.0635401,
+    "MapAddress" : "AK Fazal-ul-Haq Rd, Block H, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Move Against Backwardness. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/323 Date 12.05.2000 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.13 Basement Main Double Road, F-11/3, Islamabad. ",
+    "Latitude" : 33.7003919,
+    "Longitude" : 72.980952,
+    "MapAddress" : "H# 581, St# 36, E-11, 3 Main NPF Double Rd, MPCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Mumta Rural Mother & Child Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/136Date 14.11.1991 VSWA "
+  }, {
+    "Address" : "H#149, St:60, I-8/3, Islamabad. ",
+    "Latitude" : 33.6746293,
+    "Longitude" : 73.07337679999999,
+    "MapAddress" : "Street 60, I-8/3 I 8/3 I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Muslim Hands International ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/427Date 8.12.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H # 141, St 7, F-11/1, Islamabad ",
+    "Latitude" : 33.6774871,
+    "Longitude" : 72.9825274,
+    "MapAddress" : "141 Street 7, F-11/1 F 11/1 F-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Nargis Human Development & Welfare Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/479Date 29-11-2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat :1, 2nd Floor, Pervaiz Plaza, I-10 Markaz, Islamabad. ",
+    "Latitude" : 33.6459541,
+    "Longitude" : 73.0358042,
+    "MapAddress" : "Pervaiz Plaza, Korang Rd, I-10-1 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "National Hear Dresser and Beauticians Organization.(NHBO) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/448Date.2 8.8.2004, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "9-E Rizwan Plaza, Blue Area, Islamabad. ",
+    "Latitude" : 33.7121019,
+    "Longitude" : 73.0615574,
+    "MapAddress" : "11D Jinnah Ave, Block H G 7/2 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "National Society for the Deaf ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/49Date 11.1.1990 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#786, Paracha Mention, School Road, Shah Allah Ditta, Islamabad. ",
+    "Latitude" : 33.7130956,
+    "Longitude" : 72.9209564,
+    "MapAddress" : "Shah Allah Ditta Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Naveed-e-Nau Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/422Date 23.10.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Community Centre 48-Quarters, Sector G-7/3-2, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Naveed-e-Sehar. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/513Date 30-8-2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.714 St. 70 I-8/3 Islamabad ",
+    "Latitude" : 33.6710566,
+    "Longitude" : 73.0764574,
+    "MapAddress" : "714 Street 70, I-8/3 I 8/3 I-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Noble Deeds Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/295Date 28.10.1998 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Khanna Dak Near Federal Public School Lehtrar Road Islamabad ",
+    "Latitude" : 33.7204997,
+    "Longitude" : 73.0405277,
+    "MapAddress" : "Islamabad Capital Territory, Pakistan",
+    "Name" : "Pak Kashmir Quresh Welfare Council ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/284Date 24.6.1998 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office #31, 1st floor Al Baber Centre, F-8 Markaz, Islamabad ",
+    "Latitude" : 33.7115769,
+    "Longitude" : 73.0397898,
+    "MapAddress" : "F-8 Markaz F 8 Markaz F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pak. Development Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/456Date 11.11.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "St.54 France Colony F-7/4 Islamabad. ",
+    "Latitude" : 33.7180689,
+    "Longitude" : 73.0640131,
+    "MapAddress" : "7 Street 54, F-7/4 F 7/4 F-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pak.United Christian Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/410Date 2.5.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "WAPDA Colony G-7/4 Islamabad Ph:815333 ",
+    "Latitude" : 33.7093958,
+    "Longitude" : 73.10333349999999,
+    "MapAddress" : "Wapda Colony Islamabad Club, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Association Visually Handicapped ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/169Date 31.8.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "26, G-9 Markaz Islamabad. ",
+    "Latitude" : 33.6876775,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Blind Union ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/58Date 11.6.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H#.56(FC) G-8/2, Islamabad. 051-822469 ",
+    "Latitude" : 33.6980565,
+    "Longitude" : 73.0449551,
+    "MapAddress" : "G-8/2 G 8/2 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Christian Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/264Date 23.11.1996 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No.1, 40-A Ramzan Plaza G-9 Markaz Islamabad. ",
+    "Latitude" : 33.6889463,
+    "Longitude" : 73.0344449,
+    "MapAddress" : "Mangla Rd, G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Foundation Fighting Blindness ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/350Date 17.7.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Block 20-D Flat No.C Ist Floor G-8 Markaz, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Mysthenic Welfare Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/94Date 20.2.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Post Office Directorate G-8/4 Islamabad. ",
+    "Latitude" : 33.6970032,
+    "Longitude" : 73.0567611,
+    "MapAddress" : "G-8/4 G 8/4 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Post Office Directorate General Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/5Date 19.11.1985 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "16/6 Life Chemist Chand Plaza G-9 Markaz Islamabad. ",
+    "Latitude" : 33.7299427,
+    "Longitude" : 73.0763135,
+    "MapAddress" : "F-6 Markaz F 6 Markaz F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Pakistan Quami Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/152Date 27.3.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office No.1, Chaudhry Market, Tramri Chowk, Tarlai, Islamabad ",
+    "Latitude" : 33.6474159,
+    "Longitude" : 73.1645095,
+    "MapAddress" : "08 Park Rd, Tamma, Taramri, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Paks Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/497Date 3/1/2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Opposite Noori Hospital G-8/4 Islamabad ",
+    "Latitude" : 33.6991819,
+    "Longitude" : 73.05484469999999,
+    "MapAddress" : "Hanna Rd, G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Parent Teachers Association of F.G.School National Training Center for Dis. Persons. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/50Date 18.1.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "St.11 Rooh Afza Market G-7/2, ",
+    "Latitude" : 33.7059754,
+    "Longitude" : 73.06266389999999,
+    "MapAddress" : "G-7/2 G 7/2 G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Parent Teach. Astion of F.G. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/36Date "
+  }, {
+    "Address" : "Islamabad ",
+    "Latitude" : 33.6701775,
+    "Longitude" : 73.0493825,
+    "MapAddress" : "H-9/4 H 9/4 H-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Special Edn School for Visually Handicapped Children ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "20.8.1988 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Plot No.27 H-9, Islamabad Ph:9257435 ",
+    "Latitude" : 33.6693472,
+    "Longitude" : 73.0434794,
+    "MapAddress" : "H-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Parent Teachers Association of Helen Killer Special Education Center. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/43Date 8.11.1988 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "NIH St.9 G-8/2 Islamabad ",
+    "Latitude" : 33.6980565,
+    "Longitude" : 73.0449551,
+    "MapAddress" : "G-8/2 G 8/2 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Patient Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/348Date 25.6.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "PIMS Islamabad. ",
+    "Latitude" : 33.7050591,
+    "Longitude" : 73.05042759999999,
+    "MapAddress" : "Ibn-e-Sina Rd, G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Patient Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/29Date 16.9.1988 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat # 2, Ground Floor, Block 26, PHA, Sector G-7/1, Islamabad. 051- 2539179 ",
+    "Latitude" : 33.7052406,
+    "Longitude" : 73.0670909,
+    "MapAddress" : "G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "PAYAAM (Message for Happiness) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/539Date 17-1-2009 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.291, St.80, G-11/2, Islamabad. ",
+    "Latitude" : 33.6700558,
+    "Longitude" : 72.9944822,
+    "MapAddress" : "Street 80, G-11/2 G 11/2 G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "PEACE World Wide ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/401-ADate 8.11.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "PIMS Islamabad ",
+    "Latitude" : 33.7050591,
+    "Longitude" : 73.05042759999999,
+    "MapAddress" : "Ibn-e-Sina Rd, G 8/3 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "PIMS Nursing Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/228Date 5.6.1994 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office #2-A, Potohar Plaza, Blue Area Islamabad. ",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Potohar Area Water PartnershipPotohar Area Water Partnership ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/459Date 17.12.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "C/O Shifa Hospital H-8/4, Islamabad ",
+    "Latitude" : 33.6790023,
+    "Longitude" : 73.0680138,
+    "MapAddress" : "Pitras Bukhari Road, Sector H-8/4، H 8/4 H-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Potohar Mental Health Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/328Date 19.2.2000 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mezzanine Floor, 70-W, Al Malik Complex, Blue Area, Islamabad. ",
+    "Latitude" : 33.7121019,
+    "Longitude" : 73.0615574,
+    "MapAddress" : "11D Jinnah Ave, Block H G 7/2 Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Potohar Organization for Development Assistance(PODA) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/435Date 19.2.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H# 2, Ghousia Plaza, New Shakrial , Islamabad ",
+    "Latitude" : 33.7036287,
+    "Longitude" : 72.97971179999999,
+    "MapAddress" : "22 Street 51, MPCHS E-11/3 MPCHS E 11/2 E-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Prestige Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/489Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "6 Pirwadhai More 121 stand I-11/4 Islamabad ",
+    "Latitude" : 33.6286907,
+    "Longitude" : 73.04223069999999,
+    "MapAddress" : "Pirwadhai Rd, Rawalpindi, Punjab, Pakistan",
+    "Name" : "Public Transport Welfare Committee ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/351Date 26.7.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "St.#20. Hansa Colony, G-8/1, Islamabad ",
+    "Latitude" : 33.6927548,
+    "Longitude" : 73.052261,
+    "MapAddress" : "Street 20, G-8/1 G 8/1 G-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Qadam Development Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/483Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Khanna Dak Islamabad. ",
+    "Latitude" : 33.7204997,
+    "Longitude" : 73.0405277,
+    "MapAddress" : "Islamabad Capital Territory, Pakistan",
+    "Name" : "Qamoos Welfare Center ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/339Date 28.2.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office No.3, Fraz Plaza G-9 Markaz Islamabad. ",
+    "Latitude" : 33.6876775,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "G-9 Markaz G 9 Markaz G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Raah Legal Aid Center. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/368Date 21.2.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "36/1 G-8/4 Islamabad. ",
+    "Latitude" : 33.6999505,
+    "Longitude" : 73.0581035,
+    "MapAddress" : "Plot 6/1, G-8/4 G 8/4 G-8, Rawalpindi/Islamabad, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rajput Welfare Organization. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/193 Date 18.2.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Basement #4, Block 4, Najam Market F-8/4, Islamabad 051-2852946 ",
+    "Latitude" : 33.7146349,
+    "Longitude" : 73.03348439999999,
+    "MapAddress" : "Block 5, St 21, Madina Market F-8/2, F-8, ICT، F 8/2 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "RAYS ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/478 Date 29-11-2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H# 83, St; 111, Sector G-11/3,Islamabad. ",
+    "Latitude" : 33.6739279,
+    "Longitude" : 73.0034374,
+    "MapAddress" : "Street 111, G-11/3 G 11/3 G-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Resident Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/467Date 9.3.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Unit # 686, Upper Storey, Block-3, Aabpara Market, Islamabad. 0333- 5745107; 051-2826871 ",
+    "Latitude" : 33.707011,
+    "Longitude" : 73.0877455,
+    "MapAddress" : "699 Khayaban-e-Suhrwardy, Barakahu G 6/1 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Retail Fruit & Vegetable Shopkeepers Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/542Date 14-4-2009 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.19-D St. 58 G-6/4, Islamabad 051-810404 ",
+    "Latitude" : 33.7137923,
+    "Longitude" : 73.0906608,
+    "MapAddress" : "Street 58, G-6/4 G 6/4 G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Retired Govt. Servant Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/180Date 16.12.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No.1, Street No.16, Javed Market, G-6 /2, Islamabad. ",
+    "Latitude" : 33.6543433,
+    "Longitude" : 72.8913352,
+    "MapAddress" : "Street Number 16, E 16/3 Cabinet Division Employees CHS Cabinet Division Employees CHS, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "RIGHT ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/526Date 8/8/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Hardogher Humak Islamabad ",
+    "Latitude" : 52.8873011,
+    "Longitude" : 21.391082,
+    "MapAddress" : "06-230 Różan, Poland",
+    "Name" : "Rozan Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/342Date 24.5.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mohallah Chaudrian, near Petrol Pump, Bharakau, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Area Dev. Organization(RADO) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/418Date 13.9.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "RDF Center Mauve Area G-9/1, Islamabad. Ph:2260373/2251492 ",
+    "Latitude" : 33.68201,
+    "Longitude" : 73.0394209,
+    "MapAddress" : "G-9 Mauve Area G-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Development Foundation of Pakistan. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/63Date 2.8.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "8-A/B, Mezzanine Muzzafar Chamber, 82-West Blue Area Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Initiative for Global Humanity through Systemization (RIGHTS) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/411Date 14.5.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Tarlai Kalan Islamabad ",
+    "Latitude" : 33.6423518,
+    "Longitude" : 73.1511872,
+    "MapAddress" : "Tarlai Kalan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Social Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/375Date 26.3.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.18 Park Road F-8/2 Islamabad. ",
+    "Latitude" : 33.7134591,
+    "Longitude" : 73.0338865,
+    "MapAddress" : "F-8/2 F 8/2 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Urban Overseas Pakistanis Education & Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/355Date 10.9.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.577, Street No.10, Phase-I, Farash Town, Islamabad. ",
+    "Latitude" : 33.648073,
+    "Longitude" : 73.1873244,
+    "MapAddress" : "Farash, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Welfare Society Islamabad ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/528Date 8/8/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No:1, Plot No:10, Jalil-III Plaza, I- 9 Markaz, Islamabad. ",
+    "Latitude" : 33.6566613,
+    "Longitude" : 73.0558388,
+    "MapAddress" : "I-9 Markaz I 9 Markaz I-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "S.G.E. Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/462Date 27.1.2005 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Simly Dam Road, Athal Chow, Bharakau, Islamabad ",
+    "Latitude" : 33.7299013,
+    "Longitude" : 73.2266729,
+    "MapAddress" : "Simly Dam Road, Athal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sachal Sarmast Welfare Association ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/502Date 5/3/2007 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Village Frash Town, Islamabad. ",
+    "Latitude" : 33.6481926,
+    "Longitude" : 73.20281,
+    "MapAddress" : "Frash Town, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sadqeen Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/475Date 14.05.1988, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H#.1, CTRL Labour Colony, H-9/4, Islamabad. ",
+    "Latitude" : 33.6701775,
+    "Longitude" : 73.0493825,
+    "MapAddress" : "H 9/4 H-9, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saghri Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/421Date 10.10.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#H block –20 D, G-8 Markaz, Islamabad. ",
+    "Latitude" : 33.6989167,
+    "Longitude" : 73.04822949999999,
+    "MapAddress" : "Unit 1 Block No 20 D G-8 Markaz, G 8 Markaz G-8, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "SAHAR ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/436Date 21.2.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.917 St.2 I-10/2 Islamabad. ",
+    "Latitude" : 33.6498303,
+    "Longitude" : 73.03019680000001,
+    "MapAddress" : "I-10/2 I 10/2 I-10, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sahara Women Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/275Date 29.8.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.13 1st Floor Al-Babar Center F-8 Markaz, Islamabad. ",
+    "Latitude" : 33.7123968,
+    "Longitude" : 73.0373573,
+    "MapAddress" : "Al-Babar Centre, Office 13, 1st Floor, Johar Rd, F-8 Markaz, F-8, Islamabad, ICT, Pakistan",
+    "Name" : "Sahil ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/270Date 12.4.1997 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "1, Akbar Khan Town, Sitara Market, New Shakrial, Town, Islamabad. ",
+    "Latitude" : 33.70487320000001,
+    "Longitude" : 73.0693043,
+    "MapAddress" : "G 7 Markaz G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Saiban Khawateen Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/443Date 17.7.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Block 5-P Sitara Market G-7 Markaz Islamabad ",
+    "Latitude" : 33.70487320000001,
+    "Longitude" : 73.0693043,
+    "MapAddress" : "G 7 Markaz G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Senior Citizen Foundation of Pakistan ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/19 Date 5.2.1987 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Suit No.5-B, 111 One Plaza Blue Area, Islamabad. ",
+    "Latitude" : 33.6012945,
+    "Longitude" : 73.208834,
+    "MapAddress" : "Blue Area W, Gulberg Residencia Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shaheeno’s Green Land ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/374Date 18.3.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.3 St.1 Nai Abadi B.Kau Islamabad ",
+    "Latitude" : 33.7410893,
+    "Longitude" : 73.0816193,
+    "MapAddress" : "3 Street 1, F-6/3 F 6/3 F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shama Welfare Center ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/388Date 21.8.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mezzanine NHSP Plaza, 83-S Blue Area, Islamabad 051-2254186; 0320- 490790 ",
+    "Latitude" : 33.715733,
+    "Longitude" : 73.0688706,
+    "MapAddress" : "NHSP Plaza AK Fazal-ul-Haq Rd, Block F G 7/3 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Shaoor ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/382 Date 01.06.2002 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Shop No.13 Sector G-6/1-3, Islamabad ",
+    "Latitude" : 33.7131561,
+    "Longitude" : 73.0847979,
+    "MapAddress" : "G-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Shop Keepers Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/266Date 23.12.1996 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "19, Atta Turk Avenue, G-5/1, Islamabad Ph:289253 ",
+    "Latitude" : 33.7167908,
+    "Longitude" : 73.1010282,
+    "MapAddress" : "G-5/1 G-5, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sir Syed Memorial Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/72Date 14.11.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "#.21, 1ST floor, Muhammadi Plaza, Blue Area, Islamabad. ",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Social Alliance for Fundamental Rights and Education. (SAFE) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/450Date 6.9.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No.10 Zahid Plaza,I-11 Markaz, Islamabad. ",
+    "Latitude" : 33.646748,
+    "Longitude" : 73.03756480000001,
+    "MapAddress" : "Zahid Plaza, Korang Rd, I-10 Markaz, I-10, I 10 Markaz I-10, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Social Coordination Council of Pakistan. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/167 Date 10.8.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "House No.291 Model Village Chakshahzad Park Road Islamabad.051-9235566; 0300- 5161256 ",
+    "Latitude" : 33.6715556,
+    "Longitude" : 73.146428,
+    "MapAddress" : "Park Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Social Welfare Clinic ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/201 Date 10.7.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.27, St.No.16, Block-A, Sector O-9, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Social Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/510 Date 9/7/2007 VSWA Ordinance 1961 (COURT CASE) "
+  }, {
+    "Address" : "Al-Babar Center Park Road F-8 Markaz Islamabad. 051-2254933 ",
+    "Latitude" : 33.7128988,
+    "Longitude" : 73.03718839999999,
+    "MapAddress" : "7 Park Rd, F-8 Markaz F 8 Markaz F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Society for the Advancement of Community, Health, Education & Training (SACHET) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/306 Date 05.05.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "14-D East Manzoor Plaza Fazal-e- Haq Road Blue Area Islamabad. ",
+    "Latitude" : 33.778175,
+    "Longitude" : 76.57617139999999,
+    "MapAddress" : "Jammu and Kashmir",
+    "Name" : "Society for the Relief and Welfare of Occupied Jammu & Kashmir Refugees ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/143Date 26.12.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Malpur Plaza, Simly Dam Road, Sary Chow, Phulgran, Bhara kahu, Islamabad. ",
+    "Latitude" : 33.7379785,
+    "Longitude" : 73.2041307,
+    "MapAddress" : "Simly Dam Road, Phulgran, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Society for Welfare Education and Transformation (SWET) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/537Date 6/11/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Plot No.13, Rafi Centre, Zero Point, G-7/1, Islamabad. ",
+    "Latitude" : 33.6984058,
+    "Longitude" : 73.0695952,
+    "MapAddress" : "Street 28, G-7/1 G 7/1 G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "South Asian Strategic Stability Institution (SASSI) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/522Date 30-04-2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Kamal Atta Turik Avenue, G-5/2 Islamabad ",
+    "Latitude" : 33.7294355,
+    "Longitude" : 73.0859382,
+    "MapAddress" : "2 Ataturk Ave, F-6/4 F 6/4 F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Staff Welfare Committee, Prime Minister Inspection Commission. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/52 Date 23.1.1989 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "R Block Pak. Secretariate Islamabad. ",
+    "Latitude" : 33.73609709999999,
+    "Longitude" : 73.09235819999999,
+    "MapAddress" : "Constitution Ave, Red Zone, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Staff Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/216Date 20.12.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "New Sohan, near Al-Saeed Jamia Mosque, Islamabad. ",
+    "Latitude" : 33.6599409,
+    "Longitude" : 73.0973396,
+    "MapAddress" : "Sohan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Stephen Relief Organization ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/535Date 5/11/2008 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Main Murree Road, Bhara Kau, Islamabad. 051-2231207 ",
+    "Latitude" : 33.7460296,
+    "Longitude" : 73.19110440000001,
+    "MapAddress" : "Murree Rd, Mohallah Chaudhrian Bhara Kahu, Kot Hathyal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Sunny Welfare Council ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/490Date 17.06.2006, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Office No.18, 64-W, Moscow Plaza, 3rd Floor, Blue Area, Islamabad. 0300-5312932 ",
+    "Latitude" : 33.71208,
+    "Longitude" : 73.06125,
+    "MapAddress" : "Moscow Plaza, 64-E, Jinnah Ave, Block H, Blue Area, Islamabad, ICT, Pakistan",
+    "Name" : "Swab ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/493Date 29-8-2006 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Noor Pur Shahan Muslim Colony Bari Imam Islamabad. ",
+    "Latitude" : 33.737029,
+    "Longitude" : 73.1098806,
+    "MapAddress" : "Muslim Colony Nurpur Shahan, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tahafaz Haqooq Khawateen Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/296Date 7.1.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Shop No.1 Block 3-D G-7 Markaz Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tajar Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/316Date 30.10.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.15 St.15 F-8/3 Islamabad. ",
+    "Latitude" : 33.7166373,
+    "Longitude" : 73.0420036,
+    "MapAddress" : "F-8/3 F 8/3 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tameer-e-Millat Foundation. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/312Date 19.10.1999 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Near PSO Petrol Pump, Murree Road Bhara kahu, Islamabad. ",
+    "Latitude" : 33.7373874,
+    "Longitude" : 73.1746256,
+    "MapAddress" : "Bhara Kahu, Kot Hathyal, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tanzeem-e-Falah-e-Insaniat. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/178Date 2.12.1992 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "70-W Al-Malik Center Blue Area, Islamabad Ph: 2762-37-38 ",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tanzeem-ul-Awan Pakistan ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/7 Date 12.2.1986 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Mango Town Grid Station Road, Bharakau Islamabad ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tayyub Welfare Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/341Date 14.4.2001 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Near F-G. Boys High School, Tarlai, Islamabad. ",
+    "Latitude" : 33.6910643,
+    "Longitude" : 73.1158847,
+    "MapAddress" : "Rawal Dam Rd, Rawal Dam Colony Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "The Castle of Ease ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/457Date 6.12.2004 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Main Sohan Road, Catalyst Building Sohan Village, Islamabad. 0333- 5156483 ",
+    "Latitude" : 33.6602568,
+    "Longitude" : 73.0974024,
+    "MapAddress" : "Sohan Rd, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "The Catalyst ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/471 Date 11.06.2005, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Flat No:12-A, Block-12-C, F-7 Markaz, Jinnah Supper, Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "The Tulip Welfare Society. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/423Date 24.10.2003 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Near Darbar Chan Pir Badshah Pindorian Link Road Khanna Dak Islamabad. ",
+    "Latitude" : 33.6844202,
+    "Longitude" : 73.04788479999999,
+    "MapAddress" : "Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Tullo Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/399Date 10.9.2002 VSWA Ordinance 1961 "
+  },/* {
+    "Address" : "PEC Building, Ataturk Avenue, G-5/2, Islamabad. 051-4432517 ",
+    "Latitude" : 33.7240072,
+    "Longitude" : 73.09307609999999,
+    "MapAddress" : "Ataturk Avenue، G-5, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Al-Noor Welfare Foundation ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/271, Date 15.5.1997, VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Wholesale Fruit Market I-11 Islamabad 051-4445798 ",
+    "Latitude" : 33.6374678,
+    "Longitude" : 73.0288393,
+    "MapAddress" : "I-11/4 I 11/4 I-11, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Flahi Anjuman Wholesale Fruit Merchant. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/137, Date 26.11.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Kot Hathial Shumali B.Kau Ibd. ",
+    "Latitude" : 33.74618,
+    "Longitude" : 73.17463,
+    "MapAddress" : "ICT، Pakistan",
+    "Name" : "Human Welfare & Development Society ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/256, Date 10.04.1996, VSWA Ordinance 1961 "
+  }*/, {
+    "Address" : "Office No.9, Top Floor, Food Market, Near Al-Habib Masjid G-7/3-2, Ibd ",
+    "Latitude" : 33.7126477,
+    "Longitude" : 73.0715178,
+    "MapAddress" : "G-7/3 G 7/3 G-7, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "National Youth Welfare Association. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/134 Date 11.11.1991 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.7 St. 50 F-8/4 Islamabad. ",
+    "Latitude" : 33.708912,
+    "Longitude" : 73.0449551,
+    "MapAddress" : "F-8/4 F 8/4 F-8, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Parent Teachers Association of F.G. Special Education School for Mentally Retarbed Phase-I Ibne-Seena Academy ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/37Date 17.10.1988 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "H.No.25 St.56, F-6/4, Islamabad Ph:822980 ",
+    "Latitude" : 33.7278746,
+    "Longitude" : 73.0833224,
+    "MapAddress" : "F-6/4 F 6/4 F-6, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "Rural Environmental & Afforestation Development Society of Pakistan (READS) ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/196Date 7.3.1993 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "Ibd Stock Exchange Building, 101-E, Fazal-e-Haq Road, Blue Area, Ibd. ",
+    "Latitude" : 33.7172931,
+    "Longitude" : 73.07078,
+    "MapAddress" : "Blue Area, Islamabad, Islamabad Capital Territory, Pakistan",
+    "Name" : "SAF ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/496Date 9/12/2006 VSWA Ordinance 1961 "
+  }, {
+    "Address" : "No.2-B Junaid Plaza Jinah Avenue Blue Area Islamabad. ",
+    "Latitude" : 33.71193360000001,
+    "Longitude" : 73.0611708,
+    "MapAddress" : "Junaid Plaza, Jinnah Ave, Block H, Blue Area, G 7/2 Blue Area, Islamabad, Islamabad Capital Territory 44000, Pakistan",
+    "Name" : "Saviour Welfare Organization. ",
+    "Registration Status(Reg No,& Date & Relevant Law" : "VSWA/ICT/370Date 28.2.2002 VSWA Ordinance 1961 "
+  } ],
+  "date" : "21-Jan-2018",
+  "project_code" : "ICT",
+  "remarks" : "hi",
+  "set_ID" : "ICT_data_201712010001",
+  "type" : "NGOs"
+}
