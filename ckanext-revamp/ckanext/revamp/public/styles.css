@@ -34,3 +34,37 @@ aside li a:hover i { color: #00A6E1; }
 .nav > li {
     padding-left: 5rem;
 }
+
+.nav > li:hover {
+    color: #00A6E1;
+}
+
+.navbar-brand {
+    padding-top: 1rem;
+    padding-bottom: .3125rem;
+    padding-left: 0.3125rem;
+    margin-left: 7rem;
+    font-size: 2rem;
+}
+
+.nav-pills > li > a {
+    border-radius: 4px;
+    font-size: 1.65rem;
+    color: #eee;
+}
+
+.nav > li > a:hover, .nav > li > a:focus, .nav-pills > li.active > a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #00000000;
+}
+
+@media (min-width: 768px)
+.navbar-right {
+    float: right !important;
+    margin-right: 15px;
+}
+
+.container {
+    width: 100%;
+}
